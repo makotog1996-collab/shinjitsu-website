@@ -44,3 +44,11 @@ LINE公式URLへの直リンク、指定メールへのmailto、スマホの相�
 ## 費用
 
 新規契約、有料API、サブスク追加、従量課金の有効化はなし。既存の静的サイトと無料の確認用デプロイを使用し、追加費用は0円。日次note更新のActions設定は変更していない。
+
+## 確認用デプロイとCIの実測結果
+
+- 確認URL：https://6af74a54bef029deeeb08d35--neon-empanada-519607.netlify.app/
+- NetlifyデプロイID：6af74a54bef029deeeb08d35 / ready / published_atなし。既存サイト内の確認用デプロイであり、新しいサイトは作っていない。Netlifyのログイン保護が適用される。
+- 本番の公開デプロイIDは6af742107781419c0e73b29fのままであることを再確認した。
+- 追加版のActions手動実行：https://github.com/makotog1996-collab/shinjitsu-website/actions/runs/43474291689 （成功）。公開RSS取得、追加テストを含む24件、JSON保存を実行した。
+- 本番の日次更新ワークフロー（main）の設定は変更していない。
