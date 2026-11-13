@@ -1,6 +1,6 @@
 # 真実｜日々をアップデート
 
-> このブランチは、制作実績・相談機能の追加版です。本番への反映前に、確認用デプロイと `docs/official-site-extension.md` を参照してください。
+> 制作実績・LINE/メールの相談機能を本番へ公開済みです。最新の公開・復元情報は `DEPLOYMENT_STATUS.md` を参照してください。
 
 知ることから、毎日はもっと良くなる。
 
@@ -84,7 +84,7 @@ Netlify Free・自動チャージ無効・超過課金無効をAPIで確認し�
 
 Netlify Freeは無制限ではなく、公式料金表では月300クレジット、本番デプロイ15クレジット/回です。無料枠の上限では停止する場合があるため、有料化やauto rechargeの有効化をせずに運用します。
 
-単体テスト17件、実際の公開サイトのPC・スマホ幅、4つのnote・3つのSNS・記事リンク、画像、JSON取得と画面反映を確認しました。詳細と実施方法はDEPLOYMENT_STATUS.mdおよびdocs/live-verification.jsonに記録しています。
+単体テスト24件、実際の公開サイトのPC・スマホ幅、4つのnote・3つのSNS・記事リンク、画像、JSON取得と画面反映を確認しました。詳細と実施方法はDEPLOYMENT_STATUS.mdおよびdocs/live-verification.jsonに記録しています。
 
 初回制作時の記録はdocs/initial-delivery-report.md、初期設定の参考手順はdocs/setup-reference.mdに保全しています。
 

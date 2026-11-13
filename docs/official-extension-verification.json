@@ -1,8 +1,8 @@
 {
   "draftUrl": "https://6af74a54bef029deeeb08d35--neon-empanada-519607.netlify.app/",
   "draftDeployId": "6af74a54bef029deeeb08d35",
-  "productionChanged": false,
-  "productionDeployId": "6af742107781419c0e73b29f",
+  "productionChanged": true,
+  "productionDeployId": "6af74a54bef029deeeb08d35",
   "backupTag": "backup-before-contact-extension-20261114",
   "workflowRun": "https://github.com/makotog1996-collab/shinjitsu-website/actions/runs/43474291689",
   "unitTests": 24,
@@ -19,5 +19,112 @@
     "GA4 property receipt not verified",
     "Email and LINE messages were not sent",
     "Legal instruction was truncated; statutory business disclosures need transaction-specific confirmation"
-  ]
+  ],
+  "publishedSiteUrl": "https://neon-empanada-519607.netlify.app",
+  "previousDeployId": "6af742107781419c0e73b29f",
+  "publishedAt": "2026-11-13T17:46:30.016Z",
+  "productionVerification": [
+    "Actual hosted HTML/CSS/JS, approved branding, 4 names, 6 articles, all original SNS links: PASS",
+    "Browser fetched actual public GitHub JSON with CORS and reflected it in DOM/localStorage: PASS",
+    "All article thumbnails loaded from actual note image URLs: PASS",
+    "1440px desktop, 390px/320px mobile layouts without overflow: PASS",
+    "Theme navigation and expandable recommended articles: PASS",
+    "Published LINE/mailto routes, 8 services, 2 real works, 3 steps, 5 interactive FAQs, no dummy form: PASS",
+    "Privacy route, renewed brand, no JavaScript exceptions: PASS",
+    "OGP image served as valid PNG: PASS"
+  ],
+  "transport": "Real HTTPS via urllib with supplied CA verification, forwarded to isolated Chromium; no TLS checks disabled",
+  "externalLinks": [
+    {
+      "url": "https://lin.ee/W3766xA",
+      "status": 200,
+      "finalUrl": "https://line.me/R/ti/p/@hoi1576m?ts=11140213&oat_content=url"
+    },
+    {
+      "url": "https://note.com/crisp_auk8183",
+      "status": 200,
+      "finalUrl": "https://note.com/crisp_auk8183"
+    },
+    {
+      "url": "https://note.com/rosy_snake7477",
+      "status": 200,
+      "finalUrl": "https://note.com/rosy_snake7477"
+    },
+    {
+      "url": "https://note.com/brave_violet386",
+      "status": 200,
+      "finalUrl": "https://note.com/brave_violet386"
+    },
+    {
+      "url": "https://note.com/shinjitsu_saigen",
+      "status": 200,
+      "finalUrl": "https://note.com/shinjitsu_saigen"
+    },
+    {
+      "url": "https://note.com/crisp_auk8183/n/n0347d98ecc69",
+      "status": 200,
+      "finalUrl": "https://note.com/crisp_auk8183/n/n0347d98ecc69"
+    },
+    {
+      "url": "https://note.com/crisp_auk8183/n/nf69c9fbe466a",
+      "status": 200,
+      "finalUrl": "https://note.com/crisp_auk8183/n/nf69c9fbe466a"
+    },
+    {
+      "url": "https://note.com/brave_violet386/n/n1e12ca80a32f",
+      "status": 200,
+      "finalUrl": "https://note.com/brave_violet386/n/n1e12ca80a32f"
+    },
+    {
+      "url": "https://note.com/brave_violet386/n/n6a2810eccb71",
+      "status": 200,
+      "finalUrl": "https://note.com/brave_violet386/n/n6a2810eccb71"
+    },
+    {
+      "url": "https://note.com/brave_violet386/n/nc8fb67c2ecac",
+      "status": 200,
+      "finalUrl": "https://note.com/brave_violet386/n/nc8fb67c2ecac"
+    },
+    {
+      "url": "https://note.com/brave_violet386/n/ne1956734f676",
+      "status": 200,
+      "finalUrl": "https://note.com/brave_violet386/n/ne1956734f676"
+    },
+    {
+      "url": "https://note.com/crisp_auk8183/n/nc7b339d78647",
+      "status": 200,
+      "finalUrl": "https://note.com/crisp_auk8183/n/nc7b339d78647"
+    },
+    {
+      "url": "https://note.com/brave_violet386/n/nf6f0cf8bc6fd",
+      "status": 200,
+      "finalUrl": "https://note.com/brave_violet386/n/nf6f0cf8bc6fd"
+    },
+    {
+      "url": "https://note.com/rosy_snake7477/n/n9746ca8d3901",
+      "status": 200,
+      "finalUrl": "https://note.com/rosy_snake7477/n/n9746ca8d3901"
+    },
+    {
+      "url": "https://x.com/abp12f",
+      "status": 200,
+      "finalUrl": "https://x.com/abp12f"
+    },
+    {
+      "url": "https://www.tiktok.com/@otokomigaki.lab2",
+      "status": 200,
+      "finalUrl": "https://www.tiktok.com/@otokomigaki.lab2"
+    },
+    {
+      "url": "https://www.instagram.com/shinjitsu_aiai/",
+      "status": 200,
+      "finalUrl": "https://www.instagram.com/shinjitsu_aiai/"
+    },
+    {
+      "url": "https://midnight-room-makoto.netlify.app/",
+      "status": 200,
+      "finalUrl": "https://midnight-room-makoto.netlify.app/"
+    }
+  ],
+  "mainWorkflowRun": "https://github.com/makotog1996-collab/shinjitsu-website/actions/runs/43476396680"
 }
