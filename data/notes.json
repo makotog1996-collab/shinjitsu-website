@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T16:56:37.531229+00:00",
+  "checkedAt": "2026-11-13T17:35:33.200668+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-13T16:56:37.531229+00:00",
+      "fetchedAt": "2026-11-13T17:35:33.200668+00:00",
       "articles": [
         {
           "title": "ChatGPTを使っているのに、答えが浅い人へ。実は「質問の仕方」でここまで変わる",
@@ -188,7 +188,7 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-13T16:56:37.531229+00:00",
+      "fetchedAt": "2026-11-13T17:35:33.200668+00:00",
       "articles": [
         {
           "title": "会話が続く人は「質問」が上手いわけじゃない。実は返し方が違う",
@@ -357,8 +357,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-13T16:56:37.531229+00:00",
+      "fetchedAt": "2026-11-13T17:35:33.200668+00:00",
       "articles": [
+        {
+          "title": "男性の美容の悩み1位は「シミ・くすみ」。肌を変えたい男が最初にやるべき3つのこと",
+          "url": "https://note.com/brave_violet386/n/n511b3f0e45d8",
+          "publishedAt": "2026-11-13T16:55:08+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335782893/rectangle_large_type_2_d7575e9efc70d69226a2b485aa48ae2d.jpg?width=800",
+          "summary": "髪型を整えた。 服装にも気を遣っている。 でも、鏡を見るとなんとなく疲れて見える。 そんなとき、気になってくるのが肌です。 シミ、くすみ、乾燥、毛穴。 男磨きを始めようと思っても、スキンケアの商品が多すぎて何から手をつければいいかわからない。 今回は、そんな人に向けた記事です。 ■ 実は男性の6割以上が美容に悩んでいる 2025年5月、くふう生活者総合研究所…"
+        },
         {
           "title": "筋トレ初心者は何から鍛える？ 2026年の研究から考える、最初の全身トレーニング",
           "url": "https://note.com/brave_violet386/n/n1e12ca80a32f",
@@ -526,13 +533,6 @@
           "publishedAt": "2026-11-04T23:08:11+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/332349080/rectangle_large_type_2_ba348b907cc4d252fe880a861eb7aadc.jpg?width=800",
           "summary": "筋トレを始めたばかりの人に聞きたい。 「5回ジムに行ったら、身体は変わると思う？」 おそらく、たった5回では何も変わらないと思う人も多いはず。 でも、実はそうとも限らない。 もちろん、5回の筋トレでいきなりムキムキになるわけじゃない。 ただ、見た目には現れなくても、身体の内側では変化が始まっている可能性がある。 今回は、筋トレを5回続けた段階で何が期待できる…"
-        },
-        {
-          "title": "【男磨き】清潔感のある男は「爪」が違う。今日から3分でできる手元の整え方",
-          "url": "https://note.com/brave_violet386/n/n49274195b5df",
-          "publishedAt": "2026-11-04T23:00:33+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332347369/rectangle_large_type_2_8f8ded4b69b635c69b71517015226fdd.jpg?width=800",
-          "summary": "男磨きを始めると、まず気になるのが髪型、肌、服装。 もちろん、どれも大切。 でも、意外と見落としがちな場所がある。 それが「爪」。 スマホを操作するとき、財布からお金を出すとき、誰かに物を渡すとき。 自分が思っている以上に、手元は人の目に入る。 今回は、お金をほとんどかけず、今日から実践できる爪の整え方を紹介します。 ーーーー 1．爪は短ければいいわけじゃな…"
         }
       ],
       "status": "ok"
@@ -540,8 +540,22 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-13T16:56:37.531229+00:00",
+      "fetchedAt": "2026-11-13T17:35:33.200668+00:00",
       "articles": [
+        {
+          "title": "食費が高すぎる人へ。我慢せずに食費を減らす「1週間の買い物ルール」",
+          "url": "https://note.com/shinjitsu_saigen/n/n623f42028c52",
+          "publishedAt": "2026-11-13T16:56:39+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335783058/rectangle_large_type_2_eeb6967c45c7f9134eb5371dd1ca3389.jpg?width=800",
+          "summary": "スーパーに行くたび、思いませんか？ 「前より食べ物が高くなっている」 同じような物を買っているはずなのに、会計金額が増えている。 節約しようと思っても、食事は毎日のこと。 安いものばかり食べて、健康を犠牲にするわけにもいきません。 そこで今回は、食べる量を無理に減らすのではなく、買い方を変えて食費を見直す方法を紹介します。 ■ 物価高で、最も負担を感じている…"
+        },
+        {
+          "title": "職場の人間関係に疲れた人へ。無理に仲良くならなくても、心を守る会話術5つ",
+          "url": "https://note.com/shinjitsu_saigen/n/n93da322b3ac2",
+          "publishedAt": "2026-11-13T16:54:04+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335782823/rectangle_large_type_2_2f597750dbbb653ef207c76148be2eee.jpg?width=800",
+          "summary": "職場に、話すだけで疲れてしまう人はいませんか？ ・いつも機嫌が悪い上司 ・言い方がきつい同僚 ・何を考えているかわからない人 ・断ると嫌な顔をしてくる人 仕事そのものより、人間関係のほうが疲れる。 そんな日もあると思います。 実際、博報堂生活総合研究所の2026年調査では、ストレスを感じる理由の1位が「職場（学校）での人間関係」で、39.8％でした。 これは…"
+        },
         {
           "title": "知らないと損するかも。社会人が一度は確認したいお金の制度5選",
           "url": "https://note.com/shinjitsu_saigen/n/ne66ef1629a4f",
@@ -702,20 +716,6 @@
           "publishedAt": "2026-11-01T21:54:43+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/331142056/rectangle_large_type_2_d7cd4649ee667ca1e2425d6967875077.jpg?width=800",
           "summary": "コンビニって、何気なく利用することが多いですよね。 飲み物を買ったり、お昼ご飯を買ったり。 でも、いつも使っているコンビニのアプリに、意外と知られていないお得なキャンペーンがあるんです。 今回調べていて気になったのが、ファミリーマートの「ファミペイ」。 なんと11月2日から、毎日1回挑戦できるポイント抽選が始まっています。 しかも、最大500円相当のファミマ…"
-        },
-        {
-          "title": "【知らなかった】ローソンでコーヒー1杯が無料に。アプリを確認してみてほしい",
-          "url": "https://note.com/shinjitsu_saigen/n/n3e6d7222434a",
-          "publishedAt": "2026-10-31T23:08:11+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/330767382/rectangle_large_type_2_49be564eaabcf360aea7ebd69208d74c.jpg?width=800",
-          "summary": "コンビニでコーヒーを買うこと、ありませんか？ 自分もこういう情報を調べていて、思わず「これ、知らなかった」となったキャンペーンを見つけました。 ローソンの公式アプリで、条件を満たすとマチカフェのコーヒー1杯が無料でもらえるんです。 しかも、何か商品を購入する必要はありません。 ーーーーーーーーーー 何をすれば無料になる？ やることはシンプルです。 ① ローソ…"
-        },
-        {
-          "title": "【11月3日まで】ココイチのアプリが進化。レシートを捨てると損する時代が来た。",
-          "url": "https://note.com/shinjitsu_saigen/n/nf12baa6cd7b9",
-          "publishedAt": "2026-10-31T22:57:05+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/330763547/rectangle_large_type_2_a0afa42aad3385ceffd6d532520ea2b9.jpg?width=800",
-          "summary": "2026年11月1日 普段、飲食店でもらったレシートってどうしていますか？ 自分は、特に必要がなければ捨ててしまうことが多いです。 でも今回、ココイチの公式情報を調べていて、ちょっと面白い仕組みを見つけました。 なんと2026年11月4日から、ココイチの公式アプリに新しいポイント制度が登場します。 しかも、11月3日までに登録すると事前登録特典もあるとのこと…"
         }
       ],
       "status": "ok"
