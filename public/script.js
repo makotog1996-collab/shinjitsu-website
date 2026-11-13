@@ -97,7 +97,11 @@
     try { render(await json('/data/notes.json'),config,'local'); } catch { /* Keep previous successful snapshot. */ }
     const remote = config.remoteDataUrl;
     if (typeof remote !== 'string' || !/^https:\/\/raw\.githubusercontent\.com\/[\w.-]+\/[\w.-]+\/[^\s]+\/data\/notes\.json$/.test(remote)) return;
-    try { render(await json(remote),config,'remote'); }
+    // Refresh the public CDN cache key every five minutes. A mutable branch URL
+    // may otherwise keep serving the previous workflow's JSON despite no-cache.
+    const refreshUrl = new URL(remote);
+    refreshUrl.searchParams.set('v', String(Math.floor(Date.now() / 300000)));
+    try { render(await json(refreshUrl.href),config,'remote'); }
     catch { if (status) status.textContent = '自動更新に接続できないため、保存済みの記事を表示しています。最新の投稿は各noteからご確認ください。'; }
   }
   document.querySelectorAll('.article-image img').forEach(img=>img.addEventListener('error',()=>img.remove(),{once:true}));

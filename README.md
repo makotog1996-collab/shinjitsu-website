@@ -94,7 +94,7 @@ NetlifyのUsage & billingでFreeプランを確認し、有料プランへの変
 2. `config/site.json` の `remoteDataUrl` を次の形式に設定します。`OWNER/REPO` は実際のものへ置き換えます。
 
    ```
-   https://raw.githubusercontent.com/OWNER/REPO/HEAD/data/notes.json
+   https://raw.githubusercontent.com/OWNER/REPO/main/data/notes.json
    ```
 
 3. `python3 scripts/build.py` を実行し、生成された `public/data/site.json` にこのURLが入ったことを確認します。これによりNetlifyへ手動アップロードする場合もGitHubから更新を受け取れます。
@@ -157,3 +157,5 @@ GitHub保存とActionsの有効化が完了した後は、リポジトリの **A
 Actionsを手動で無効にした場合や長期無活動で停止した場合は、同じワークフローの画面で再有効化してRun workflowを実行します。
 
 `config/site.json` のURL・ジャンルや `socials` を変更した場合、カード構造を変えるため一度だけビルド・公開が必要です。表示名・新着記事の更新には再公開不要です。アフィリエイトや商品は実在する掲載先が確定してから `offers` に追加し、広告表記を付けます。
+
+配信URLは実際のデフォルトブランチ `main` を指定しています。初回手動実行では `HEAD` 別名のJSONに古い内容が残ったため、`main` とActionsのコミット内容が一致することを確認しました。画面側も5分単位のキャッシュキーを付けて再取得します。

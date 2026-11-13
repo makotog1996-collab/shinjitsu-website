@@ -51,7 +51,7 @@ class NotesTests(unittest.TestCase):
             self.assertFalse(valid_profile(url))
     def test_remote_source_auto_configuration(self):
         with patch.dict('os.environ',{'REPOSITORY_URL':'https://github.com/owner/project.git'}):
-            self.assertEqual(remote_url({}),'https://raw.githubusercontent.com/owner/project/HEAD/data/notes.json')
+            self.assertEqual(remote_url({}),'https://raw.githubusercontent.com/owner/project/main/data/notes.json')
     def test_remote_url_validation(self):
         with self.assertRaises(ValueError):remote_url({'remoteDataUrl':'https://untrusted.example/data/notes.json'})
     def test_real_snapshot_contains_configured_profiles(self):

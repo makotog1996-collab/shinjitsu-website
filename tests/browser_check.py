@@ -50,17 +50,17 @@ with sync_playwright() as p:
  # Remote refresh simulates the next successful daily update, without changing note.
  remote='https://raw.githubusercontent.com/example/site/HEAD/data/notes.json'
  cfg={**config,'remoteDataUrl':remote};changed=copy.deepcopy(data);changed['notes'][0]['displayName']='名前変更のテスト <script>alert(1)</script>';changed['notes'][0]['fetchedAt']='2099-01-01T00:00:00+00:00'
- ctx=browser.new_context();pg=ctx.new_page();pg.route('**/data/site.json',lambda r:r.fulfill(json=cfg));pg.route(remote,lambda r:r.fulfill(json=changed));pg.goto(base,wait_until='networkidle')
+ ctx=browser.new_context();pg=ctx.new_page();pg.route('**/data/site.json',lambda r:r.fulfill(json=cfg));pg.route(remote+'?*',lambda r:r.fulfill(json=changed));pg.goto(base,wait_until='networkidle')
  assert pg.locator('[data-note-name]').first.text_content()==changed['notes'][0]['displayName']
  assert pg.locator('[data-note-name] script').count()==0
  results.append('Remote name change automatically reflected as text, without HTML execution: PASS')
  # A failed remote request preserves browser cache across reloads.
- pg.unroute(remote);pg.route(remote,lambda r:r.abort());pg.reload(wait_until='networkidle')
+ pg.unroute(remote+'?*');pg.route(remote+'?*',lambda r:r.abort());pg.reload(wait_until='networkidle')
  assert pg.locator('[data-note-name]').first.text_content()==changed['notes'][0]['displayName']
  results.append('Remote outage after successful update: latest cached name preserved: PASS');ctx.close()
  # Foreign/malicious article URL must never replace the site links.
  malicious=copy.deepcopy(data);malicious['notes'][0]['articles']=[{'url':'javascript:alert(1)','title':'MALICIOUS','publishedAt':'2099-01-01T00:00:00+00:00'}]
- ctx=browser.new_context();pg=ctx.new_page();pg.route('**/data/site.json',lambda r:r.fulfill(json=cfg));pg.route(remote,lambda r:r.fulfill(json=malicious));pg.goto(base,wait_until='networkidle');assert pg.locator('a[href^="javascript:"]').count()==0
+ ctx=browser.new_context();pg=ctx.new_page();pg.route('**/data/site.json',lambda r:r.fulfill(json=cfg));pg.route(remote+'?*',lambda r:r.fulfill(json=malicious));pg.goto(base,wait_until='networkidle');assert pg.locator('a[href^="javascript:"]').count()==0
  results.append('Malicious external article URL rejected: PASS');ctx.close()
  # Share clipboard fallback: deterministic mock, no public-site traffic.
  ctx=browser.new_context();pg=ctx.new_page();pg.add_init_script("Object.defineProperty(navigator,'share',{value:undefined});Object.defineProperty(navigator,'clipboard',{value:{writeText:async url=>{window.copiedUrl=url}}});")

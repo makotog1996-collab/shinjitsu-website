@@ -38,7 +38,7 @@ def remote_url(config):
             repo = subprocess.check_output(['git','remote','get-url','origin'],cwd=ROOT,stderr=subprocess.DEVNULL,text=True).strip()
             match = re.fullmatch(r'(?:https://github.com/|git@github.com:)([\w.-]+/[\w.-]+?)(?:\.git)?', repo)
         except (subprocess.CalledProcessError,FileNotFoundError): pass
-    return 'https://raw.githubusercontent.com/'+match[1]+'/HEAD/data/notes.json' if match else ''
+    return 'https://raw.githubusercontent.com/'+match[1]+'/main/data/notes.json' if match else ''
 def build():
     config = json.loads((ROOT/'config/site.json').read_text())
     try: cache = json.loads((ROOT/'data/notes.json').read_text())
