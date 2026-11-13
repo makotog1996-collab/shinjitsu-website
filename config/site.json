@@ -3,22 +3,76 @@
   "tagline": "知ることから、毎日はもっと良くなる。",
   "description": "AI、心理学、会話術、自分磨き、暮らしのヒント。気になる情報を、ひとつの場所に。",
   "url": "https://neon-empanada-519607.netlify.app",
-  "remoteDataUrl": "",
+  "remoteDataUrl": "https://raw.githubusercontent.com/makotog1996-collab/shinjitsu-website/HEAD/data/notes.json",
   "notes": [
-    {"url":"https://note.com/crisp_auk8183","category":"AI・テクノロジー","description":"AIをもっと身近に。仕事や日常に活かせる、新しい使い方を。","symbol":"spark","color":"sage"},
-    {"url":"https://note.com/rosy_snake7477","category":"心理学・会話術・人間関係","description":"心のしくみと、伝わる言葉。人との関係が少しラクになるヒント。","symbol":"dialogue","color":"blue"},
-    {"url":"https://note.com/brave_violet386","category":"自分磨き・健康・習慣","description":"健やかな体と、小さな習慣。昨日より心地よい自分をつくる。","symbol":"leaf","color":"peach"},
-    {"url":"https://note.com/shinjitsu_saigen","category":"暮らし・お得情報・制度","description":"知って選ぶ、賢い暮らし。毎日の困りごとを、ちょっと軽く。","symbol":"home","color":"sand"}
+    {
+      "url": "https://note.com/crisp_auk8183",
+      "category": "AI・テクノロジー",
+      "description": "AIをもっと身近に。仕事や日常に活かせる、新しい使い方を。",
+      "symbol": "spark",
+      "color": "sage"
+    },
+    {
+      "url": "https://note.com/rosy_snake7477",
+      "category": "心理学・会話術・人間関係",
+      "description": "心のしくみと、伝わる言葉。人との関係が少しラクになるヒント。",
+      "symbol": "dialogue",
+      "color": "blue"
+    },
+    {
+      "url": "https://note.com/brave_violet386",
+      "category": "自分磨き・健康・習慣",
+      "description": "健やかな体と、小さな習慣。昨日より心地よい自分をつくる。",
+      "symbol": "leaf",
+      "color": "peach"
+    },
+    {
+      "url": "https://note.com/shinjitsu_saigen",
+      "category": "暮らし・お得情報・制度",
+      "description": "知って選ぶ、賢い暮らし。毎日の困りごとを、ちょっと軽く。",
+      "symbol": "home",
+      "color": "sand"
+    }
   ],
   "socials": [
-    {"name":"X","url":"https://x.com/abp12f","handle":"@abp12f","description":"日々の気づきや、発信の最新情報を。","symbol":"x"},
-    {"name":"TikTok","url":"https://www.tiktok.com/@otokomigaki.lab2","handle":"@otokomigaki.lab2","description":"会話のヒントを、ショート動画で。","symbol":"music"},
-    {"name":"Instagram","url":"https://www.instagram.com/shinjitsu_aiai/","handle":"@shinjitsu_aiai","description":"AI活用のアイデアを、気軽にチェック。","symbol":"camera"}
+    {
+      "name": "X",
+      "url": "https://x.com/abp12f",
+      "handle": "@abp12f",
+      "description": "日々の気づきや、発信の最新情報を。",
+      "symbol": "x"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://www.tiktok.com/@otokomigaki.lab2",
+      "handle": "@otokomigaki.lab2",
+      "description": "会話のヒントを、ショート動画で。",
+      "symbol": "music"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/shinjitsu_aiai/",
+      "handle": "@shinjitsu_aiai",
+      "description": "AI活用のアイデアを、気軽にチェック。",
+      "symbol": "camera"
+    }
   ],
   "recommended": [
-    {"url":"https://note.com/crisp_auk8183/n/nc7b339d78647","title":"【衝撃】プログラミングができない僕が、ChatGPTで自分専用サイトを公開できた話","category":"AI・テクノロジー"},
-    {"url":"https://note.com/brave_violet386/n/nf6f0cf8bc6fd","title":"休日の過ごし方で差がつく。男の魅力を上げる5つの習慣","category":"自分磨き・健康・習慣"},
-    {"url":"https://note.com/rosy_snake7477/n/n9746ca8d3901","title":"なぜか人に好かれる人は「話し上手」ではなかった。心理学が明かした意外な共通点","category":"心理学・会話術・人間関係"}
+    {
+      "url": "https://note.com/crisp_auk8183/n/nc7b339d78647",
+      "title": "【衝撃】プログラミングができない僕が、ChatGPTで自分専用サイトを公開できた話",
+      "category": "AI・テクノロジー"
+    },
+    {
+      "url": "https://note.com/brave_violet386/n/nf6f0cf8bc6fd",
+      "title": "休日の過ごし方で差がつく。男の魅力を上げる5つの習慣",
+      "category": "自分磨き・健康・習慣"
+    },
+    {
+      "url": "https://note.com/rosy_snake7477/n/n9746ca8d3901",
+      "title": "なぜか人に好かれる人は「話し上手」ではなかった。心理学が明かした意外な共通点",
+      "category": "心理学・会話術・人間関係"
+    }
   ],
   "offers": []
 }

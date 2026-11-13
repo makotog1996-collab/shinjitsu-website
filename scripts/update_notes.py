@@ -9,9 +9,33 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
+from html.parser import HTMLParser
 
 ROOT = Path(__file__).resolve().parents[1]
 MAX_BYTES = 3 * 1024 * 1024
+
+class SummaryParser(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.parts = []
+        self.hidden = 0
+
+    def handle_starttag(self, tag, attrs):
+        if tag in ('script', 'style'): self.hidden += 1
+        elif tag in ('p', 'br', 'div', 'li'): self.parts.append(' ')
+
+    def handle_endtag(self, tag):
+        if tag in ('script', 'style'): self.hidden = max(0, self.hidden - 1)
+        elif tag in ('p', 'div', 'li'): self.parts.append(' ')
+
+    def handle_data(self, data):
+        if not self.hidden: self.parts.append(data)
+
+def plain_summary(raw):
+    parser = SummaryParser()
+    parser.feed(raw or '')
+    text = ' '.join(''.join(parser.parts).split())
+    return text[:180] + ('…' if len(text) > 180 else '')
 
 def valid_profile(url):
     return isinstance(url, str) and re.fullmatch(r'https://note\.com/[A-Za-z0-9_]+', url) is not None
@@ -53,7 +77,8 @@ def parse_rss(raw, url):
         except (ValueError, TypeError, AttributeError): continue
         image = (item.findtext('{http://search.yahoo.com/mrss/}thumbnail') or '').strip()
         if not re.match(r'^https://assets\.st-note\.com/', image): image = ''
-        articles.append({'title':title[:500], 'url':link, 'publishedAt':date, 'image':image})
+        summary = plain_summary(item.findtext('description'))
+        articles.append({'title':title[:500], 'url':link, 'publishedAt':date, 'image':image, 'summary':summary})
     return name, articles
 
 def update(config, previous, fetch=fetch_rss, now=None):

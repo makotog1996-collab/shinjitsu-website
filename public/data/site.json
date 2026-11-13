@@ -14,7 +14,7 @@
       "description": "心のしくみと、伝わる言葉。人との関係が少しラクになるヒント。",
       "symbol": "dialogue",
       "color": "blue",
-      "displayName": "真実｜日常の気づきと心理学"
+      "displayName": "真実｜会話と人間関係の処方箋"
     },
     {
       "url": "https://note.com/brave_violet386",
@@ -22,7 +22,7 @@
       "description": "健やかな体と、小さな習慣。昨日より心地よい自分をつくる。",
       "symbol": "leaf",
       "color": "peach",
-      "displayName": "MIGAKU｜自分磨きの記録"
+      "displayName": "真実｜MIGAKU・30代からの男磨き"
     },
     {
       "url": "https://note.com/shinjitsu_saigen",
@@ -33,5 +33,5 @@
       "displayName": "真実｜暮らしの困りごとと時短"
     }
   ],
-  "remoteDataUrl": ""
+  "remoteDataUrl": "https://raw.githubusercontent.com/makotog1996-collab/shinjitsu-website/HEAD/data/notes.json"
 }

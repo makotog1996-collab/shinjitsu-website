@@ -6,7 +6,7 @@ import unittest
 from unittest.mock import patch
 ROOT=Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
-from update_notes import parse_rss, update, valid_profile
+from update_notes import parse_rss, update, valid_profile, plain_summary
 from build import remote_url
 URL='https://note.com/crisp_auk8183'
 def rss(name='変更後の表示名',url=URL):
@@ -54,7 +54,17 @@ class NotesTests(unittest.TestCase):
             self.assertEqual(remote_url({}),'https://raw.githubusercontent.com/owner/project/HEAD/data/notes.json')
     def test_remote_url_validation(self):
         with self.assertRaises(ValueError):remote_url({'remoteDataUrl':'https://untrusted.example/data/notes.json'})
-    def test_real_snapshot_contains_four_names(self):
-        data=json.loads((ROOT/'data/notes.json').read_text());self.assertEqual(len(data['notes']),4)
+    def test_real_snapshot_contains_configured_profiles(self):
+        data=json.loads((ROOT/'data/notes.json').read_text())
+        config=json.loads((ROOT/'config/site.json').read_text())
+        self.assertEqual({n['url'] for n in data['notes']},{n['url'] for n in config['notes']})
         self.assertTrue(all(n['displayName'] and n['fetchedAt'] and n['articles'] for n in data['notes']))
+    def test_summary_strips_markup_and_script(self):
+        self.assertEqual(plain_summary('<p>公開された概要 &amp; ヒント</p><script>bad()</script><p>次の段落</p>'),'公開された概要 & ヒント 次の段落')
+    def test_summary_is_bounded(self):
+        self.assertEqual(len(plain_summary('あ'*500)),181)
+        self.assertEqual(plain_summary(None),'')
+    def test_description_becomes_plain_summary(self):
+        raw=rss().replace(b'</item>', '<description><![CDATA[<p>公開RSSの記事概要</p>]]></description></item>'.encode())
+        self.assertEqual(parse_rss(raw,URL)[1][0]['summary'],'公開RSSの記事概要')
 if __name__=='__main__':unittest.main()

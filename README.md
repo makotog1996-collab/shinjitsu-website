@@ -1,6 +1,6 @@
 # 真実｜日々をアップデート
 
-既存公開サイト `https://neon-empanada-519607.netlify.app/` を調査して再構築した、ビルド可能な静的サイトです。**今回、本番サイトの上書き・新サイトの公開・新サービスの契約はしていません。**
+既存公開サイト `https://neon-empanada-519607.netlify.app/` の承認済みデザインを引き継ぐ静的サイトです。最新の公開・接続状況は `DEPLOYMENT_STATUS.md` を確認してください。初回納品時の記録は `docs/initial-delivery-report.md` に保全しています。
 
 元のGitHubリポジトリ、Netlify内部設定、Functionsのソースは提供されていません。公開されているHTML・CSS・JS・画像・プライバシーページ等を別途保存し、その範囲で既存機能を引き継ぎました。これは元リポジトリを編集したものではありません。
 
@@ -15,7 +15,7 @@
 - `scripts/build.py`：キャッシュと設定からHTMLを生成。ネットワーク通信なし。
 - `data/notes.json`：前回の正常な取得内容を含むキャッシュ。手で表示名を書き換える運用は不要です。
 - `.github/workflows/update-notes.yml`：毎日03:17（日本時間）の無料更新経路。
-- `tests/test_notes.py`：取得失敗、名前変更、URL検証などの14テスト。
+- `tests/test_notes.py`：取得失敗、名前変更、URL検証などの17テスト。
 - `AGENTS.md`：次回Codexで修正する際の作業方針。
 - `netlify.toml`：既存Netlifyサイト用の公開ディレクトリ・ビルド設定。
 
@@ -37,7 +37,7 @@ note.com/<アカウント>/rss
   → カードの表示名と最新記事だけ更新
 ```
 
-表示名はRSSの `channel/title`、記事は `item/title/link/pubDate` を利用します。各RSSの `channel/link` が設定URLと同じことを検証します。記事本文・非公開API・ログイン情報は利用しません。RSS取得処理とHTML生成・表示処理を分離しています。noteの実際の名前を変更する処理はありません。
+表示名はRSSの `channel/title`、記事は `item/title/link/pubDate` を利用します。`description` からHTMLを除去した180文字までの概要もJSONの `summary` に保存します。各RSSの `channel/link` が設定URLと同じことを検証します。記事本文・非公開API・ログイン情報は利用しません。RSS取得処理とHTML生成・表示処理を分離しています。noteの実際の名前を変更する処理はありません。
 
 現時点の名称は `data/notes.json` に取得結果として記録しています。`MIGAKU｜自分磨きの記録` はnote側の現在名なので自分磨きカードにのみ表示し、サイト全体の名称には使いません。
 
@@ -147,3 +147,13 @@ GitHub連携での初回ビルドは `REPOSITORY_URL` またはgit originからR
 - note robots.txt：https://note.com/robots.txt （一般User-agentで今回のRSSパスに禁止指定なし。robots.txtだけで利用規約の全面的な適合を保証するものではありません。公開RSSを少頻度で取得し本文は転載しません。）
 
 有料API、Netlify Functions/Blobs/データベース、外部有料プラグイン、クレジットカード登録、従量課金の有効化は行っていません。表示用イラストはSVG、フォントは端末の日本語システムフォントを利用します。
+
+## 日常の管理（パソコンでコマンド入力せずに更新）
+
+GitHub保存とActionsの有効化が完了した後は、リポジトリの **Actions → Update public note RSS cache → Run workflow → Run workflow** で手動更新できます。緑のチェックが出た後、サイトを再読み込みしてください。通常は毎日03:17 JSTに同じ処理が自動実行され、Netlifyを操作する必要はありません。
+
+動作確認には `data/notes.json` の `checkedAt` と各アカウントの `fetchedAt` を見ます。`checkedAt` だけが更新され `status: cached` のままの場合、RSS取得に失敗して以前の情報を保持しています。原因を解消して手動実行してください。成功してもRaw JSONの配信キャッシュにより数分かかる場合があります。
+
+Actionsを手動で無効にした場合や長期無活動で停止した場合は、同じワークフローの画面で再有効化してRun workflowを実行します。
+
+`config/site.json` のURL・ジャンルや `socials` を変更した場合、カード構造を変えるため一度だけビルド・公開が必要です。表示名・新着記事の更新には再公開不要です。アフィリエイトや商品は実在する掲載先が確定してから `offers` に追加し、広告表記を付けます。
