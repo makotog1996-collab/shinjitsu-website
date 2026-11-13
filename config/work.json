@@ -1,0 +1,45 @@
+{
+  "contact": {
+    "lineName": "真実｜なんでも相談窓口",
+    "lineUrl": "https://lin.ee/W3766xA",
+    "lineId": "@hoi1576m",
+    "email": "makotog1996@gmail.com",
+    "heading": "小さな疑問から、お仕事のご依頼まで。",
+    "description": "AI・Web制作・SNS・パソコンのことなど、ちょっとした『これできる？』という相談も大歓迎です。内容がまとまっていなくても、お気軽にご連絡ください。"
+  },
+  "about": {
+    "name": "真実",
+    "paragraphs": [
+      "はじめまして、真実です。AIとWeb制作を学びながら、自分で手を動かし、作品を制作・公開している個人です。SNSやnoteでは、学んだことや日々の気づきも発信しています。",
+      "Webサイトやアプリの試作、画像・文章・動画づくり、作業の効率化まで。まずは小さく試して、使う人にとって分かりやすい形にすることを大切にしています。",
+      "できることも、まだ難しいことも正直にお伝えし、ご相談の内容に一つずつ向き合います。小さな『こうしたい』から、気軽にお聞かせください。"
+    ],
+    "activities": ["AI活用", "Webサイト制作", "Webアプリの試作", "SNS運用", "記事制作", "画像制作", "動画制作", "作業効率化"]
+  },
+  "services": [
+    {"id":"web","title":"Webサイト・リンク集・LP制作","description":"伝えたい内容や目的を整理し、スマホでも見やすいページづくりをご相談いただけます。","symbol":"home"},
+    {"id":"prototype","title":"Webアプリ・ゲームなどの試作","description":"アイデアを小さく形に。ブラウザで動く試作品から、使い方や体験を一緒に考えます。","symbol":"spark"},
+    {"id":"ai","title":"ChatGPT・CodexなどのAI活用サポート","description":"仕事や日常での使い方、まず試したいことを伺い、取り組める方法をご案内します。","symbol":"dialogue"},
+    {"id":"visual","title":"SNS用画像・バナー・アイコン制作","description":"発信内容や用途に合わせた、画像の構成や見せ方、制作についてご相談いただけます。","symbol":"camera"},
+    {"id":"writing","title":"記事・文章・コンテンツ制作","description":"伝えたいことを整理し、記事や紹介文、発信コンテンツの文章づくりをお手伝いします。","symbol":"leaf"},
+    {"id":"video","title":"ショート動画・動画台本制作","description":"短い動画のアイデア整理から、構成・台本・制作まで、必要な範囲を伺います。","symbol":"music"},
+    {"id":"social","title":"SNSの初期設定・発信サポート","description":"アカウントの初期設定やプロフィール、最初の発信の方向性を一緒に整理します。","symbol":"dialogue"},
+    {"id":"digital","title":"その他、日常のデジタル関連の相談","description":"パソコンの使い方や作業の効率化など、『誰に聞けばいい？』という疑問もお聞かせください。","symbol":"spark"}
+  ],
+  "portfolio": [
+    {"id":"official-site","name":"公式サイト・情報発信ハブ","subtitle":"現在の公開名：真実｜日々をアップデート（旧 MAKOTO LINKS）","url":"https://neon-empanada-519607.netlify.app/","description":"4つのnoteとSNSをまとめた、自分自身の公式サイト。表示名と新着記事の自動更新にも対応しています。","purpose":"分散した発信をひとつにつなぎ、興味に合う情報へ迷わず移動できる入口をつくる。","technologies":["HTML","CSS","JavaScript","Python","GitHub Actions"],"image":"/images/official-site.jpg","imageAlt":"実際に公開されている真実の公式サイト。アイボリーの背景と緑の見出し。"},
+    {"id":"escape-game","name":"ブラウザ脱出ゲーム「午前0時の密室」","subtitle":"個人制作の公開作品","url":"https://midnight-room-makoto.netlify.app/","description":"深夜の書斎を探索し、手がかりを集めて3つの謎を解くブラウザゲームです。","purpose":"ブラウザ上で操作して遊べる、小さなゲーム体験を制作・公開する。","technologies":["HTML","CSS","JavaScript","SVG","localStorage"],"image":"/images/escape-game.jpg","imageAlt":"公開中の脱出ゲーム「午前0時の密室」。月明かりの書斎と探索アイテム欄。"}
+  ],
+  "steps": [
+    {"title":"LINEまたはメールで相談","description":"困っていることや、つくりたいものをお聞かせください。内容がまとまっていなくても大丈夫です。"},
+    {"title":"内容を確認し、対応方法や費用をご案内","description":"ご希望・規模・納期などを確認し、対応できる範囲と進め方、費用を事前にお伝えします。"},
+    {"title":"双方で内容に合意後、制作・サポート開始","description":"内容と条件に納得いただいてから着手します。合意前に作業を進めて料金を請求することはありません。"}
+  ],
+  "faqs": [
+    {"question":"小さな相談でも大丈夫ですか？","answer":"はい。ちょっとした疑問でもお気軽にご相談ください。"},
+    {"question":"依頼する内容が決まっていなくても大丈夫ですか？","answer":"はい。どんなことで困っているのか教えていただければ、一緒に整理します。"},
+    {"question":"料金はいくらですか？","answer":"作業内容によって異なるため、事前にご案内します。"},
+    {"question":"どんな仕事でも受けられますか？","answer":"内容を確認し、対応可能な範囲をご案内します。"},
+    {"question":"連絡方法は？","answer":"LINEまたはメールでお問い合わせいただけます。"}
+  ]
+}

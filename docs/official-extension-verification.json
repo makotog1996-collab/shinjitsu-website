@@ -1,0 +1,23 @@
+{
+  "draftUrl": "https://6af74a54bef029deeeb08d35--neon-empanada-519607.netlify.app/",
+  "draftDeployId": "6af74a54bef029deeeb08d35",
+  "productionChanged": false,
+  "productionDeployId": "6af742107781419c0e73b29f",
+  "backupTag": "backup-before-contact-extension-20261114",
+  "workflowRun": "https://github.com/makotog1996-collab/shinjitsu-website/actions/runs/43474291689",
+  "unitTests": 24,
+  "businessBrowser": [
+    "8 services, 2 genuine works, 3 steps, 5 FAQs; original notes/SNS/articles/offers retained; no nonfunctional form: PASS",
+    "Both real screenshots load; LINE target and decoded mailto recipient/subject are correct: PASS",
+    "320/375/390/430/768/1024/1440px fit; mobile bar has 44px targets, hides over contact area and leaves footer accessible: PASS",
+    "Keyboard FAQ, inquiry privacy section, SEO title, one H1, no JavaScript exceptions: PASS",
+    "LINE/email, portfolio, original note and future offer events fire once with identifier-only parameters; no email address, message or query sent: PASS",
+    "GA4 property receipt, LINE message delivery and email delivery are not claimed; no messages were sent."
+  ],
+  "limitations": [
+    "Netlify login required for preview",
+    "GA4 property receipt not verified",
+    "Email and LINE messages were not sent",
+    "Legal instruction was truncated; statutory business disclosures need transaction-specific confirmation"
+  ]
+}
