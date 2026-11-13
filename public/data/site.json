@@ -1,0 +1,37 @@
+{
+  "notes": [
+    {
+      "url": "https://note.com/crisp_auk8183",
+      "category": "AI・テクノロジー",
+      "description": "AIをもっと身近に。仕事や日常に活かせる、新しい使い方を。",
+      "symbol": "spark",
+      "color": "sage",
+      "displayName": "真実｜AIを使い倒す人"
+    },
+    {
+      "url": "https://note.com/rosy_snake7477",
+      "category": "心理学・会話術・人間関係",
+      "description": "心のしくみと、伝わる言葉。人との関係が少しラクになるヒント。",
+      "symbol": "dialogue",
+      "color": "blue",
+      "displayName": "真実｜日常の気づきと心理学"
+    },
+    {
+      "url": "https://note.com/brave_violet386",
+      "category": "自分磨き・健康・習慣",
+      "description": "健やかな体と、小さな習慣。昨日より心地よい自分をつくる。",
+      "symbol": "leaf",
+      "color": "peach",
+      "displayName": "MIGAKU｜自分磨きの記録"
+    },
+    {
+      "url": "https://note.com/shinjitsu_saigen",
+      "category": "暮らし・お得情報・制度",
+      "description": "知って選ぶ、賢い暮らし。毎日の困りごとを、ちょっと軽く。",
+      "symbol": "home",
+      "color": "sand",
+      "displayName": "真実｜暮らしの困りごとと時短"
+    }
+  ],
+  "remoteDataUrl": ""
+}

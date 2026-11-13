@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://neon-empanada-519607.netlify.app/sitemap.xml

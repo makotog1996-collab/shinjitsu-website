@@ -1,0 +1,626 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-11-13T16:09:36.452665+00:00",
+  "notes": [
+    {
+      "url": "https://note.com/crisp_auk8183",
+      "displayName": "真実｜AIを使い倒す人",
+      "fetchedAt": "2026-11-13T16:09:36.452665+00:00",
+      "articles": [
+        {
+          "title": "ChatGPTのプラグイン、「全部許可」は危険？知らないうちの課金を防ぐために知っておきたいこと",
+          "url": "https://note.com/crisp_auk8183/n/nf69c9fbe466a",
+          "publishedAt": "2026-11-13T12:52:00+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335716653/rectangle_large_type_2_ab38b1d455aab21518f062fb8e1b6af7.jpg?width=800"
+        },
+        {
+          "title": "高性能パソコンがなくてもAI画像生成はできる？Cloud GPUという選択肢",
+          "url": "https://note.com/crisp_auk8183/n/n1a7d614ebf86",
+          "publishedAt": "2026-11-13T09:15:19+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335636343/rectangle_large_type_2_2866e385aa5dbc0efe3a11518dd4d53a.jpg?width=800"
+        },
+        {
+          "title": "AI画像生成を自由に操る。ComfyUIを知ると制作の考え方が変わる",
+          "url": "https://note.com/crisp_auk8183/n/neca834ee07cc",
+          "publishedAt": "2026-11-13T09:13:55+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335635852/rectangle_large_type_2_19ec1873e0b52334136a60a9bf78d6d9.jpg?width=800"
+        },
+        {
+          "title": "AI画像生成はここまで自由になった。Stable Diffusionとは？初心者向け完全解説",
+          "url": "https://note.com/crisp_auk8183/n/nd97efe78165e",
+          "publishedAt": "2026-11-13T09:12:35+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335635100/rectangle_large_type_2_66e23bfd4d8e4ef1da5d073a4b5c1763.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTを検索にしか使っていない人へ。実は「考える仕事」を任せると世界が変わる",
+          "url": "https://note.com/crisp_auk8183/n/n7982e9c10cb8",
+          "publishedAt": "2026-11-13T02:56:38+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335516160/rectangle_large_type_2_ceacdfa2a1829e4565c127acc781b940.png?width=800"
+        },
+        {
+          "title": "【AIの限界を知った日】Codexで高画質アニメを作ったら、まさかの紙芝居になった話。",
+          "url": "https://note.com/crisp_auk8183/n/n97ecbb77c38b",
+          "publishedAt": "2026-11-12T12:07:12+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335324399/rectangle_large_type_2_4f5f1a803bec4ba0394bb40aabd96626.jpg?width=800"
+        },
+        {
+          "title": "「ゲームを作る」なんて自分には無理だと思っていた。でも、脱出ゲームを公開できた話。",
+          "url": "https://note.com/crisp_auk8183/n/nae65e71d38cb",
+          "publishedAt": "2026-11-12T10:33:22+00:00",
+          "image": ""
+        },
+        {
+          "title": "【完全解説】ホームページ制作の知識ゼロでも、AIを使って自分専用サイトを公開できた話。",
+          "url": "https://note.com/crisp_auk8183/n/nd4858920f3e2",
+          "publishedAt": "2026-11-12T00:07:11+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335089926/rectangle_large_type_2_42ae1365d7b4062b4743bc77f4f48989.jpg?width=800"
+        },
+        {
+          "title": "AI｜ChatGPTに質問するだけの人、実はかなり損しているかもしれません。",
+          "url": "https://note.com/crisp_auk8183/n/ncc5ecc477230",
+          "publishedAt": "2026-11-11T23:45:54+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335083711/rectangle_large_type_2_a430f610a74b433a2147725d344b921b.jpg?width=800"
+        },
+        {
+          "title": "【Adobeが発表】動画編集は「AIに指示するだけ」の時代へ？最新機能が想像以上だった",
+          "url": "https://note.com/crisp_auk8183/n/n4e20ed55e2a5",
+          "publishedAt": "2026-11-11T21:59:41+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335051535/rectangle_large_type_2_c5d1cdb2426c521cf31abbb968bed86c.jpg?width=800"
+        },
+        {
+          "title": "【新AI登場】Instagramを運営するMetaが「Muse」を日本公開！ChatGPTと何が違う？できること・料金・使い方を完全解説",
+          "url": "https://note.com/crisp_auk8183/n/nae76df9fb08b",
+          "publishedAt": "2026-11-11T14:16:15+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335007292/rectangle_large_type_2_1acc2a1675fe3274a6f325691dd70027.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTは誰が作った？AI誕生から創業者の正体、2026年の現在まで完全解説",
+          "url": "https://note.com/crisp_auk8183/n/n68e45e9d0935",
+          "publishedAt": "2026-11-11T13:12:59+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334986099/rectangle_large_type_2_8b0e76f347e1aee227a2545335318710.jpg?width=800"
+        },
+        {
+          "title": "【衝撃】プログラミングができない僕が、ChatGPTで自分専用サイトを公開できた話",
+          "url": "https://note.com/crisp_auk8183/n/nc7b339d78647",
+          "publishedAt": "2026-11-11T11:52:17+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334954621/rectangle_large_type_2_d6c386a9996e214913da9639226011a9.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTを「質問するだけ」で使っている人、正直もったいない。僕が人生の管理をAIに任せ始めた話",
+          "url": "https://note.com/crisp_auk8183/n/n5c2a7ef5f898",
+          "publishedAt": "2026-11-11T04:52:27+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334814652/rectangle_large_type_2_cae474153aa80db8e0b3101dd3127414.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTに「答え」を聞くだけじゃもったいない。AIがもっと使えるようになる「逆質問」の話",
+          "url": "https://note.com/crisp_auk8183/n/n3b2b5fe71bc9",
+          "publishedAt": "2026-11-10T23:59:12+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334728522/rectangle_large_type_2_08ef1f3d5e3e3d3623aa1fbfeb0c22d0.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTを使っているのに、思いどおりの回答が出ない人へ。12の修正テンプレート【コピペOK】",
+          "url": "https://note.com/crisp_auk8183/n/n094b8c1a3182",
+          "publishedAt": "2026-11-10T02:15:31+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334373588/rectangle_large_type_2_834e2277a86b9bf879b1c268102196af.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTのCodex、正直ここまでできるとは思わなかった。初心者がホームページを作ってみた話",
+          "url": "https://note.com/crisp_auk8183/n/n290703fab3f9",
+          "publishedAt": "2026-11-09T07:37:40+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334084394/rectangle_large_type_2_a7cc1f11e1e6a9dfecec7f56dfbe9e4c.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTに質問するだけで終わってない？「Codex」でできること・使い方・活用術を完全解説【2026年版】",
+          "url": "https://note.com/crisp_auk8183/n/n7de1e6bfd30e",
+          "publishedAt": "2026-11-09T07:11:22+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334074286/rectangle_large_type_2_dd94fe6074b420a9dfe32502bd46e630.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTは毎日自動で働いてくれる。意外と知らない「スケジュール機能」の使い方",
+          "url": "https://note.com/crisp_auk8183/n/n5c74df688363",
+          "publishedAt": "2026-11-09T06:54:46+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334069243/rectangle_large_type_2_85a600f084613563137bf196feb2217f.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTを「質問するだけ」で終わらせない。知らないと損するプラグインの使い方【初心者向け】",
+          "url": "https://note.com/crisp_auk8183/n/n4064a88b75a8",
+          "publishedAt": "2026-11-09T06:36:50+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334063733/rectangle_large_type_2_3a07d07b5b00bf576297122a35a0f989.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTで毎回同じ説明してない？「プロジェクト」を使うと何が変わるのか完全解説",
+          "url": "https://note.com/crisp_auk8183/n/n3ec1e1cfbdef",
+          "publishedAt": "2026-11-09T04:25:58+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334020925/rectangle_large_type_2_84fd90eed530e204598b22695445093e.jpg?width=800"
+        },
+        {
+          "title": "ChatGPTを使っているのに知らない？「ライブラリ」で過去のファイルを再利用する方法",
+          "url": "https://note.com/crisp_auk8183/n/nf80e206dbc21",
+          "publishedAt": "2026-11-09T04:03:42+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334008799/rectangle_large_type_2_6a0c45927e28b3a6e1aada6ad90048f2.jpg?width=800"
+        },
+        {
+          "title": "AIを使う人と、AIに使われる人。その違いは「考えること」を手放すかどうか。",
+          "url": "https://note.com/crisp_auk8183/n/n5d39f2187448",
+          "publishedAt": "2026-11-08T13:40:12+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333816583/rectangle_large_type_2_ceee122e6be7ab6c818b0f7c506197b4.jpg?width=800"
+        },
+        {
+          "title": "【2026年最新版】NoimosAI完全解説！マーケティングをAIに任せる時代へ。使い方・料金・ChatGPTとの違い",
+          "url": "https://note.com/crisp_auk8183/n/n7088a889586f",
+          "publishedAt": "2026-11-07T01:37:00+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333164557/rectangle_large_type_2_262c2907e677aca517e0f03867e46e35.jpg?width=800"
+        },
+        {
+          "title": "【2026年11月最新】ChatGPTの画像生成が進化！50％高速化・GIF作成・キャラクター保存まで完全解説",
+          "url": "https://note.com/crisp_auk8183/n/n478492dbd57b",
+          "publishedAt": "2026-11-05T22:09:57+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332717051/rectangle_large_type_2_2ec9660b1e048ada87560e5fd00bcec2.jpg?width=800"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "url": "https://note.com/rosy_snake7477",
+      "displayName": "真実｜日常の気づきと心理学",
+      "fetchedAt": "2026-11-13T16:09:36.452665+00:00",
+      "articles": [
+        {
+          "title": "会話が続く人は「質問」が上手いわけじゃない。実は返し方が違う",
+          "url": "https://note.com/rosy_snake7477/n/nc5a5f4db715e",
+          "publishedAt": "2026-11-13T02:57:43+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335516505/rectangle_large_type_2_0f1a33147df4b47eb45867bbaaf263ac.png?width=800"
+        },
+        {
+          "title": "心理学｜なぜか大切にされる人は、会話の「最後」が違う。",
+          "url": "https://note.com/rosy_snake7477/n/ne4e3efa48123",
+          "publishedAt": "2026-11-11T23:47:35+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335083973/rectangle_large_type_2_2f1221ebd0e14e3dae99766d44773f49.jpg?width=800"
+        },
+        {
+          "title": "なぜか人に好かれる人は「話し上手」ではなかった。心理学が明かした意外な共通点",
+          "url": "https://note.com/rosy_snake7477/n/n9746ca8d3901",
+          "publishedAt": "2026-11-10T23:50:13+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334725988/rectangle_large_type_2_d90b2db7e72c64cc820bde8d705552c2.jpg?width=800"
+        },
+        {
+          "title": "頑張っているのに結果が出ない人へ。足りないのは努力じゃなく「やり方」かもしれない。",
+          "url": "https://note.com/rosy_snake7477/n/nd5ef86557e19",
+          "publishedAt": "2026-11-10T00:05:04+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334337876/rectangle_large_type_2_6e6b0e052ced12a15af2295fb90664e7.jpg?width=800"
+        },
+        {
+          "title": "なぜ同じ1時間でも、稼げる金額が違うのか？「需要と供給」を知ると、お金の見え方が変わる。",
+          "url": "https://note.com/rosy_snake7477/n/n1328b4c1c2c6",
+          "publishedAt": "2026-11-09T14:13:37+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334239182/rectangle_large_type_2_fb2760d7ba9db7eaf92aeea7285e715e.jpg?width=800"
+        },
+        {
+          "title": "なぜ人は先延ばししてしまうのか？心理学でわかる5つの原因と対策",
+          "url": "https://note.com/rosy_snake7477/n/nc169995a492a",
+          "publishedAt": "2026-11-08T13:46:06+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333818638/rectangle_large_type_2_85b82fec00a6cea27d8a666c1e1666fe.jpg?width=800"
+        },
+        {
+          "title": "人生が変わる人は「考え方」が違う。知っておきたい5つの法則と実践方法",
+          "url": "https://note.com/rosy_snake7477/n/n69fc37eca631",
+          "publishedAt": "2026-11-07T00:53:58+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333144964/rectangle_large_type_2_dc118770525c805fbac821b1da7ab02f.jpg?width=800"
+        },
+        {
+          "title": "【結果を出す人の共通点】頑張る前に、勝負は始まっている。",
+          "url": "https://note.com/rosy_snake7477/n/n8dc12f9f27d7",
+          "publishedAt": "2026-11-05T22:15:49+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332718264/rectangle_large_type_2_3c97325b9c1b2b720bbfe490f3dfc98b.jpg?width=800"
+        },
+        {
+          "title": "【2026年11月5日17時時点】ドコモで不正アクセス疑惑と全国規模の通信障害。何が起きた？原因・影響・対処法を完全解説",
+          "url": "https://note.com/rosy_snake7477/n/n880e526fb60e",
+          "publishedAt": "2026-11-05T09:28:24+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332543123/rectangle_large_type_2_32f1a17b3ac08845a5c1077592319036.jpg?width=800"
+        },
+        {
+          "title": "【完全解説】勉強しているのに成長しない人へ。人生を変える「アウトプット」の重要性",
+          "url": "https://note.com/rosy_snake7477/n/n27bb044e55b6",
+          "publishedAt": "2026-11-04T22:53:55+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332346702/rectangle_large_type_2_e88be5ba4ac3e85bf1b70bf393c25297.jpg?width=800"
+        },
+        {
+          "title": "「やる気が出たらやる」はもう卒業。行動できる人が使っている心理学",
+          "url": "https://note.com/rosy_snake7477/n/nd1c8a60dcb9a",
+          "publishedAt": "2026-11-03T22:03:28+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/331960424/rectangle_large_type_2_356dab77341c7b7acc7f839e4f1c1e11.jpg?width=800"
+        },
+        {
+          "title": "自信がある人とない人。その差は「始まる前」に決まっている。",
+          "url": "https://note.com/rosy_snake7477/n/n3fdc10f9e682",
+          "publishedAt": "2026-11-02T21:59:29+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/331535537/rectangle_large_type_2_21fc1812086e6ade2fd8879762248328.jpg?width=800"
+        },
+        {
+          "title": "「たった5分」を軽く見ている人へ。信頼される人が大切にしている、たった一つの習慣。",
+          "url": "https://note.com/rosy_snake7477/n/n0af30d40b6de",
+          "publishedAt": "2026-11-02T12:47:51+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/331438616/rectangle_large_type_2_fb69fff0311c79c56629bec7a7ca059e.jpg?width=800"
+        },
+        {
+          "title": "【2026年最新版】個人事業主の始め方・完全ガイド。知識ゼロから開業、経費、節税、確定申告まで全部わかる教科書",
+          "url": "https://note.com/rosy_snake7477/n/n9f11dd365b04",
+          "publishedAt": "2026-11-01T06:21:55+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330899653/rectangle_large_type_2_d649742b16982f74e8833bf8304cdd6a.jpg?width=800"
+        },
+        {
+          "title": "【保存版】インデックス投資と株式投資の完全ガイド。月1万円から始める資産形成の教科書",
+          "url": "https://note.com/rosy_snake7477/n/n0c7ab04a04ef",
+          "publishedAt": "2026-11-01T06:01:26+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330895553/rectangle_large_type_2_a4bdcbb6e0527d2d72a9d7040073ffa3.jpg?width=800"
+        },
+        {
+          "title": "【人生の考え方】同じ1年を過ごしても、成長する人と変わらない人。その差はどこにあるのか。",
+          "url": "https://note.com/rosy_snake7477/n/ne2c7cda4fe6d",
+          "publishedAt": "2026-11-01T00:35:50+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330792085/rectangle_large_type_2_7654827c34d086a87429e2995ef7da99.jpg?width=800"
+        },
+        {
+          "title": "【営業心理学】売れる人は何が違う？知っているだけで会話が変わる心理学5選。",
+          "url": "https://note.com/rosy_snake7477/n/nc0d8550d78f9",
+          "publishedAt": "2026-10-31T12:30:40+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330635899/rectangle_large_type_2_5290e8384da9762633673212700f0cd6.jpg?width=800"
+        },
+        {
+          "title": "【習慣の力】人生を変えるのは才能じゃない。「当たり前」の基準を変えられる人だ。",
+          "url": "https://note.com/rosy_snake7477/n/n50b48646f0cb",
+          "publishedAt": "2026-10-29T23:47:52+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330024110/rectangle_large_type_2_b138e790c2067c289b20d95ee75bcfdf.jpg?width=800"
+        },
+        {
+          "title": "【営業心理学】同じ提案なのに、伝える順番で結果が変わる。「ハイ＆ロー」の正体",
+          "url": "https://note.com/rosy_snake7477/n/n5c88d05782e2",
+          "publishedAt": "2026-10-29T23:44:44+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330022962/rectangle_large_type_2_4e55318d15b8098dbbd39bf1ef87ba34.jpg?width=800"
+        },
+        {
+          "title": "結果は才能だけで決まらない。「行動量の法則」を知ると、努力の考え方が変わる。",
+          "url": "https://note.com/rosy_snake7477/n/na14ab3394e3e",
+          "publishedAt": "2026-10-28T22:05:23+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/329653469/rectangle_large_type_2_cbccd752f5b96d0bea30ac5660135993.jpg?width=800"
+        },
+        {
+          "title": "「自分は頑張っている」と思っていた。でも、その基準は誰が決めた？",
+          "url": "https://note.com/rosy_snake7477/n/n9c8f38d7ff1c",
+          "publishedAt": "2026-10-28T21:40:13+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/329648431/rectangle_large_type_2_ce75abc9a3974dddbd7058fc292cf070.jpg?width=800"
+        },
+        {
+          "title": "【知らないと損】なぜ人は「みんなが選んでいるもの」を正しいと思ってしまうのか？",
+          "url": "https://note.com/rosy_snake7477/n/n03c6273c051c",
+          "publishedAt": "2026-10-27T22:05:05+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/329312913/rectangle_large_type_2_c84d70e40275676fba4c7ce4c85a283e.jpg?width=800"
+        },
+        {
+          "title": "やさしく、賢く、強く。｜はじめまして、真実です。",
+          "url": "https://note.com/rosy_snake7477/n/nec2538768e96",
+          "publishedAt": "2026-10-26T23:44:34+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/328966098/rectangle_large_type_2_d25677d8abb1cf05613e1cd5cd8c84ed.jpg?width=800"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "url": "https://note.com/brave_violet386",
+      "displayName": "MIGAKU｜自分磨きの記録",
+      "fetchedAt": "2026-11-13T16:09:36.452665+00:00",
+      "articles": [
+        {
+          "title": "筋トレ初心者は何から鍛える？ 2026年の研究から考える、最初の全身トレーニング",
+          "url": "https://note.com/brave_violet386/n/n1e12ca80a32f",
+          "publishedAt": "2026-11-13T10:10:41+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335656389/rectangle_large_type_2_72212fa48ff33eb2d5d55d9e0740fd64.jpg?width=800"
+        },
+        {
+          "title": "香水をつける前に。清潔感のある男が見直したい5つの習慣",
+          "url": "https://note.com/brave_violet386/n/n6a2810eccb71",
+          "publishedAt": "2026-11-13T10:09:54+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335656177/rectangle_large_type_2_7501ad7bea64c916e5e40567d35f5140.jpg?width=800"
+        },
+        {
+          "title": "美容室で「お任せ」と言う前に。似合う髪型を見つける5つのコツ",
+          "url": "https://note.com/brave_violet386/n/nc8fb67c2ecac",
+          "publishedAt": "2026-11-13T10:08:58+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335655790/rectangle_large_type_2_14e8a84a491a98e2466bf1b85539edbd.jpg?width=800"
+        },
+        {
+          "title": "男のスキンケア、実は3つから始めればいい。初心者が知らない肌づくりの基本",
+          "url": "https://note.com/brave_violet386/n/ne1956734f676",
+          "publishedAt": "2026-11-13T10:08:11+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335655414/rectangle_large_type_2_2181107a52445bb0dd2600311c90fbe4.jpg?width=800"
+        },
+        {
+          "title": "顔を変える前に眉毛を整える。男の第一印象を変える5つのコツ",
+          "url": "https://note.com/brave_violet386/n/nc0ffa6898817",
+          "publishedAt": "2026-11-13T09:51:06+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335649438/rectangle_large_type_2_a7d2b04373ddf048fc7727469d21a4ea.jpg?width=800"
+        },
+        {
+          "title": "筋トレしているのに体が変わらない人へ。見直したい5つの習慣",
+          "url": "https://note.com/brave_violet386/n/nd30d643e4802",
+          "publishedAt": "2026-11-13T02:58:41+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335516802/rectangle_large_type_2_c5bdd8bc177776a7c0a1bf08ad19a9b2.png?width=800"
+        },
+        {
+          "title": "筋トレしているのに筋肉が増えない？知らないと損する「クレアチン」の本当の実力",
+          "url": "https://note.com/brave_violet386/n/n2d437ded1cea",
+          "publishedAt": "2026-11-12T06:56:03+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335213919/rectangle_large_type_2_397043caa237154b238b26acad666fb6.jpg?width=800"
+        },
+        {
+          "title": "スーツのホコリ、手で払ってない？清潔感を保つために知っておきたい4つのこと",
+          "url": "https://note.com/brave_violet386/n/ndca19ae14bb1",
+          "publishedAt": "2026-11-12T03:25:12+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335153785/rectangle_large_type_2_d8e57a419ff8e043c27df783a0c44243.jpg?width=800"
+        },
+        {
+          "title": "MIGAKU｜イケメンじゃないのに、なぜか清潔感がある男の共通点。",
+          "url": "https://note.com/brave_violet386/n/n95874f2d1c82",
+          "publishedAt": "2026-11-11T23:48:27+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335084244/rectangle_large_type_2_f58e869e54cbffafa39f92428a9bd931.jpg?width=800"
+        },
+        {
+          "title": "男磨きは眉毛から。初心者が5分でできる整え方と道具の選び方",
+          "url": "https://note.com/brave_violet386/n/n9d1109cf8e61",
+          "publishedAt": "2026-11-11T14:56:07+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335019608/rectangle_large_type_2_c68f287c9523029620606439edacb852.jpg?width=800"
+        },
+        {
+          "title": "その70kg、筋肉ですか？脂肪ですか？同じ体重でも見た目がまったく違う理由",
+          "url": "https://note.com/brave_violet386/n/n8a9adff5b8a4",
+          "publishedAt": "2026-11-11T04:38:10+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334810951/rectangle_large_type_2_1861d34e82787bf2607c03f7a72ff866.jpg?width=800"
+        },
+        {
+          "title": "「疲れやすい男」を卒業する。科学から学ぶ、疲れにくい身体を作る7つの習慣",
+          "url": "https://note.com/brave_violet386/n/ne3f8667cee2b",
+          "publishedAt": "2026-11-10T23:12:07+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334716048/rectangle_large_type_2_9fdece624972ecebb9abaaa85765f9a5.jpg?width=800"
+        },
+        {
+          "title": "【身体が硬い男性へ】ストレッチを続けると身体はどう変わる？知らないと損する5つの効果",
+          "url": "https://note.com/brave_violet386/n/n6732062ec96d",
+          "publishedAt": "2026-11-10T08:38:27+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334506678/rectangle_large_type_2_055f54b6e914980fdcb92eff0c0676c0.jpg?width=800"
+        },
+        {
+          "title": "休日の過ごし方で差がつく。男の魅力を上げる5つの習慣",
+          "url": "https://note.com/brave_violet386/n/nf6f0cf8bc6fd",
+          "publishedAt": "2026-11-10T07:51:23+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334489766/rectangle_large_type_2_497b82919b9d7cc4969405839a306daa.jpg?width=800"
+        },
+        {
+          "title": "目の下のクマは寝ても消えない？疲れ顔を変える3つの原因と正しい改善方法",
+          "url": "https://note.com/brave_violet386/n/n1bc34e3eacf6",
+          "publishedAt": "2026-11-09T11:09:30+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334168614/rectangle_large_type_2_97acd16511736a2fe1c635791da90be2.jpg?width=800"
+        },
+        {
+          "title": "ホエイとソイ、結局どっちがいい？筋肉・ダイエット・吸収速度まで徹底比較",
+          "url": "https://note.com/brave_violet386/n/n47df659cc97d",
+          "publishedAt": "2026-11-09T09:20:47+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334125291/rectangle_large_type_2_356ce35dba00da3d1b9fe67e8e658d5f.jpg?width=800"
+        },
+        {
+          "title": "なぜ、あの男には人がついていくのか。信頼される男に共通する10の特徴",
+          "url": "https://note.com/brave_violet386/n/n4499dee4e9cd",
+          "publishedAt": "2026-11-09T08:07:27+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334095867/rectangle_large_type_2_da2caa6d086bf93db5af58cb31b13510.jpg?width=800"
+        },
+        {
+          "title": "筋トレで変わるのは体だけじゃない。男磨きにつながる7つのメリットを完全解説",
+          "url": "https://note.com/brave_violet386/n/n3e5db9ee1b3e",
+          "publishedAt": "2026-11-09T04:10:13+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334015158/rectangle_large_type_2_5bc0581c62406878a3a827d768e2c33d.jpg?width=800"
+        },
+        {
+          "title": "清潔感のある男は何が違う？今日から変えられる7つの習慣【男性の自分磨き】",
+          "url": "https://note.com/brave_violet386/n/n9efb16568d02",
+          "publishedAt": "2026-11-08T13:42:20+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333817410/rectangle_large_type_2_f7ef8c406bc8070cb9207456a26213ba.jpg?width=800"
+        },
+        {
+          "title": "【男磨き】昨日はジムへ。パーソナルトレーナーならぬパーソナルフレンドと筋トレ！",
+          "url": "https://note.com/brave_violet386/n/n7133ad7ad16e",
+          "publishedAt": "2026-11-07T01:28:53+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333162094/rectangle_large_type_2_765d0615322d0d90fe80398c3a2c2e8a.png?width=800"
+        },
+        {
+          "title": "【たった3分の男磨き】清潔感を上げたいなら、まず爪を整えよう。",
+          "url": "https://note.com/brave_violet386/n/na4a72be24cb8",
+          "publishedAt": "2026-11-05T22:11:25+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332717457/rectangle_large_type_2_ce206b05e9859fca674d6f7ab24293ca.jpg?width=800"
+        },
+        {
+          "title": "お腹の脂肪を落とす食生活。何を食べるかで身体は変わる【完全解説】",
+          "url": "https://note.com/brave_violet386/n/n505f4ced35f8",
+          "publishedAt": "2026-11-05T03:52:31+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332434015/rectangle_large_type_2_7a3e5aecb5de9d653882a02acaa32282.jpg?width=800"
+        },
+        {
+          "title": "お腹の脂肪を落としたいなら、腹筋より先にやるべきことがある。",
+          "url": "https://note.com/brave_violet386/n/n57aac9d8a94e",
+          "publishedAt": "2026-11-05T03:46:21+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332431594/rectangle_large_type_2_36e743a69fc6c432ad80fcad7a8bfc10.jpg?width=800"
+        },
+        {
+          "title": "【男磨き】筋トレを5回続けたら何が変わる？限界まで追い込んだ身体に起きる変化",
+          "url": "https://note.com/brave_violet386/n/n14f46aad38b2",
+          "publishedAt": "2026-11-04T23:08:11+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332349080/rectangle_large_type_2_ba348b907cc4d252fe880a861eb7aadc.jpg?width=800"
+        },
+        {
+          "title": "【男磨き】清潔感のある男は「爪」が違う。今日から3分でできる手元の整え方",
+          "url": "https://note.com/brave_violet386/n/n49274195b5df",
+          "publishedAt": "2026-11-04T23:00:33+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332347369/rectangle_large_type_2_8f8ded4b69b635c69b71517015226fdd.jpg?width=800"
+        }
+      ],
+      "status": "ok"
+    },
+    {
+      "url": "https://note.com/shinjitsu_saigen",
+      "displayName": "真実｜暮らしの困りごとと時短",
+      "fetchedAt": "2026-11-13T16:09:36.452665+00:00",
+      "articles": [
+        {
+          "title": "知らないと損するかも。社会人が一度は確認したいお金の制度5選",
+          "url": "https://note.com/shinjitsu_saigen/n/ne66ef1629a4f",
+          "publishedAt": "2026-11-13T02:59:25+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335516982/rectangle_large_type_2_d152121dbcdbaffdd68aa969a83c2af9.jpg?width=800"
+        },
+        {
+          "title": "頑張っているのに満たされない人へ。心の余裕を取り戻す6つの考え方",
+          "url": "https://note.com/shinjitsu_saigen/n/n2d5b4de90d81",
+          "publishedAt": "2026-11-12T08:13:15+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335238058/rectangle_large_type_2_e66745e3e2068e73dd64708370c952c6.jpg?width=800"
+        },
+        {
+          "title": "毎日がつまらないと感じたら。何気ない日常を楽しくする7つの工夫",
+          "url": "https://note.com/shinjitsu_saigen/n/n71b2ecb60bc1",
+          "publishedAt": "2026-11-12T08:11:52+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335237794/rectangle_large_type_2_2f4354a885d4c428d2e1016ec408acca.jpg?width=800"
+        },
+        {
+          "title": "1日が一瞬で終わる人へ。自分の時間を取り戻す5つの方法",
+          "url": "https://note.com/shinjitsu_saigen/n/n569b360ecf7c",
+          "publishedAt": "2026-11-12T08:10:51+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335237385/rectangle_large_type_2_97164e04c3e65263845c5cc08a3bfa22.jpg?width=800"
+        },
+        {
+          "title": "お金がなくても生活の満足度は上げられる。今日からできる7つのこと",
+          "url": "https://note.com/shinjitsu_saigen/n/n4b058e375665",
+          "publishedAt": "2026-11-12T08:09:52+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335237002/rectangle_large_type_2_0f7d651632cdb2b743e3e0e4600ee59e.jpg?width=800"
+        },
+        {
+          "title": "生活が豊かな人が、当たり前にやっている5つの習慣",
+          "url": "https://note.com/shinjitsu_saigen/n/n4d946aa64a42",
+          "publishedAt": "2026-11-12T08:08:33+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335236547/rectangle_large_type_2_b0369f5a84ec39a3610fd10deaaa09d1.jpg?width=800"
+        },
+        {
+          "title": "【無料ポイ活】TikTok Liteでポイントが貯まる？始める前に知っておきたいこと",
+          "url": "https://note.com/shinjitsu_saigen/n/nb50b733e06f8",
+          "publishedAt": "2026-11-12T01:50:52+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335122870/rectangle_large_type_2_35cfebf87ae5e2d1f86924f98b5e5722.jpg?width=800"
+        },
+        {
+          "title": "【知らないと損】スマホで貯めたポイントが現金に！無料で始めるモッピー完全ガイド",
+          "url": "https://note.com/shinjitsu_saigen/n/n79bf04f934fc",
+          "publishedAt": "2026-11-12T01:44:17+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335120739/rectangle_large_type_2_8ae84f7c243db992ab4385ab4d6e62bf.jpg?width=800"
+        },
+        {
+          "title": "お得・制度｜節約が苦手な人ほど、最初に見直すべきは食費じゃない。",
+          "url": "https://note.com/shinjitsu_saigen/n/nf89747b2ab1f",
+          "publishedAt": "2026-11-11T23:49:16+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335084671/rectangle_large_type_2_aada99da98cc0fdf0b4fd9e2e0cb8c05.jpg?width=800"
+        },
+        {
+          "title": "【2026年版】知らないと損する！副業・個人事業主が確認したいお金の制度3選💰",
+          "url": "https://note.com/shinjitsu_saigen/n/n3a7b9c05d8b4",
+          "publishedAt": "2026-11-11T00:09:12+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334730916/rectangle_large_type_2_57b4e1629c782ef13340d0fbfa10c139.jpg?width=800"
+        },
+        {
+          "title": "【2026年11月】初めての人はチェック！無料で始められるお得な特典3選🎁",
+          "url": "https://note.com/shinjitsu_saigen/n/n7c5ce6501b46",
+          "publishedAt": "2026-11-10T07:46:48+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334488607/rectangle_large_type_2_e6ffcdfa0f152e3783b38b448003420b.jpg?width=800"
+        },
+        {
+          "title": "知らないと損？個人事業主が使える「最大65万円の控除」をわかりやすく解説",
+          "url": "https://note.com/shinjitsu_saigen/n/ne79ba56c8965",
+          "publishedAt": "2026-11-09T03:35:53+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/334001196/rectangle_large_type_2_5d14a14b58497547257fc9e7e1c3ce6f.jpg?width=800"
+        },
+        {
+          "title": "子どもにiPhoneを貸す前に。ゲームはそのまま、追加課金を止める設定",
+          "url": "https://note.com/shinjitsu_saigen/n/nfbf2328db034",
+          "publishedAt": "2026-11-09T02:23:08+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333977945/rectangle_large_type_2_1263b9cae8a26f5d6904424f4c6f865c.jpg?width=800"
+        },
+        {
+          "title": "子どもにiPhoneを貸す前に。「ゲームは遊べる、追加課金はできない」にする設定",
+          "url": "https://note.com/shinjitsu_saigen/n/n80b91e3db388",
+          "publishedAt": "2026-11-09T02:18:04+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333976516/rectangle_large_type_2_4f84d5f4d527a3fa3ff11e1edfbba5c3.jpg?width=800"
+        },
+        {
+          "title": "iPhoneで消した写真は戻せる？「昨日バックアップしたから大丈夫」の落とし穴",
+          "url": "https://note.com/shinjitsu_saigen/n/nfef790a1dd28",
+          "publishedAt": "2026-11-09T02:15:03+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333975595/rectangle_large_type_2_3801120d4b13328ede5fcd61175d2a23.jpg?width=800"
+        },
+        {
+          "title": "dポイントを取りこぼしてない？買い物前に確認したい5つの節約術",
+          "url": "https://note.com/shinjitsu_saigen/n/n82208ef0f4f8",
+          "publishedAt": "2026-11-08T13:44:38+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333818174/rectangle_large_type_2_b43fad2fb0e89d894ea648ceebc6782a.jpg?width=800"
+        },
+        {
+          "title": "【2026年最新版】知らないと損！国の制度でお金が戻ってくる・節約できる4つの方法",
+          "url": "https://note.com/shinjitsu_saigen/n/ne913d49f27c9",
+          "publishedAt": "2026-11-07T01:32:18+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/333163145/rectangle_large_type_2_6890846dd5cf81bf35d763fbeb632e59.jpg?width=800"
+        },
+        {
+          "title": "【知らないと損】国が提供する200万点以上の資料が無料！18歳以上なら使える「国立国会図書館」の便利な制度",
+          "url": "https://note.com/shinjitsu_saigen/n/na2b795bdb489",
+          "publishedAt": "2026-11-05T22:12:38+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332717744/rectangle_large_type_2_5edaa1e74e0ae444b686be3b2e68e8ea.jpg?width=800"
+        },
+        {
+          "title": "【知らないと損？】月額550円でスマホの充電器が借り放題。ドコモの隠れたお得サービスを完全解説",
+          "url": "https://note.com/shinjitsu_saigen/n/n9ab460aedce7",
+          "publishedAt": "2026-11-04T22:36:41+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/332342535/rectangle_large_type_2_4c2c1349a511b085a2cb345acfced534.jpg?width=800"
+        },
+        {
+          "title": "知らないと損。買い物の前に30秒確認するだけで、無駄な出費を減らせる方法",
+          "url": "https://note.com/shinjitsu_saigen/n/nad33bf34d0e9",
+          "publishedAt": "2026-11-03T21:59:35+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/331959579/rectangle_large_type_2_264a1d265590d4458160058cb1674bf8.jpg?width=800"
+        },
+        {
+          "title": "【知らないと損？】月400円で将来の年金が増える。国が用意した意外と知られていない制度",
+          "url": "https://note.com/shinjitsu_saigen/n/nad81b7b97cc6",
+          "publishedAt": "2026-11-02T22:34:54+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/331542997/rectangle_large_type_2_94adb96556bc1daac6b6ff4356a02f59.jpg?width=800"
+        },
+        {
+          "title": "【10月開始】国民年金が月17,920円免除に。しかも将来の年金は減らない、新しい制度を知っていますか？",
+          "url": "https://note.com/shinjitsu_saigen/n/n093c6fc2bcf5",
+          "publishedAt": "2026-11-01T22:03:40+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/331144021/rectangle_large_type_2_4959bfe7b665fa6caf0f73428b85ce09.jpg?width=800"
+        },
+        {
+          "title": "【11月30日まで】ファミペイで毎日1回、最大500円相当が当たる！知らなかった人はアプリを確認してほしい",
+          "url": "https://note.com/shinjitsu_saigen/n/n924a4470ba62",
+          "publishedAt": "2026-11-01T21:54:43+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/331142056/rectangle_large_type_2_d7cd4649ee667ca1e2425d6967875077.jpg?width=800"
+        },
+        {
+          "title": "【知らなかった】ローソンでコーヒー1杯が無料に。アプリを確認してみてほしい",
+          "url": "https://note.com/shinjitsu_saigen/n/n3e6d7222434a",
+          "publishedAt": "2026-10-31T23:08:11+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330767382/rectangle_large_type_2_49be564eaabcf360aea7ebd69208d74c.jpg?width=800"
+        },
+        {
+          "title": "【11月3日まで】ココイチのアプリが進化。レシートを捨てると損する時代が来た。",
+          "url": "https://note.com/shinjitsu_saigen/n/nf12baa6cd7b9",
+          "publishedAt": "2026-10-31T22:57:05+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/330763547/rectangle_large_type_2_a0afa42aad3385ceffd6d532520ea2b9.jpg?width=800"
+        }
+      ],
+      "status": "ok"
+    }
+  ]
+}
