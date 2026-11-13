@@ -1,5 +1,7 @@
 # 真実｜日々をアップデート
 
+> このブランチは、制作実績・相談機能の追加版です。本番への反映前に、確認用デプロイと `docs/official-site-extension.md` を参照してください。
+
 知ることから、毎日はもっと良くなる。
 
 AI・心理学・自分磨き・暮らしの4つのnoteとSNSを統合する個人ブランドサイトです。承認済みのアイボリー・淡いグリーンのデザインを使用し、既存のNetlify URLで正式公開しました。
@@ -91,3 +93,13 @@ Netlify Freeは無制限ではなく、公式料金表では月300クレジッ�
 - https://docs.github.com/en/billing/concepts/product-billing/github-actions
 - https://docs.github.com/en/actions/reference/workflows-and-actions/events-that-trigger-workflows#schedule
 - https://note.com/robots.txt
+
+## 制作実績・仕事の相談を更新する
+
+`config/work.json` に連絡先、自己紹介、相談メニュー、制作実績、相談の流れ、FAQを保存しています。LINEは `lineUrl`、メールは `email` を編集し、`python3 scripts/build.py` でリンク・プライバシーポリシーも生成します。メールのリンクはメールアプリを開くmailtoであり、サイトからの自動送信や受信確認はありません。
+
+制作実績を追加するときは、portfolio配列へid・name・subtitle・url・description・purpose・technologiesを追加します。imageは任意で、実際に取得した画像をpublic/imagesに置いた場合のみ設定します。技術・顧客実績・成果・料金を推測で増やさないでください。
+
+既存のGA4（G-76H2G7LD3T）を維持しています。`contact_click` はcontact_method（line/email）とplacement、`portfolio_click` はcontent_idとplacementを送信します。元のSNS・記事・商品向けhub_link_clickも維持しています。画面上のクリックとパラメータをテストしましたが、GA4管理画面での受信、LINEのメッセージ到達、メールの配信、成約は未検証です。独自イベントに相談内容や返信先を含めません。新しい解析サービスは追加していません。
+
+問い合わせフォーム・決済・新規課金設定はありません。料金と対応範囲は事前確認のうえ個別案内し、双方の合意後に作業を開始する案内です。法定事業者表示の必要性は具体的な契約・販売条件をもとに確認します。フォームがないことだけを理由に表示義務が不要とは断定しません。

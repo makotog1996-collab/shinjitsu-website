@@ -18,7 +18,7 @@ with sync_playwright() as p:
  context=browser.new_context(viewport={'width':1440,'height':1000},locale='ja-JP',timezone_id='Asia/Tokyo')
  page=context.new_page(); errors=[];page.on('pageerror',lambda e:errors.append(str(e)))
  page.goto(base,wait_until='networkidle');page.screenshot(path=str(shots/'desktop.png'),full_page=True)
- assert page.title()=='真実｜日々をアップデート'
+ assert page.title()=='真実｜日々をアップデート｜AI・Web制作・デジタル相談'
  assert page.locator('.theme-card').count()==4
  for n in data['notes']:
   assert page.locator('[data-note-name]').filter(has_text=n['displayName']).count()==1

@@ -12,6 +12,7 @@ from zoneinfo import ZoneInfo
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
 from update_notes import atomic_json, valid_profile
+from render_work import render_work
 ESC = lambda value: html.escape(str(value), quote=True)
 ICONS = {
 'spark':'<path d="m16 3 3.5 9.5L29 16l-9.5 3.5L16 29l-3.5-9.5L3 16l9.5-3.5Z"/><path d="M27 2v6M24 5h6"/>',
@@ -41,6 +42,7 @@ def remote_url(config):
     return 'https://raw.githubusercontent.com/'+match[1]+'/main/data/notes.json' if match else ''
 def build():
     config = json.loads((ROOT/'config/site.json').read_text())
+    work_values, work, faq_schema = render_work(icon)
     try: cache = json.loads((ROOT/'data/notes.json').read_text())
     except (FileNotFoundError,json.JSONDecodeError): cache = {'schemaVersion':1,'notes':[]}
     cards=[]; footer=[]; theme_chips=[]; notes=[]
@@ -68,20 +70,30 @@ def build():
         socials.append(external(item['url'],'social-card',f'<span class="social-icon">{icon(item.get("symbol","spark"))}</span><div><h3>{ESC(item["name"])}</h3><p>{ESC(item["description"])}</p><span class="social-handle">{ESC(item["handle"])}</span></div><span class="social-arrow" aria-hidden="true">↗</span>'))
     recommended=[external(i['url'],'recommended-card',f'<span>{ESC(i["category"].split("・")[0])}</span><h3>{ESC(i["title"])}</h3><span class="recommended-arrow" aria-hidden="true">↗</span>') for i in config['recommended']]
     offers=[]
-    for item in config.get('offers',[]):
+    for offer_index,item in enumerate(config.get('offers',[])):
         if not item.get('url','').startswith('https://'): raise ValueError('Offer must have an HTTPS URL')
-        offers.append(external(item['url'],'recommended-card',f'<span>{ESC(item.get("disclosure",""))}</span><h3>{ESC(item["title"])}</h3><p>{ESC(item["description"])}</p>'))
+        offer_id = item.get('id',f'offer-{offer_index+1}')
+        if not re.fullmatch(r'[a-z0-9-]{1,70}',offer_id): raise ValueError('Invalid offer identifier')
+        offers.append(external(item['url'],'recommended-card',f'<span>{ESC(item.get("disclosure",""))}</span><h3>{ESC(item["title"])}</h3><p>{ESC(item["description"])}</p>',f'data-offer-id="{offer_id}"'))
     template=(ROOT/'templates/index.html').read_text()
     data={'NAME':ESC(config['name']),'TAGLINE':ESC(config['tagline']),'DESCRIPTION':ESC(config['description']),'SITE_URL':ESC(config['url']),'THEMES':''.join(cards),'CHIPS':''.join(theme_chips),'ARTICLES':''.join(article_cards),'SOCIALS':''.join(socials),'FOOTER_NOTES':''.join(footer),'FOOTER_SOCIALS':''.join(external(i['url'],'',ESC(i['name'])) for i in config['socials']),'RECOMMENDED':''.join(recommended),'YEAR':str(datetime.now().year),'ARTICLE_HIDDEN':' hidden' if not articles else '', 'OFFERS':''.join(offers) if offers else '<div class="offer-empty"><span class="offer-icon" aria-hidden="true">＋</span><div><h3>暮らしに、学びに。次の小さな一歩を。</h3><p>役立つアイテムやコンテンツを、ここで少しずつご紹介していきます。</p><span class="preparing">ただいま準備中です</span></div></div>'}
+    data.update(work_values)
+    data['SEO_TITLE'] = ESC(config.get('seoTitle',config['name']))
     for key,value in data.items(): template=template.replace('{{'+key+'}}',value)
     if '{{' in template: raise ValueError('Unfilled template')
     (ROOT/'public/index.html').write_text(template)
     atomic_json(ROOT/'public/data/notes.json',cache)
     atomic_json(ROOT/'public/data/site.json',{'notes':notes,'remoteDataUrl':remote_url(config)})
     structured={'@context':'https://schema.org','@type':'WebSite','name':config['name'],'url':config['url']+'/','inLanguage':'ja','author':{'@type':'Person','name':'真実','sameAs':[i['url'] for i in config['notes']+config['socials']]}}
+    structured['author']['contactPoint'] = {'@type':'ContactPoint','contactType':'ご相談・お仕事のご依頼','email':work['contact']['email'],'url':work['contact']['lineUrl'],'availableLanguage':'Japanese'}
+    structured = {'@context':'https://schema.org','@graph':[structured,faq_schema]}
     (ROOT/'public/structured-data.json').write_text(json.dumps(structured,ensure_ascii=False))
     # Inline JSON-LD escaped independently from HTML text.
     template=template.replace('<!-- STRUCTURED_DATA -->','<script type="application/ld+json">'+json.dumps(structured,ensure_ascii=False).replace('<','\\u003c')+'</script>')
     (ROOT/'public/index.html').write_text(template)
+    privacy = (ROOT/'templates/privacy.html').read_text()
+    for key,value in data.items(): privacy=privacy.replace('{{'+key+'}}',value)
+    if '{{' in privacy: raise ValueError('Unfilled privacy template')
+    (ROOT/'public/privacy.html').write_text(privacy)
     print('Built public/:',len(cards),'themes,',len(articles),'articles; remote updates', 'configured' if remote_url(config) else 'not configured')
 if __name__=='__main__': build()

@@ -1,7 +1,7 @@
 {
   "name": "真実｜日々をアップデート",
   "tagline": "知ることから、毎日はもっと良くなる。",
-  "description": "AI、心理学、会話術、自分磨き、暮らしのヒント。気になる情報を、ひとつの場所に。",
+  "description": "AI活用・Web制作・SNS・画像・文章・動画づくりに取り組む真実の個人公式サイト。制作実績、LINE・メールの相談窓口、4つのnoteとSNSの発信をまとめています。",
   "url": "https://neon-empanada-519607.netlify.app",
   "remoteDataUrl": "https://raw.githubusercontent.com/makotog1996-collab/shinjitsu-website/main/data/notes.json",
   "notes": [
@@ -74,5 +74,6 @@
       "category": "心理学・会話術・人間関係"
     }
   ],
-  "offers": []
+  "offers": [],
+  "seoTitle": "真実｜日々をアップデート｜AI・Web制作・デジタル相談"
 }

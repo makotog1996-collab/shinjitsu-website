@@ -11,6 +11,18 @@
     const anchor=event.target?.closest?.('a[href]');
     if (!anchor || typeof window.gtag !== 'function') return;
     let url;try {url=new URL(anchor.href);}catch{return;}
+    const safePlacement = /^[a-z0-9-]{1,32}$/.test(anchor.dataset.placement || '') ? anchor.dataset.placement : 'contact';
+    const method = anchor.dataset.contactMethod;
+    if ((method === 'line' && url.protocol === 'https:' && url.hostname === 'lin.ee') ||
+        (method === 'email' && url.protocol === 'mailto:')) {
+      window.gtag('event','contact_click',{contact_method:method,placement:safePlacement,transport_type:'beacon'});
+      return;
+    }
+    const portfolioId = anchor.dataset.portfolioId;
+    if (anchor.closest('#portfolio') && url.protocol === 'https:' && /^[a-z0-9-]{1,70}$/.test(portfolioId || '')) {
+      window.gtag('event','portfolio_click',{content_id:portfolioId,placement:'portfolio',transport_type:'beacon'});
+      return;
+    }
     let placement='',contentId='';
     if (anchor.closest('#recommended-articles')) placement='recommended';
     else if (anchor.closest('#latest-articles')) placement='latest';
