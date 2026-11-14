@@ -1,12 +1,82 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-13T19:16:01.671665+00:00",
+  "checkedAt": "2026-11-14T19:04:27.276400+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-13T19:16:01.671665+00:00",
+      "fetchedAt": "2026-11-14T19:04:27.276400+00:00",
       "articles": [
+        {
+          "title": "ChatGPTにプラグインを入れる前に読んでほしい。便利さの裏にある4つの注意点",
+          "url": "https://note.com/crisp_auk8183/n/n21bde14a1cb2",
+          "publishedAt": "2026-11-14T04:10:22+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335928711/rectangle_large_type_2_10b6b6905df44f0a8d12df613113fcbb.jpg?width=800",
+          "summary": "最近、ChatGPTにさまざまなプラグインを追加してみました。 プラグインを使うと、ChatGPTだけではできなかった操作や、外部サービスとの連携ができるようになります。 例えば、メール、ファイル、デザイン、動画制作、スケジュール管理などです。 非常に便利ですが、使ってみる中で気になったことがあります。 それが「権限」と「料金」です。 今回は、初心者が最低限…"
+        },
+        {
+          "title": "ChatGPTは質問するだけじゃない。毎朝のニュースも日記も自動化できる便利な機能",
+          "url": "https://note.com/crisp_auk8183/n/nc2a0d0f5bbbf",
+          "publishedAt": "2026-11-14T04:10:05+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335928642/rectangle_large_type_2_2818de077d392336a4fc5f8d6fc3d798.jpg?width=800",
+          "summary": "ChatGPTを使っている人の多くは、何か知りたいことがあるときにアプリを開いていると思います。 しかし、ChatGPTにはこちらから毎回質問しなくても、設定したスケジュールに沿って動いてくれる機能があります。 それが「スケジュールされたタスク」です。 私も最近、この機能を活用して毎日の情報収集や習慣管理を整理しています。 今回は、その使い方を紹介します。 …"
+        },
+        {
+          "title": "【実録】月約3,000円のChatGPTでここまでできた。プログラミング初心者がCodexを使い倒した結果",
+          "url": "https://note.com/crisp_auk8183/n/nff38d96f61ec",
+          "publishedAt": "2026-11-14T04:02:01+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335923955/rectangle_large_type_2_10cfa018520681ddc29167787f79a414.jpg?width=800",
+          "summary": "「ChatGPTに毎月3,000円近く払う価値ってあるの？」 少し前の僕なら、たぶん答えられなかったと思います。 AIに質問したり、文章を書いてもらったりするだけなら、無料でも十分だと考えていたからです。 でも、Codex（コーデックス）を使い始めて、その考えが大きく変わりました。 僕はプログラミングの専門家ではありません。 難しいコードを自分で何百行も書け…"
+        },
+        {
+          "title": "ChatGPTを毎回ゼロから使っていませんか？知らないと損する「プロジェクト」活用術",
+          "url": "https://note.com/crisp_auk8183/n/naae158171031",
+          "publishedAt": "2026-11-14T03:55:10+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335923247/rectangle_large_type_2_b46969b6e15a3a387ab4c5657de07d68.jpg?width=800",
+          "summary": "ChatGPTを使っている人に、ひとつ質問があります。 毎回、同じ説明をしていませんか？ 「私はこんな仕事をしています」 「こういう記事を書きたいです」 「前にも説明したんですけど……」 実は、ChatGPTには、こうした手間を大きく減らせる「プロジェクト」という機能があります。 私も最近、ChatGPTを仕事や副業、生活管理などに使う中で、この機能の便利さ…"
+        },
+        {
+          "title": "【完全無料】Google Flowで実写映画のようなAI動画が作れた！初心者向けに登録から作り方まで徹底解説",
+          "url": "https://note.com/crisp_auk8183/n/n86d812e68375",
+          "publishedAt": "2026-11-14T03:49:02+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335920808/rectangle_large_type_2_ffd06b3fed8b8d3943894df3ec5ac652.jpg?width=800",
+          "summary": "「AIで動画を作ってみたい。でも、高い料金が必要なんじゃない？」 そんなことを考えている人に、ぜひ知ってほしいサービスがあります。 今回紹介するのは、Googleが提供するAI動画制作ツール「Google Flow（グーグル・フロー）」です。 実際に私も使ってみました。 完成の冒頭の画像↓ 続きをみる"
+        },
+        {
+          "title": "【初心者向け完全解説】HeyGenとは？顔出しなしでAI人物が話す動画を作る方法・料金・注意点",
+          "url": "https://note.com/crisp_auk8183/n/n076475719281",
+          "publishedAt": "2026-11-14T03:43:45+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335919611/rectangle_large_type_2_094cc248f27e55c792507bd6fc8ec49a.jpg?width=800",
+          "summary": "「自分で撮影しなくても、人が自然に話す動画を作れたら？」 以前なら、撮影機材を用意して、出演者を探して、音声を録音して、編集する必要がありました。 ところが今は、AIで人物に話してもらう動画を作れる時代です。 今回紹介するのは、HeyGen（ヘイジェン）というAI動画制作サービス。 文章を入力するだけでAI人物が話す動画を作ったり、写真の人物を動かしたり、日…"
+        },
+        {
+          "title": "日本語AIはもっと進化する？NVIDIAが発表した「架空のデータ」が重要な理由",
+          "url": "https://note.com/crisp_auk8183/n/nfd2dd31e4c89",
+          "publishedAt": "2026-11-14T03:25:10+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335914171/rectangle_large_type_2_c4f8fc766c02fde53165476c7f627f7d.jpg?width=800",
+          "summary": "AIを使っていて、こんな経験はありませんか？ 「日本語の細かいニュアンスが伝わらない」 「日本の仕事や制度について、少し不自然な回答が出る」 AIは急速に進化していますが、言語や文化に合った情報を扱うことは依然として重要な課題です。 そんな中、NVIDIA（エヌビディア）が日本向けのAI開発に関する発表を行いました。 ■ NVIDIAが発表したものとは？ 2…"
+        },
+        {
+          "title": "AIで事業をつくる時代へ。NECの新発表から個人の副業にも使える考え方を学ぶ",
+          "url": "https://note.com/crisp_auk8183/n/ndf655176853c",
+          "publishedAt": "2026-11-14T03:23:54+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335913885/rectangle_large_type_2_23e5fd77d99733720080b4f0775010b9.png?width=800",
+          "summary": "「AIを使って何かを作りたい」 そう思っても、実際に何から始めればよいのか迷うことはありませんか？ アプリ、Webサイト、デジタル商品、AIツール。 今は個人でも挑戦できることが増えています。 しかし、作れることと、誰かに使ってもらえることは別です。 そんな中、2026年11月13日に興味深い発表がありました。 ■ NECとdotDが新しい共創体制を発足 N…"
+        },
+        {
+          "title": "AIが仕事の仲間になる。サイボウズの新発表が示す「これからの働き方」",
+          "url": "https://note.com/crisp_auk8183/n/nc8ec1f6a5d48",
+          "publishedAt": "2026-11-14T03:22:46+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335913321/rectangle_large_type_2_633c39281db376f6ce0aca1c053b94e4.png?width=800",
+          "summary": "「AIに文章を作ってもらう」 今では当たり前になってきました。 でも、その先にある働き方を考えたことはありますか？ 例えば、毎日の仕事の記録を確認して、報告書をまとめ、次に対応すべき仕事まで提案してくれるAI。 そんな仕組みが、企業向けサービスの中で具体化しています。 2026年11月12日、サイボウズが新しいAI関連機能とサービス構想を発表しました。 ■ …"
+        },
+        {
+          "title": "無料AIがまた進化した。Googleの新モデル「Gemini 4 Hydrogen」で何が変わる？",
+          "url": "https://note.com/crisp_auk8183/n/nf935bc5d4cfa",
+          "publishedAt": "2026-11-14T03:17:23+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/335911521/rectangle_large_type_2_1227c0715d456a40c92a0c31a34290f5.jpg?width=800",
+          "summary": "2026年11月12日、Googleが新しいAIモデル「Gemini 4 Hydrogen（ジェミニ・フォー・ハイドロジェン）」を発表しました。 しかも今回注目したいのは、有料ユーザーだけの話ではないことです。 無料ユーザーにも、新しいAIを利用できる機会が広がっています。 では、これまでのGeminiと何が違うのでしょうか？ ■ そもそもGemini 4 …"
+        },
         {
           "title": "ChatGPTを使っているのに、答えが浅い人へ。実は「質問の仕方」でここまで変わる",
           "url": "https://note.com/crisp_auk8183/n/n0347d98ecc69",
@@ -111,76 +181,6 @@
           "publishedAt": "2026-11-11T04:52:27+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/334814652/rectangle_large_type_2_cae474153aa80db8e0b3101dd3127414.jpg?width=800",
           "summary": "ChatGPTを使っている人に、ひとつ質問があります。 あなたはChatGPTを「質問するためのアプリ」だと思っていませんか？ わからないことを聞く。 文章を作ってもらう。 調べものを手伝ってもらう。 もちろん、それだけでも十分便利です。 でも、最近の僕は少し違う使い方をしています。 それは、自分の生活や目標をChatGPTにまとめて管理してもらうこと。 お…"
-        },
-        {
-          "title": "ChatGPTに「答え」を聞くだけじゃもったいない。AIがもっと使えるようになる「逆質問」の話",
-          "url": "https://note.com/crisp_auk8183/n/n3b2b5fe71bc9",
-          "publishedAt": "2026-11-10T23:59:12+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334728522/rectangle_large_type_2_08ef1f3d5e3e3d3623aa1fbfeb0c22d0.jpg?width=800",
-          "summary": "ChatGPTを使っていて、こんなことありませんか？ 「副業を始めたい。何をすればいい？」 「もっと効率よく仕事がしたい」 「自分に合った目標を決めたい」 質問すると、ChatGPTはたくさんの答えを返してくれます。 しかも、どれもそれなりに正しそう。 でも、読み終わったあとに思うんです。 「結局、自分は何から始めればいいんだろう？」 実は、ChatGPTに…"
-        },
-        {
-          "title": "ChatGPTを使っているのに、思いどおりの回答が出ない人へ。12の修正テンプレート【コピペOK】",
-          "url": "https://note.com/crisp_auk8183/n/n094b8c1a3182",
-          "publishedAt": "2026-11-10T02:15:31+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334373588/rectangle_large_type_2_834e2277a86b9bf879b1c268102196af.jpg?width=800",
-          "summary": "ChatGPTを使っていて、こんな経験はありませんか？ * 回答が長すぎて、結局何をすればいいか分からない * もっと具体的に教えてほしいのに、当たり前のことしか返ってこない * 自分の条件を伝えたはずなのに、全然違う提案をされる * AIが作った文章が不自然で、そのまま使えない * 何度質問し直しても、思っていた答えにならない 便利なはずのChatGPTな…"
-        },
-        {
-          "title": "ChatGPTのCodex、正直ここまでできるとは思わなかった。初心者がホームページを作ってみた話",
-          "url": "https://note.com/crisp_auk8183/n/n290703fab3f9",
-          "publishedAt": "2026-11-09T07:37:40+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334084394/rectangle_large_type_2_a7cc1f11e1e6a9dfecec7f56dfbe9e4c.jpg?width=800",
-          "summary": "ChatGPTって、どこまでできるんだろう。 普段は文章を書いてもらったり、調べ物をしたり、アイデアを考えてもらったり。 そんな使い方が中心でした。 でも今回、初めて本格的に「Codex（コーデックス）」を触ってみて、AIに対する考え方が少し変わりました。 自分が想像していた以上に、AIは実際のものづくりまで進んでいる。 そう感じた体験を紹介します。 ーーー…"
-        },
-        {
-          "title": "ChatGPTに質問するだけで終わってない？「Codex」でできること・使い方・活用術を完全解説【2026年版】",
-          "url": "https://note.com/crisp_auk8183/n/n7de1e6bfd30e",
-          "publishedAt": "2026-11-09T07:11:22+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334074286/rectangle_large_type_2_dd94fe6074b420a9dfe32502bd46e630.jpg?width=800",
-          "summary": "ChatGPTを毎日使っている。 調べ物をしたり、文章を書いてもらったり、アイデアを考えてもらったり。 それだけでも十分便利です。 でも、最近気になっている機能があります。 それが 「Codex（コーデックス）」 です。 最初はプログラミングができる人専用の機能だと思っていました。 ところが調べてみると、Webサイトの制作、データ分析、業務効率化、営業資料の…"
-        },
-        {
-          "title": "ChatGPTは毎日自動で働いてくれる。意外と知らない「スケジュール機能」の使い方",
-          "url": "https://note.com/crisp_auk8183/n/n5c74df688363",
-          "publishedAt": "2026-11-09T06:54:46+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334069243/rectangle_large_type_2_85a600f084613563137bf196feb2217f.jpg?width=800",
-          "summary": "ChatGPTを使っている人に質問です。 毎回、自分からChatGPTを開いて質問していませんか？ 実は、ChatGPTには決めた時間に自動で作業してくれる「スケジュール機能」があります。 例えば、 * 毎朝7時にニュースをまとめてもらう * 毎晩22時に習慣を振り返る * 毎週金曜日に最新情報を調べてもらう * 大切な予定を忘れないように通知してもらう こ…"
-        },
-        {
-          "title": "ChatGPTを「質問するだけ」で終わらせない。知らないと損するプラグインの使い方【初心者向け】",
-          "url": "https://note.com/crisp_auk8183/n/n4064a88b75a8",
-          "publishedAt": "2026-11-09T06:36:50+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334063733/rectangle_large_type_2_3a07d07b5b00bf576297122a35a0f989.jpg?width=800",
-          "summary": "ChatGPTを使っているけれど、質問したり、文章を書いてもらったりするだけになっていませんか？ 実は、ChatGPTには外部のサービスと連携し、日常の作業をもっと便利にする「プラグイン」という機能があります。 例えば、メールを探したり、予定を確認したり、保存した資料を整理したり。 これまで自分でアプリを開いて行っていた作業の一部を、ChatGPTとの会話か…"
-        },
-        {
-          "title": "ChatGPTで毎回同じ説明してない？「プロジェクト」を使うと何が変わるのか完全解説",
-          "url": "https://note.com/crisp_auk8183/n/n3ec1e1cfbdef",
-          "publishedAt": "2026-11-09T04:25:58+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334020925/rectangle_large_type_2_84fd90eed530e204598b22695445093e.jpg?width=800",
-          "summary": "ChatGPTを使っていて、こんな経験はありませんか？ 「前に話した内容を、もう一度説明している」 「チャットが増えすぎて、どこで何を話したかわからない」 「仕事の話も勉強の話も、全部バラバラになっている」 私自身、ChatGPTを日常的に使っていますが、まだ使いこなせていない機能がたくさんあります。 そこで今回は、気になっていた「プロジェクト」機能について…"
-        },
-        {
-          "title": "ChatGPTを使っているのに知らない？「ライブラリ」で過去のファイルを再利用する方法",
-          "url": "https://note.com/crisp_auk8183/n/nf80e206dbc21",
-          "publishedAt": "2026-11-09T04:03:42+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334008799/rectangle_large_type_2_6a0c45927e28b3a6e1aada6ad90048f2.jpg?width=800",
-          "summary": "ChatGPTを毎日使っている人でも、意外と触っていない機能があると思います。 私が今回取り上げるのは、「ライブラリ」機能です。 ChatGPTにアップロードした資料や、作成したファイル。 一度使ったきり、そのままになっていませんか？ 実は、そうしたファイルを保存して、後から探したり、別のチャットで再利用したりできる仕組みがあります。 今回は、ChatGPT…"
-        },
-        {
-          "title": "AIを使う人と、AIに使われる人。その違いは「考えること」を手放すかどうか。",
-          "url": "https://note.com/crisp_auk8183/n/n5d39f2187448",
-          "publishedAt": "2026-11-08T13:40:12+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333816583/rectangle_large_type_2_ceee122e6be7ab6c818b0f7c506197b4.jpg?width=800",
-          "summary": "最近、ChatGPTを使うことが日常になってきました。 調べ物、文章作成、勉強、目標管理。 以前なら何十分もかかっていたことが、AIを使えば数秒で終わることもあります。 でも、ふと疑問に思いました。 AIを使って効率化しているつもりが、自分で考える力まで手放していないだろうか。 今日は、AIとの付き合い方について考えてみます。 ーーーー 1. AIを使えば使…"
-        },
-        {
-          "title": "【2026年最新版】NoimosAI完全解説！マーケティングをAIに任せる時代へ。使い方・料金・ChatGPTとの違い",
-          "url": "https://note.com/crisp_auk8183/n/n7088a889586f",
-          "publishedAt": "2026-11-07T01:37:00+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333164557/rectangle_large_type_2_262c2907e677aca517e0f03867e46e35.jpg?width=800",
-          "summary": "「SNSを伸ばしたいけど、何を投稿すればいいか分からない」 「ブログを書いているけど、なかなか読まれない」 「AIを使って、マーケティングの仕事をもっと効率化したい」 そんな人に知ってほしいのが、NoimosAI（ノイモスAI）です。 今回は、NoimosAIで何ができるのか、ChatGPTとの違い、料金、具体的な始め方まで解説します。 ーーーー Noimo…"
         }
       ],
       "status": "ok"
@@ -188,7 +188,7 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-13T19:16:01.671665+00:00",
+      "fetchedAt": "2026-11-14T19:04:27.276400+00:00",
       "articles": [
         {
           "title": "会話が続く人は「質問」が上手いわけじゃない。実は返し方が違う",
@@ -357,7 +357,7 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-13T19:16:01.671665+00:00",
+      "fetchedAt": "2026-11-14T19:04:27.276400+00:00",
       "articles": [
         {
           "title": "男性の美容の悩み1位は「シミ・くすみ」。肌を変えたい男が最初にやるべき3つのこと",
@@ -540,8 +540,57 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-13T19:16:01.671665+00:00",
+      "fetchedAt": "2026-11-14T19:04:27.276400+00:00",
       "articles": [
+        {
+          "title": "医療費は10万円を超えないと無理？実は対象になる人がいます",
+          "url": "https://note.com/shinjitsu_saigen/n/n3348c100c184",
+          "publishedAt": "2026-11-14T10:43:57+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336063083/rectangle_large_type_2_97d13f13dcfde00b81fb8225cba241c4.png?width=800",
+          "summary": "「医療費控除って、年間10万円以上かかった人だけでしょ？」 そう思って、病院や薬局の領収書を捨てていませんか？ 実は、その認識には見落としがあります。 国税庁のルールでは、所得が一定以下の人には、10万円とは別の基準が設けられているんです。 ■ ① 医療費控除は全員10万円が基準ではない 通常の医療費控除では、医療費から保険金などで補てんされた金額を差し引き…"
+        },
+        {
+          "title": "「電気代が安くなる」は本当？国が注意喚起した、契約前に見るべき落とし穴",
+          "url": "https://note.com/shinjitsu_saigen/n/n12a39c497cff",
+          "publishedAt": "2026-11-14T10:40:18+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336061778/rectangle_large_type_2_4038f45cf5050a90c00911767c709867.jpg?width=800",
+          "summary": "「電気代をもっと安くしたい」 そう思って電力会社を調べると、魅力的な広告が出てきます。 「今より安くなる」 「毎月一定額まで格安」 「乗り換えるだけで節約」 ところが2026年、国の電力・ガス取引監視等委員会は、格安料金をうたう広告や、誤解を招く料金シミュレーションについて注意喚起しました。 安くするために乗り換えたのに、逆に高くなる。 そんな失敗を防ぐため…"
+        },
+        {
+          "title": "医療費が高すぎて困っている人へ。知らないと損するかもしれない「高額療養費制度」",
+          "url": "https://note.com/shinjitsu_saigen/n/n4a12356b65d5",
+          "publishedAt": "2026-11-14T10:07:33+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336050040/rectangle_large_type_2_41292f3b877eb2b36659b3395794c89c.jpg?width=800",
+          "summary": "突然の入院や手術。 体の心配だけでも大変なのに、さらに気になるのがお金のことではないでしょうか。 「もし医療費が何十万円もかかったら？」 「貯金が少ないから不安」 そんな方に知っておいてほしい制度があります。 それが「高額療養費制度」です。 ■ ① 高額療養費制度とは？ 公的医療保険に加入している方が、保険診療で高額な医療費を負担した場合に、自己負担を一定の…"
+        },
+        {
+          "title": "毎月の謎の引き落とし。その正体、使っていないサブスクかもしれません",
+          "url": "https://note.com/shinjitsu_saigen/n/n9a0d817e3411",
+          "publishedAt": "2026-11-14T10:06:57+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336049931/rectangle_large_type_2_f95030047d0348469e509bb048b448e8.jpg?width=800",
+          "summary": "毎月の銀行口座やクレジットカードの明細。 あなたは全部説明できますか？ 「この980円って何だっけ？」 「無料体験で登録した気がする」 「解約したと思っていたのに請求が続いている」 そんな経験がある方に、ぜひ知ってほしいことがあります。 サブスクリプションは便利なサービスです。 しかし、使わなくなっても契約が続いていれば、料金が発生する場合があります。 ■ …"
+        },
+        {
+          "title": "スマホ代、毎月いくら払っていますか？知らないまま払い続けると損するかもしれません",
+          "url": "https://note.com/shinjitsu_saigen/n/n8b9c81056446",
+          "publishedAt": "2026-11-14T10:06:31+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336049693/rectangle_large_type_2_cb56453ca2d44b53ed4fa1a2e4d54857.jpg?width=800",
+          "summary": "突然ですが、質問です。 あなたは今、自分のスマホ代が何円なのか正確に答えられますか？ 「だいたい7,000円くらい」 「家族とまとめているから分からない」 そんな方は、一度確認してみる価値があります。 スマホ料金は、毎月自動で支払う固定費です。 だからこそ、一度見直すだけでも長い目で見れば大きな違いにつながります。 ■ ① 最初に確認するのはデータ使用量 ス…"
+        },
+        {
+          "title": "電気代が高い人へ。実は「節電」より先に確認してほしいことがあります",
+          "url": "https://note.com/shinjitsu_saigen/n/n78b1010507f3",
+          "publishedAt": "2026-11-14T10:06:02+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336049519/rectangle_large_type_2_644b6740f8386552d9067aab4ed79974.jpg?width=800",
+          "summary": "電気代の請求を見て、「今月も高い」と感じる。 でも、エアコンを使わない生活は現実的ではありませんよね。 そこで今回は、無理なく電気代を見直す方法をご紹介します。 ■ ① まずは電気の使用量を見る 電気代が高くなったとき、最初に確認したいのは請求金額だけではありません。 電気使用量を表す「kWh（キロワットアワー）」です。 電気代は使用量だけでなく、契約プラン…"
+        },
+        {
+          "title": "食費が高すぎる…そんな人に知ってほしい「我慢しない節約術」5選",
+          "url": "https://note.com/shinjitsu_saigen/n/nd3d79e23bc69",
+          "publishedAt": "2026-11-14T10:05:26+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336049320/rectangle_large_type_2_7841f26c93b904fbbbe57d513d32669a.jpg?width=800",
+          "summary": "スーパーで買い物をして、レジで金額を見て驚いたことはありませんか？ 「そんなに買っていないのに、こんなにするの？」 食費を抑えたい。でも、毎日もやしだけ食べるような生活はしたくない。 実は、食費の見直しで大切なのは、安い商品を探し続けることだけではありません。 「買ったものを無駄にしない仕組み」をつくることです。 ■ ① 買い物に行く前に冷蔵庫の写真を撮る …"
+        },
         {
           "title": "食費が高すぎる人へ。我慢せずに食費を減らす「1週間の買い物ルール」",
           "url": "https://note.com/shinjitsu_saigen/n/n623f42028c52",
@@ -667,55 +716,6 @@
           "publishedAt": "2026-11-08T13:44:38+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/333818174/rectangle_large_type_2_b43fad2fb0e89d894ea648ceebc6782a.jpg?width=800",
           "summary": "毎日のコンビニ、ドラッグストア、ネットショッピング。 同じ買い物でも、支払い方やキャンペーンの確認によって、受け取れるポイントが変わることがあります。 今回は、dポイントを普段から使っている人にも、これから貯めたい人にも役立つ5つの方法を紹介します。 ーーーー ① dポイントカードを提示する まず確認したいのが、dポイント加盟店でのポイントカード提示です。 …"
-        },
-        {
-          "title": "【2026年最新版】知らないと損！国の制度でお金が戻ってくる・節約できる4つの方法",
-          "url": "https://note.com/shinjitsu_saigen/n/ne913d49f27c9",
-          "publishedAt": "2026-11-07T01:32:18+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333163145/rectangle_large_type_2_6890846dd5cf81bf35d763fbeb632e59.jpg?width=800",
-          "summary": "物価が上がり、生活費の負担が増えている今。 節約やポイ活も大切ですが、実は国が用意している制度を知ることも、家計を守る大きな一歩になります。 今回は、会社員や個人事業主にも役立つ4つの制度を紹介します。 ーーーー ① 医療費控除｜病院代が多かった人は要チェック 1年間に支払った医療費が一定額を超えると、確定申告によって税金が軽減される可能性があります。 基本…"
-        },
-        {
-          "title": "【知らないと損】国が提供する200万点以上の資料が無料！18歳以上なら使える「国立国会図書館」の便利な制度",
-          "url": "https://note.com/shinjitsu_saigen/n/na2b795bdb489",
-          "publishedAt": "2026-11-05T22:12:38+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332717744/rectangle_large_type_2_5edaa1e74e0ae444b686be3b2e68e8ea.jpg?width=800",
-          "summary": "「本を読みたいけど、毎回購入するとお金がかかる」 「昔の資料を調べたいのに、絶版で手に入らない」 そんな人に知ってほしい、国の無料サービスがあります。 それが、国立国会図書館の「個人向けデジタル化資料送信サービス」です。 実はこの制度、条件を満たせば、自宅のスマートフォンやパソコンから利用できます。 しかも、利用料は無料。 今回は、意外と知られていないこの制…"
-        },
-        {
-          "title": "【知らないと損？】月額550円でスマホの充電器が借り放題。ドコモの隠れたお得サービスを完全解説",
-          "url": "https://note.com/shinjitsu_saigen/n/n9ab460aedce7",
-          "publishedAt": "2026-11-04T22:36:41+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332342535/rectangle_large_type_2_4c2c1349a511b085a2cb345acfced534.jpg?width=800",
-          "summary": "外出中にスマホの充電がなくなりそうになった経験、ない？ 地図を見たいのに残り5％。 電子決済を使いたいのに充電がない。 こんなときに便利なのが、コンビニや駅で見かけるモバイルバッテリーのレンタルサービス。 実はこれ、月額550円（税込）で何度でも借りられる方法がある。 しかも、ドコモ以外のスマホを使っている人でも利用できる。 ただし、ずっと使い放題というわけ…"
-        },
-        {
-          "title": "知らないと損。買い物の前に30秒確認するだけで、無駄な出費を減らせる方法",
-          "url": "https://note.com/shinjitsu_saigen/n/nad33bf34d0e9",
-          "publishedAt": "2026-11-03T21:59:35+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/331959579/rectangle_large_type_2_264a1d265590d4458160058cb1674bf8.jpg?width=800",
-          "summary": "毎日の買い物。 スーパー、ドラッグストア、ネット通販。 欲しいものを見つけたら、そのまま買っていませんか？ 実は、買う場所を少し変えるだけで、同じ商品でも支払う金額が変わることがあります。 今回紹介するのは、誰でも今日から実践できる「単価比較」という方法。 特別なアプリも、会員登録も必要ありません。 ーーーー 同じ商品なのに、安いとは限らない？ 例えば、こん…"
-        },
-        {
-          "title": "【知らないと損？】月400円で将来の年金が増える。国が用意した意外と知られていない制度",
-          "url": "https://note.com/shinjitsu_saigen/n/nad81b7b97cc6",
-          "publishedAt": "2026-11-02T22:34:54+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/331542997/rectangle_large_type_2_94adb96556bc1daac6b6ff4356a02f59.jpg?width=800",
-          "summary": "国の制度って、調べれば調べるほど面白い。 補助金、控除、保険、年金。 いろいろあるけど、正直、仕組みが難しすぎて何から調べたらいいかわからない。 でも今回、個人的にかなり気になった制度を見つけた。 それが「付加年金制度」。 なんと、毎月400円を追加で納めることで、将来受け取る年金を増やせるというもの。 しかも、一定の条件では、受け取り始めて2年間で追加負担…"
-        },
-        {
-          "title": "【10月開始】国民年金が月17,920円免除に。しかも将来の年金は減らない、新しい制度を知っていますか？",
-          "url": "https://note.com/shinjitsu_saigen/n/n093c6fc2bcf5",
-          "publishedAt": "2026-11-01T22:03:40+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/331144021/rectangle_large_type_2_4959bfe7b665fa6caf0f73428b85ce09.jpg?width=800",
-          "summary": "国の制度って、正直ちょっと難しいですよね。 名前も難しいし、手続きも面倒そう。 でも、調べてみると「これ、もっと知られていてもいいんじゃない？」と思う制度が見つかることがあります。 今回紹介するのは、2026年10月1日に新しく始まった「国民年金保険料の育児免除制度」。 対象となるのは、1歳未満の子どもを育てている自営業者やフリーランスなど、国民年金の第1号…"
-        },
-        {
-          "title": "【11月30日まで】ファミペイで毎日1回、最大500円相当が当たる！知らなかった人はアプリを確認してほしい",
-          "url": "https://note.com/shinjitsu_saigen/n/n924a4470ba62",
-          "publishedAt": "2026-11-01T21:54:43+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/331142056/rectangle_large_type_2_d7cd4649ee667ca1e2425d6967875077.jpg?width=800",
-          "summary": "コンビニって、何気なく利用することが多いですよね。 飲み物を買ったり、お昼ご飯を買ったり。 でも、いつも使っているコンビニのアプリに、意外と知られていないお得なキャンペーンがあるんです。 今回調べていて気になったのが、ファミリーマートの「ファミペイ」。 なんと11月2日から、毎日1回挑戦できるポイント抽選が始まっています。 しかも、最大500円相当のファミマ…"
         }
       ],
       "status": "ok"
