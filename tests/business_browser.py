@@ -41,6 +41,7 @@ with sync_playwright() as p:
    page.wait_for_function("!document.querySelector('.mobile-contact-bar').hidden")
    assert page.locator('.mobile-line-link').bounding_box()['height']>=44
    page.locator('#contact-title').scroll_into_view_if_needed();page.wait_for_function("document.querySelector('.mobile-contact-bar').hidden")
+   assert not page.locator('.mobile-contact-bar').is_visible(),f'Hidden bar still rendered at {width}'
    page.locator('.work-footer-nav').scroll_into_view_if_needed();page.evaluate('scrollTo(0,document.body.scrollHeight)');page.wait_for_function("!document.querySelector('.mobile-contact-bar').hidden")
    footer_mail=page.locator('.work-footer-nav [data-contact-method=email]').bounding_box();bar=page.locator('.mobile-contact-bar').bounding_box();assert footer_mail['y']+footer_mail['height']<=bar['y'],f'Footer hidden at {width}'
   if width in [390,1440]:
