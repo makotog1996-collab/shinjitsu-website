@@ -1,0 +1,29 @@
+[
+  {
+    "id": "repurpose",
+    "status": "available",
+    "name": "投稿リパーパス設計室",
+    "label": "発信・文章整理",
+    "description": "ひとつの記事を、次の投稿へ。要点3つからX・TikTok・Pinterest・noteの下書きを整理します。",
+    "url": "/tools/repurpose/",
+    "features": [
+      "編集・ワンクリックコピー",
+      "端末内の保存と復元",
+      "Markdown・CSV・JSON出力"
+    ]
+  },
+  {
+    "id": "image-check",
+    "status": "planned",
+    "name": "画像入稿チェック便",
+    "label": "画像・制作",
+    "description": "画像のサイズや透過、容量をまとめて確認する道具を検討しています。"
+  },
+  {
+    "id": "words",
+    "status": "planned",
+    "name": "ことばの下書き帳",
+    "label": "会話・コミュニケーション",
+    "description": "断りや催促など、伝えにくい気持ちを整理する道具を検討しています。"
+  }
+]
