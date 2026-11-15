@@ -1,12 +1,26 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T03:17:41.345714+00:00",
+  "checkedAt": "2026-11-15T11:20:53.419799+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-15T03:17:41.345714+00:00",
+      "fetchedAt": "2026-11-15T11:20:53.419799+00:00",
       "articles": [
+        {
+          "title": "毎月お金を払って文字起こししている人へ。YouTubeのURLだけで、ここまで無料でできるとは知らなかった。",
+          "url": "https://note.com/crisp_auk8183/n/n426599d41b9e",
+          "publishedAt": "2026-11-15T10:20:59+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336480461/rectangle_large_type_2_94b3e4d07bda309ca8544b20fe09e949.jpg?width=800",
+          "summary": "「YouTubeの動画を文字にしたい」 「海外の動画を日本語で理解したい」 「1時間の動画を全部見る時間がない」 そんな理由で、有料の文字起こしサービスや翻訳ツールを使っていませんか？ 実は、Googleが公開している無料で試せるAIツールを使えば、YouTubeのURLを貼るだけで、文字起こしや翻訳、要約までできるんです。 私も実際に試してみて驚きました。…"
+        },
+        {
+          "title": "ChatGPTを毎日使っているのに、仕事が楽にならない人へ。足りないのは「プロンプト力」だけじゃなかった",
+          "url": "https://note.com/crisp_auk8183/n/n863afe016a71",
+          "publishedAt": "2026-11-15T05:44:46+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336372649/rectangle_large_type_2_febd1c66379e2b362afd927c31b380c3.jpg?width=800",
+          "summary": "「AIを使えば、仕事が一気に楽になる」 そう聞いてChatGPTを使い始めた。 調べ物もできる。 文章も書いてくれる。 アイデアもたくさん出してくれる。 でも、ふと気づく。 「あれ？ 結局、自分で全部やっていない？」 AIが出した文章を何度も修正する。 毎回、同じ説明を打ち込む。 便利なツールを調べる時間ばかり増える。 これでは、AIを使っているのに忙しさが…"
+        },
         {
           "title": "ChatGPTにプラグインを入れる前に読んでほしい。便利さの裏にある4つの注意点",
           "url": "https://note.com/crisp_auk8183/n/n21bde14a1cb2",
@@ -167,20 +181,6 @@
           "publishedAt": "2026-11-11T13:12:59+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/334986099/rectangle_large_type_2_8b0e76f347e1aee227a2545335318710.jpg?width=800",
           "summary": "「ChatGPTって、そもそも誰が作ったの？」 毎日のようにAIを使っているのに、意外と知らないことがあります。 * AIはいつ、誰が発明したのか？ * ChatGPTを作ったOpenAIとは何者なのか？ * イーロン・マスクも創業に関わっていたって本当？ * 創業者たちは今、何をしているのか？ * なぜAIは突然ここまで賢くなったのか？ * これからAIは…"
-        },
-        {
-          "title": "【衝撃】プログラミングができない僕が、ChatGPTで自分専用サイトを公開できた話",
-          "url": "https://note.com/crisp_auk8183/n/nc7b339d78647",
-          "publishedAt": "2026-11-11T11:52:17+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334954621/rectangle_large_type_2_d6c386a9996e214913da9639226011a9.jpg?width=800",
-          "summary": "「ChatGPTって、質問したり文章を書いてもらったりするものでしょ？」 少し前まで、僕もそんな感覚で使っていました。 でも今日、あるものを完成させました。 それが、自分専用のWebサイトです。 しかも、僕はプログラミングの専門家ではありません。 コードを一から書いたわけでもありません。 AIに相談しながら、実際にインターネット上に公開するところまで進めまし…"
-        },
-        {
-          "title": "ChatGPTを「質問するだけ」で使っている人、正直もったいない。僕が人生の管理をAIに任せ始めた話",
-          "url": "https://note.com/crisp_auk8183/n/n5c2a7ef5f898",
-          "publishedAt": "2026-11-11T04:52:27+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334814652/rectangle_large_type_2_cae474153aa80db8e0b3101dd3127414.jpg?width=800",
-          "summary": "ChatGPTを使っている人に、ひとつ質問があります。 あなたはChatGPTを「質問するためのアプリ」だと思っていませんか？ わからないことを聞く。 文章を作ってもらう。 調べものを手伝ってもらう。 もちろん、それだけでも十分便利です。 でも、最近の僕は少し違う使い方をしています。 それは、自分の生活や目標をChatGPTにまとめて管理してもらうこと。 お…"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-15T03:17:41.345714+00:00",
+      "fetchedAt": "2026-11-15T11:20:53.419799+00:00",
       "articles": [
+        {
+          "title": "「いい人」を続けるほど、なぜか疲れていく。職場で断れない人に知ってほしい伝え方",
+          "url": "https://note.com/rosy_snake7477/n/n0e53f95e0187",
+          "publishedAt": "2026-11-15T05:46:30+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336373489/rectangle_large_type_2_c1b39bf7b9d17b30609a85e7646e12a8.jpg?width=800",
+          "summary": "「これ、今日中にお願いできる？」 本当は自分の仕事も終わっていない。 でも、相手を困らせたくなくて、つい言ってしまう。 「大丈夫です！」 頼まれた相手は安心する。 その一方で、自分の予定はどんどん崩れていく。 帰りが遅くなる。 ストレスがたまる。 それでも翌日、同じように引き受けてしまう。 そんな経験はありませんか？ ■ 職場の人間関係は、2026年も大きな…"
+        },
         {
           "title": "会話が続く人は「質問」が上手いわけじゃない。実は返し方が違う",
           "url": "https://note.com/rosy_snake7477/n/nc5a5f4db715e",
@@ -357,8 +364,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-15T03:17:41.345714+00:00",
+      "fetchedAt": "2026-11-15T11:20:53.419799+00:00",
       "articles": [
+        {
+          "title": "高い化粧水を買う前に。男の肌を荒らしやすい「3つの習慣」を見直してほしい",
+          "url": "https://note.com/brave_violet386/n/nd75c904cdd36",
+          "publishedAt": "2026-11-15T05:48:06+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336374215/rectangle_large_type_2_c9eba6bb35a70a6dfd402b5370e81e68.jpg?width=800",
+          "summary": "「洗顔もしている」 「化粧水も使っている」 「ヒゲも毎日剃っている」 それなのに、肌が赤くなる。 口周りにブツブツができる。 顔が乾燥したり、逆にテカったりする。 もっと清潔感を出したいのに、何から変えたらいいのか分からない。 そんな男性に伝えたいことがあります。 新しい美容商品を買う前に、毎日やっていることを確認してみませんか？ ■ 2026年、男性の美容…"
+        },
         {
           "title": "男性の美容の悩み1位は「シミ・くすみ」。肌を変えたい男が最初にやるべき3つのこと",
           "url": "https://note.com/brave_violet386/n/n511b3f0e45d8",
@@ -526,13 +540,6 @@
           "publishedAt": "2026-11-05T03:46:21+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/332431594/rectangle_large_type_2_36e743a69fc6c432ad80fcad7a8bfc10.jpg?width=800",
           "summary": "「最近、お腹が出てきたな」 そう感じたとき、真っ先に思い浮かぶのが腹筋運動。 毎日腹筋を100回やれば、お腹の脂肪も落ちて、いつか腹筋が割れる。 そう考えている人も多いと思う。 でも、実はここに大きな勘違いがある。 腹筋を鍛えることと、お腹の脂肪を落とすことは別の話。 今回は、お腹の脂肪が落ちる仕組みから、食事・運動・生活習慣まで、科学的な根拠をもとに解説し…"
-        },
-        {
-          "title": "【男磨き】筋トレを5回続けたら何が変わる？限界まで追い込んだ身体に起きる変化",
-          "url": "https://note.com/brave_violet386/n/n14f46aad38b2",
-          "publishedAt": "2026-11-04T23:08:11+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332349080/rectangle_large_type_2_ba348b907cc4d252fe880a861eb7aadc.jpg?width=800",
-          "summary": "筋トレを始めたばかりの人に聞きたい。 「5回ジムに行ったら、身体は変わると思う？」 おそらく、たった5回では何も変わらないと思う人も多いはず。 でも、実はそうとも限らない。 もちろん、5回の筋トレでいきなりムキムキになるわけじゃない。 ただ、見た目には現れなくても、身体の内側では変化が始まっている可能性がある。 今回は、筋トレを5回続けた段階で何が期待できる…"
         }
       ],
       "status": "ok"
@@ -540,8 +547,50 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-15T03:17:41.345714+00:00",
+      "fetchedAt": "2026-11-15T11:20:53.419799+00:00",
       "articles": [
+        {
+          "title": "貯金しているのに生活が苦しい。NISAに全部入れるのも危険？お金を守りながら増やす考え方",
+          "url": "https://note.com/shinjitsu_saigen/n/n6d8a051da6d0",
+          "publishedAt": "2026-11-15T05:57:58+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336378418/rectangle_large_type_2_13231594a82a5dcc9e195938a239e734.jpg?width=800",
+          "summary": "「毎月ちゃんと貯金しているのに、生活が楽にならない」 「物価が上がっているから投資を始めたい」 「でも、損をするのは怖い」 そんな悩みを感じていませんか？ 実は、お金を増やすことを考える前に知っておきたいことがあります。 それが「貯金するお金」と「投資するお金」を分ける考え方です。 ■ ① 貯金が減らなくても、買えるものは減る？ 総務省統計局によると、202…"
+        },
+        {
+          "title": "年金を払えない人へ。「未納」と「免除」は同じではありません。将来を守るために知っておきたい制度",
+          "url": "https://note.com/shinjitsu_saigen/n/n7fdcb54e3956",
+          "publishedAt": "2026-11-15T05:57:09+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336378015/rectangle_large_type_2_21dcbf4040c36166494445ee4cc1a30e.jpg?width=800",
+          "summary": "「国民年金の支払いが苦しい」 「収入が減ったから、今月は払えそうにない」 そんなとき、支払いを後回しにしていませんか？ 実は、国民年金には、経済的に納付が難しい人のための制度があります。 それが「保険料免除制度」と「納付猶予制度」です。 そして、知っておきたいのは、この制度が老後の年金だけに関係するわけではないということです。 ■ ① 年金は老後のためだけの…"
+        },
+        {
+          "title": "給料が減ったのに住民税が高いのはなぜ？知らないと苦しくなる「税金の時間差」",
+          "url": "https://note.com/shinjitsu_saigen/n/n2b4aa6bbc9c3",
+          "publishedAt": "2026-11-15T05:56:09+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336377700/rectangle_large_type_2_2401b96e994221b211b42f420a34362c.jpg?width=800",
+          "summary": "「去年より給料が減ったのに、住民税は高いまま」 こんな経験はありませんか？ 実は、住民税には多くの人が見落としやすい仕組みがあります。 それが「去年の所得をもとに、今年の税金が決まる」というルールです。 この仕組みを知らないと、転職・退職・独立したときに思わぬ負担を感じることがあります。 ■ ① 住民税は今の給料で決まらない まず、所得税と住民税の違いを知っ…"
+        },
+        {
+          "title": "「副業20万円以下なら税金ゼロ」は本当？稼ぎ始めた人が見落とす落とし穴",
+          "url": "https://note.com/shinjitsu_saigen/n/n306ee10ab1b6",
+          "publishedAt": "2026-11-15T05:54:28+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336376921/rectangle_large_type_2_9f76152a2bb93ac606016216affd2235.jpg?width=800",
+          "summary": "「副業で年間20万円以下なら、税金は気にしなくていい」 こんな話を聞いたことはありませんか？ 実は、この言葉をそのまま信じていると、後から困る可能性があります。 なぜなら、所得税と住民税では、申告のルールが違うからです。 今回は、副業を始めた人が知っておきたい「20万円の本当の意味」を解説します。 ■ ① 20万円以下なら何もしなくていい？ まず、知っておき…"
+        },
+        {
+          "title": "退職したら健康保険はどうなる？知らないと後悔する「3つの選択肢と20日の期限」",
+          "url": "https://note.com/shinjitsu_saigen/n/nde1e96839322",
+          "publishedAt": "2026-11-15T05:52:50+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336376772/rectangle_large_type_2_b4fb62554b2b9f81e1176732775f44d6.jpg?width=800",
+          "summary": "会社を辞めるとき、給料や次の仕事のことは考えていても、健康保険のことは後回しになりがちです。 ところが、ここには知っておきたい期限があります。 それが「退職日の翌日から20日以内」というルールです。 知らないまま時間が過ぎると、選べたはずの健康保険を選べなくなる可能性があります。 ■ ① 退職したら健康保険は自動で続く？ 会社の健康保険に加入していた人が退職…"
+        },
+        {
+          "title": "「半額だから買う」が食費を増やしていた？物価高で見落としやすい買い物の罠",
+          "url": "https://note.com/shinjitsu_saigen/n/n3568356fd5c0",
+          "publishedAt": "2026-11-15T05:48:53+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336374758/rectangle_large_type_2_8993bc08742b21871b753c5a6fe0f5b6.jpg?width=800",
+          "summary": "スーパーで、こんな商品を見つけたことはありませんか？ 「本日限り50％オフ」 1,000円の商品が500円。 思わず、お得だと思って買ってしまう。 でも、数日後。 冷蔵庫の奥から、使い切れなかった食材が出てくる。 「また無駄にしてしまった……」 節約のために買ったのに、結果的には食費が増えている。 実は、値引き商品を買うときに重要なのは、割引率だけではありま…"
+        },
         {
           "title": "医療費は10万円を超えないと無理？実は対象になる人がいます",
           "url": "https://note.com/shinjitsu_saigen/n/n3348c100c184",
@@ -674,48 +723,6 @@
           "publishedAt": "2026-11-11T00:09:12+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/334730916/rectangle_large_type_2_57b4e1629c782ef13340d0fbfa10c139.jpg?width=800",
           "summary": "「もっと早く知っておけばよかった」 お金の制度について調べると、そう感じることがあります。 実は、収入を増やすことだけでなく、使える制度を知っておくことも、お金を残すためには大切です。 今回は、2026年11月時点の国税庁の情報をもとに、副業や業務委託をしている人が確認したい3つの仕組みを紹介します。 ーーーー ① 最大65万円を所得から差し引ける「青色申告…"
-        },
-        {
-          "title": "【2026年11月】初めての人はチェック！無料で始められるお得な特典3選🎁",
-          "url": "https://note.com/shinjitsu_saigen/n/n7c5ce6501b46",
-          "publishedAt": "2026-11-10T07:46:48+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334488607/rectangle_large_type_2_e6ffcdfa0f152e3783b38b448003420b.jpg?width=800",
-          "summary": "「もっと早く知っておけばよかった」 お得なサービスを調べていると、そう思うことがあります。 実は、初めて登録する人や、初めてサービスを連携する人に向けた特典が用意されていることがあります。 今回は、2026年11月に実施されているキャンペーンの中から、初心者でも始めやすいものを3つ紹介します。 ーーーー ① ハピタス｜初めての登録でポイント獲得 ハピタスは、…"
-        },
-        {
-          "title": "知らないと損？個人事業主が使える「最大65万円の控除」をわかりやすく解説",
-          "url": "https://note.com/shinjitsu_saigen/n/ne79ba56c8965",
-          "publishedAt": "2026-11-09T03:35:53+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334001196/rectangle_large_type_2_5d14a14b58497547257fc9e7e1c3ce6f.jpg?width=800",
-          "summary": "「副業を始めたけど、税金のことはよくわからない」 「個人事業主になったら、何かお得な制度はある？」 そんな人に知ってほしいのが、国の税制にある青色申告特別控除です。 条件を満たせば、所得から最大65万円を差し引ける制度です。 ただし、65万円がそのまま振り込まれるわけではありません。 今回は仕組みから注意点まで、初心者向けに解説します。 ーーーー ① 青色申…"
-        },
-        {
-          "title": "子どもにiPhoneを貸す前に。ゲームはそのまま、追加課金を止める設定",
-          "url": "https://note.com/shinjitsu_saigen/n/nfbf2328db034",
-          "publishedAt": "2026-11-09T02:23:08+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333977945/rectangle_large_type_2_1263b9cae8a26f5d6904424f4c6f865c.jpg?width=800",
-          "summary": "待ち時間に子どもにiPhoneを貸したら、ゲームの途中で「ハートを追加しますか？」という画面が出てきた。子どもはもう一回遊びたいだけ。でも、そのハートには値段が付いている。 こんな場面に備えて、iPhoneには、ゲームで遊べる状態のまま、Apple経由のアプリ内課金を止める設定があります。無料のアプリを新しく入れるかどうかも、課金とは別に決められます。 ーー…"
-        },
-        {
-          "title": "子どもにiPhoneを貸す前に。「ゲームは遊べる、追加課金はできない」にする設定",
-          "url": "https://note.com/shinjitsu_saigen/n/n80b91e3db388",
-          "publishedAt": "2026-11-09T02:18:04+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333976516/rectangle_large_type_2_4f84d5f4d527a3fa3ff11e1edfbba5c3.jpg?width=800",
-          "summary": "「ちょっとゲームしていい？」と聞かれて、自分のiPhoneを貸す。遊ぶのはいいけれど、ゲーム内のコインやアイテムにお金を使うつもりはない。そんなときに便利な設定があります。 iPhoneでは、無料アプリを入れたり、今あるゲームで遊んだりしながら、Appleを通じたアプリ内課金だけを止められます。設定する場所は「スクリーンタイム」です。 ーーーー ■ 変えるの…"
-        },
-        {
-          "title": "iPhoneで消した写真は戻せる？「昨日バックアップしたから大丈夫」の落とし穴",
-          "url": "https://note.com/shinjitsu_saigen/n/nfef790a1dd28",
-          "publishedAt": "2026-11-09T02:15:03+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333975595/rectangle_large_type_2_3801120d4b13328ede5fcd61175d2a23.jpg?width=800",
-          "summary": "旅行の写真を整理していて、よく似た2枚のうち、残したかったほうを消してしまった。そんなとき、「昨日の夜、iPhoneのバックアップが取れていたから戻せる」と思いませんか？ ここで意外なのが、iCloud写真を使っていると、同期済みの写真は、毎晩のiCloudバックアップにはもう一枚保存されないことです。 つまり、昨日バックアップに成功していても、そこから昨日…"
-        },
-        {
-          "title": "dポイントを取りこぼしてない？買い物前に確認したい5つの節約術",
-          "url": "https://note.com/shinjitsu_saigen/n/n82208ef0f4f8",
-          "publishedAt": "2026-11-08T13:44:38+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333818174/rectangle_large_type_2_b43fad2fb0e89d894ea648ceebc6782a.jpg?width=800",
-          "summary": "毎日のコンビニ、ドラッグストア、ネットショッピング。 同じ買い物でも、支払い方やキャンペーンの確認によって、受け取れるポイントが変わることがあります。 今回は、dポイントを普段から使っている人にも、これから貯めたい人にも役立つ5つの方法を紹介します。 ーーーー ① dポイントカードを提示する まず確認したいのが、dポイント加盟店でのポイントカード提示です。 …"
         }
       ],
       "status": "ok"
