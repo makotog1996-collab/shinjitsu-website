@@ -13,6 +13,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(ROOT/'scripts'))
 from update_notes import atomic_json, valid_profile
 from render_work import render_work
+from render_tools import render_tools
 ESC = lambda value: html.escape(str(value), quote=True)
 ICONS = {
 'spark':'<path d="m16 3 3.5 9.5L29 16l-9.5 3.5L16 29l-3.5-9.5L3 16l9.5-3.5Z"/><path d="M27 2v6M24 5h6"/>',
@@ -76,8 +77,10 @@ def build():
         if not re.fullmatch(r'[a-z0-9-]{1,70}',offer_id): raise ValueError('Invalid offer identifier')
         offers.append(external(item['url'],'recommended-card',f'<span>{ESC(item.get("disclosure",""))}</span><h3>{ESC(item["title"])}</h3><p>{ESC(item["description"])}</p>',f'data-offer-id="{offer_id}"'))
     template=(ROOT/'templates/index.html').read_text()
-    data={'NAME':ESC(config['name']),'TAGLINE':ESC(config['tagline']),'DESCRIPTION':ESC(config['description']),'SITE_URL':ESC(config['url']),'THEMES':''.join(cards),'CHIPS':''.join(theme_chips),'ARTICLES':''.join(article_cards),'SOCIALS':''.join(socials),'FOOTER_NOTES':''.join(footer),'FOOTER_SOCIALS':''.join(external(i['url'],'',ESC(i['name'])) for i in config['socials']),'RECOMMENDED':''.join(recommended),'YEAR':str(datetime.now().year),'ARTICLE_HIDDEN':' hidden' if not articles else '', 'OFFERS':''.join(offers) if offers else '<div class="offer-empty"><span class="offer-icon" aria-hidden="true">＋</span><div><h3>暮らしに、学びに。次の小さな一歩を。</h3><p>役立つアイテムやコンテンツを、ここで少しずつご紹介していきます。</p><span class="preparing">ただいま準備中です</span></div></div>'}
+    data={'NAME':ESC(config['name']),'TAGLINE':ESC(config['tagline']),'DESCRIPTION':ESC(config['description']),'SITE_URL':ESC(config['url']),'THEMES':''.join(cards),'CHIPS':''.join(theme_chips),'ARTICLES':''.join(article_cards),'SOCIALS':''.join(socials),'FOOTER_NOTES':''.join(footer),'FOOTER_SOCIALS':''.join(external(i['url'],'',ESC(i['name'])) for i in config['socials']),'RECOMMENDED':''.join(recommended),'YEAR':str(datetime.now().year),'ARTICLE_HIDDEN':' hidden' if not articles else '', 'OFFERS':''.join(offers) if offers else '<div class="offer-empty"><span class="offer-icon" aria-hidden="true">＋</span><div><h3>暮らしに、学びに。次の小さな一歩を。</h3><p>役立つアイテムやコンテンツを、ここで少しずつご紹介していきます。</p><span class="preparing">商品・テンプレートは準備中</span></div></div>'}
     data.update(work_values)
+    data.update(render_tools())
+    data['OFFER_DISCLOSURE'] = '広告・アフィリエイトを含む場合は、各紹介に明示しています。最新の条件はリンク先でご確認ください。' if offers else '広告・アフィリエイトを掲載する際は、対象を明示します。現在は販売中の商品・紹介広告はありません。'
     data['SEO_TITLE'] = ESC(config.get('seoTitle',config['name']))
     for key,value in data.items(): template=template.replace('{{'+key+'}}',value)
     if '{{' in template: raise ValueError('Unfilled template')
@@ -95,5 +98,7 @@ def build():
     for key,value in data.items(): privacy=privacy.replace('{{'+key+'}}',value)
     if '{{' in privacy: raise ValueError('Unfilled privacy template')
     (ROOT/'public/privacy.html').write_text(privacy)
+    from prepare_seo import prepare_seo
+    prepare_seo(config)
     print('Built public/:',len(cards),'themes,',len(articles),'articles; remote updates', 'configured' if remote_url(config) else 'not configured')
 if __name__=='__main__': build()

@@ -5,7 +5,7 @@
     ['https://note.com/crisp_auk8183','note_ai'],['https://note.com/rosy_snake7477','note_psychology'],
     ['https://note.com/brave_violet386','note_migaku'],['https://note.com/shinjitsu_saigen','note_savings'],
     ['https://x.com/abp12f','x'],['https://www.tiktok.com/@otokomigaki.lab2','tiktok'],
-    ['https://www.instagram.com/shinjitsu_aiai','instagram']
+    ['https://www.instagram.com/shinjitsu_aiai','instagram'],['https://www.tiktok.com/@kutsunioi_lab','tiktok_drama']
   ]);
   document.addEventListener('click', event => {
     const anchor=event.target?.closest?.('a[href]');
@@ -18,6 +18,7 @@
       window.gtag('event','contact_click',{contact_method:method,placement:safePlacement,transport_type:'beacon'});
       return;
     }
+    if(anchor.dataset.toolId==='repurpose' && url.origin===location.origin && url.pathname==='/tools/repurpose/') {window.gtag('event','tool_open',{tool_id:'repurpose',placement:'tool_catalog',transport_type:'beacon'});return;}
     const portfolioId = anchor.dataset.portfolioId;
     if (anchor.closest('#portfolio') && url.protocol === 'https:' && /^[a-z0-9-]{1,70}$/.test(portfolioId || '')) {
       window.gtag('event','portfolio_click',{content_id:portfolioId,placement:'portfolio',transport_type:'beacon'});
