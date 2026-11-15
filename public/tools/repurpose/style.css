@@ -7,3 +7,4 @@
 .intro>*{min-width:0}@media(max-width:370px){.flow-art{gap:14px}.paper{width:112px;min-width:0;padding:15px 10px}.paper b{font-size:15px}.branches>span{min-width:148px}.intro .eyebrow{flex-wrap:wrap}}
 
 @media(max-width:760px){.workspace>.section-heading{align-items:flex-start;flex-direction:column}.workspace>.section-heading .text-button{align-self:flex-end;margin-top:-10px}}
+.example{overflow-wrap:anywhere;word-break:break-word}
