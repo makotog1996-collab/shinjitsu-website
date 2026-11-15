@@ -77,7 +77,7 @@ function renderLibrary(){
  });
 }
 function activeDirty(){if(!current)return false;return Object.keys(sample).some(key=>$(key).value.trim()!==current.input[key]);}
-$('source-form').addEventListener('submit',e=>{e.preventDefault();if(!started){started=true;track('tool_start');}$('form-error').textContent='';try{const data=inputData();current={version:1,id:newId(),updated:new Date().toISOString(),input:data,outputs:compose(data),posted:{},checks:{}};active='x';render();status('4媒体の型に整理しました。編集・確認してから、保存や持ち出しへ。');track('tool_complete');}catch(error){$('form-error').textContent=error.message;}});
+$('source-form').addEventListener('submit',e=>{e.preventDefault();if(!started){started=true;track('tool_start');}$('form-error').textContent='';try{const data=inputData();populate(data);current={version:1,id:newId(),updated:new Date().toISOString(),input:data,outputs:compose(data),posted:{},checks:{}};active='x';render();status('4媒体の型に整理しました。編集・確認してから、保存や持ち出しへ。');track('tool_complete');}catch(error){$('form-error').textContent=error.message;}});
 $('draft').addEventListener('input',syncDraft);
 $('posted').addEventListener('change',()=>{if(current)current.posted[active]=$('posted').checked;});
 for(const el of document.querySelectorAll('[data-check]'))el.addEventListener('change',()=>{if(current)current.checks[el.dataset.check]=el.checked;updateReview();});
