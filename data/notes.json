@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-15T19:05:40.182475+00:00",
+  "checkedAt": "2026-11-16T19:18:46.759093+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-15T19:05:40.182475+00:00",
+      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
       "articles": [
+        {
+          "title": "有料の文字起こし、まだ必要？YouTubeのURLだけで翻訳までできるGoogleの無料AIが便利すぎた",
+          "url": "https://note.com/crisp_auk8183/n/nebea5cc8cf04",
+          "publishedAt": "2026-11-15T22:01:48+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336656508/rectangle_large_type_2_cb61ff1b677fe8d150bcb96b98c444bc.jpg?width=800",
+          "summary": "「YouTubeの動画を文字にしたい」 「海外の動画を日本語で理解したい」 「長い動画を見て勉強したいけれど、時間が足りない」 こんな悩みを抱えていませんか？ 文字起こしや翻訳には、有料サービスが必要だと思っている人もいるかもしれません。 でも、ちょっと待ってください。 実はGoogleが提供している「Google AI Studio（グーグルAIスタジオ）…"
+        },
         {
           "title": "毎月お金を払って文字起こししている人へ。YouTubeのURLだけで、ここまで無料でできるとは知らなかった。",
           "url": "https://note.com/crisp_auk8183/n/n426599d41b9e",
@@ -174,13 +181,6 @@
           "publishedAt": "2026-11-11T14:16:15+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335007292/rectangle_large_type_2_1acc2a1675fe3274a6f325691dd70027.jpg?width=800",
           "summary": "「AIに質問する時代」から「AIに仕事を任せる時代」へ。 最近、Instagramを開いていると「Muse from Meta」というアプリを見かけることがあります。 実はこれ、InstagramやFacebookを運営するMetaが開発した、新しいAIサービスです。 2026年10月23日、日本でも提供が開始されました。 しかも、ただ会話するだけのAIでは…"
-        },
-        {
-          "title": "ChatGPTは誰が作った？AI誕生から創業者の正体、2026年の現在まで完全解説",
-          "url": "https://note.com/crisp_auk8183/n/n68e45e9d0935",
-          "publishedAt": "2026-11-11T13:12:59+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334986099/rectangle_large_type_2_8b0e76f347e1aee227a2545335318710.jpg?width=800",
-          "summary": "「ChatGPTって、そもそも誰が作ったの？」 毎日のようにAIを使っているのに、意外と知らないことがあります。 * AIはいつ、誰が発明したのか？ * ChatGPTを作ったOpenAIとは何者なのか？ * イーロン・マスクも創業に関わっていたって本当？ * 創業者たちは今、何をしているのか？ * なぜAIは突然ここまで賢くなったのか？ * これからAIは…"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-15T19:05:40.182475+00:00",
+      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
       "articles": [
+        {
+          "title": "なぜか人に好かれる人は、話し上手ではなく「聞き方」が違う。今日から使える5つの会話術",
+          "url": "https://note.com/rosy_snake7477/n/n6d7b98af157e",
+          "publishedAt": "2026-11-15T22:03:25+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336656919/rectangle_large_type_2_297a12db2552b28bcbbf9fad175d1f14.jpg?width=800",
+          "summary": "会話が上手な人と聞くと、どんな人を想像しますか？ 話題が豊富な人。 面白い話ができる人。 初対面でも緊張せずに話せる人。 そんなイメージがあるかもしれません。 でも、実は会話の印象を良くするために、自分がたくさん話す必要はありません。 大切なのは、相手が「この人には話しやすい」と感じられること。 今回は、心理学の研究でも注目されている聞き方をもとに、今日から…"
+        },
         {
           "title": "「いい人」を続けるほど、なぜか疲れていく。職場で断れない人に知ってほしい伝え方",
           "url": "https://note.com/rosy_snake7477/n/n0e53f95e0187",
@@ -364,8 +371,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-15T19:05:40.182475+00:00",
+      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
       "articles": [
+        {
+          "title": "筋トレを頑張っているのに体が変わらない人へ。見落としがちな5つの習慣",
+          "url": "https://note.com/brave_violet386/n/neda101105fb7",
+          "publishedAt": "2026-11-15T22:06:35+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336657748/rectangle_large_type_2_54e49e285957745b26d16ecf2cdf4670.jpg?width=800",
+          "summary": "筋トレを始めたのに、なかなか体が変わらない。 ジムに通っているのに、筋肉が増えた実感がない。 そんな悩みはありませんか？ 筋肉を増やすには、トレーニングを頑張ることが大切です。 でも、実はそれだけではありません。 食事、睡眠、回復、トレーニングの記録。 こうした日々の習慣も、体づくりに関わっています。 今回は、筋トレ初心者が見落としがちな5つのポイントを紹介…"
+        },
         {
           "title": "高い化粧水を買う前に。男の肌を荒らしやすい「3つの習慣」を見直してほしい",
           "url": "https://note.com/brave_violet386/n/nd75c904cdd36",
@@ -533,13 +547,6 @@
           "publishedAt": "2026-11-05T03:52:31+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/332434015/rectangle_large_type_2_7a3e5aecb5de9d653882a02acaa32282.jpg?width=800",
           "summary": "お腹の脂肪を落としたい。 そう思ったとき、まず何をするだろうか。 ご飯を減らす？ 夜だけ食べない？ 炭水化物を抜く？ 実は、どれも必ずしも正解ではない。 お腹の脂肪を減らすために大切なのは、食べないことではなく、食べ方を整えること。 そして、筋肉を残しながら身体を引き締めたいなら、さらに意識したいことがある。 今回は、科学的な根拠をもとに、今日から実践できる…"
-        },
-        {
-          "title": "お腹の脂肪を落としたいなら、腹筋より先にやるべきことがある。",
-          "url": "https://note.com/brave_violet386/n/n57aac9d8a94e",
-          "publishedAt": "2026-11-05T03:46:21+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332431594/rectangle_large_type_2_36e743a69fc6c432ad80fcad7a8bfc10.jpg?width=800",
-          "summary": "「最近、お腹が出てきたな」 そう感じたとき、真っ先に思い浮かぶのが腹筋運動。 毎日腹筋を100回やれば、お腹の脂肪も落ちて、いつか腹筋が割れる。 そう考えている人も多いと思う。 でも、実はここに大きな勘違いがある。 腹筋を鍛えることと、お腹の脂肪を落とすことは別の話。 今回は、お腹の脂肪が落ちる仕組みから、食事・運動・生活習慣まで、科学的な根拠をもとに解説し…"
         }
       ],
       "status": "ok"
@@ -547,8 +554,15 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-15T19:05:40.182475+00:00",
+      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
       "articles": [
+        {
+          "title": "節約しているのにお金が残らない人へ。まず見直したい5つの固定費",
+          "url": "https://note.com/shinjitsu_saigen/n/nca1d1925034a",
+          "publishedAt": "2026-11-15T22:05:40+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/336657561/rectangle_large_type_2_427d06feca655dbbae546de44627889b.jpg?width=800",
+          "summary": "「無駄遣いしていないはずなのに、お金が残らない」 「食費を減らしているのに、貯金が増えない」 「節約したいけれど、何から始めればいいか分からない」 そんな悩みはありませんか？ 節約と聞くと、外食を減らしたり、安い商品を探したりすることを想像するかもしれません。 もちろん、それも大切です。 でも、毎月自動的に引き落とされる固定費を見直す方が、継続的な節約につな…"
+        },
         {
           "title": "貯金しているのに生活が苦しい。NISAに全部入れるのも危険？お金を守りながら増やす考え方",
           "url": "https://note.com/shinjitsu_saigen/n/n6d8a051da6d0",
@@ -716,13 +730,6 @@
           "publishedAt": "2026-11-11T23:49:16+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335084671/rectangle_large_type_2_aada99da98cc0fdf0b4fd9e2e0cb8c05.jpg?width=800",
           "summary": "「今月こそ節約しよう」 そう決めて、コンビニを我慢する。 外食を減らす。 スーパーで少しでも安い商品を探す。 もちろん、それも大切です。 でも、もっと先に確認したいものがあります。 それは、毎月何もしなくても出ていくお金です。 ーーーー 100円の節約より、毎月500円の見直し 例えば、月額500円のサービス。 使っていないのに契約したままだとします。 1年…"
-        },
-        {
-          "title": "【2026年版】知らないと損する！副業・個人事業主が確認したいお金の制度3選💰",
-          "url": "https://note.com/shinjitsu_saigen/n/n3a7b9c05d8b4",
-          "publishedAt": "2026-11-11T00:09:12+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334730916/rectangle_large_type_2_57b4e1629c782ef13340d0fbfa10c139.jpg?width=800",
-          "summary": "「もっと早く知っておけばよかった」 お金の制度について調べると、そう感じることがあります。 実は、収入を増やすことだけでなく、使える制度を知っておくことも、お金を残すためには大切です。 今回は、2026年11月時点の国税庁の情報をもとに、副業や業務委託をしている人が確認したい3つの仕組みを紹介します。 ーーーー ① 最大65万円を所得から差し引ける「青色申告…"
         }
       ],
       "status": "ok"
