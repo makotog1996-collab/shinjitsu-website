@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-16T19:18:46.759093+00:00",
+  "checkedAt": "2026-11-17T19:24:22.377104+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
+      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
       "articles": [
+        {
+          "title": "YouTubeをAIで文字起こしした人へ。その文章、本当に正しいですか？無料AIを使いこなすための確認術",
+          "url": "https://note.com/crisp_auk8183/n/n4713f369bf6a",
+          "publishedAt": "2026-11-16T22:08:28+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337055267/rectangle_large_type_2_e10b223c9ace805c315a518b42814c16.jpg?width=800",
+          "summary": "YouTubeのURLを貼るだけで、動画を文字起こしできる。 海外の動画も日本語に翻訳できる。 Google AI Studio（グーグルAIスタジオ）などを使えば、こうした作業を無料枠で試せる時代になりました。 でも、便利だからこそ知っておきたい落とし穴があります。 それは「AIが出した文章は、必ずしも動画の内容と一致しない」ということです。 今回は、無料…"
+        },
         {
           "title": "有料の文字起こし、まだ必要？YouTubeのURLだけで翻訳までできるGoogleの無料AIが便利すぎた",
           "url": "https://note.com/crisp_auk8183/n/nebea5cc8cf04",
@@ -174,13 +181,6 @@
           "publishedAt": "2026-11-11T21:59:41+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335051535/rectangle_large_type_2_c5d1cdb2426c521cf31abbb968bed86c.jpg?width=800",
           "summary": "「この動画、30秒にまとめて」 「見どころだけ抜き出して」 「字幕をつけて、縦型動画にして」 もし、こんな指示をAIに伝えるだけで動画編集が進むとしたら、どうでしょうか。 実は2026年11月10日、Adobeがそんな未来を現実に近づける新機能を発表しました。 しかも、単なる動画の自動生成ではありません。 AIが動画編集ソフトの中で、実際の編集作業を手伝って…"
-        },
-        {
-          "title": "【新AI登場】Instagramを運営するMetaが「Muse」を日本公開！ChatGPTと何が違う？できること・料金・使い方を完全解説",
-          "url": "https://note.com/crisp_auk8183/n/nae76df9fb08b",
-          "publishedAt": "2026-11-11T14:16:15+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335007292/rectangle_large_type_2_1acc2a1675fe3274a6f325691dd70027.jpg?width=800",
-          "summary": "「AIに質問する時代」から「AIに仕事を任せる時代」へ。 最近、Instagramを開いていると「Muse from Meta」というアプリを見かけることがあります。 実はこれ、InstagramやFacebookを運営するMetaが開発した、新しいAIサービスです。 2026年10月23日、日本でも提供が開始されました。 しかも、ただ会話するだけのAIでは…"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
+      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
       "articles": [
+        {
+          "title": "「何を話せばいいか分からない」を卒業する。会話が自然に続く人の質問の作り方",
+          "url": "https://note.com/rosy_snake7477/n/n00fb4a4cd5aa",
+          "publishedAt": "2026-11-16T22:09:39+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337055496/rectangle_large_type_2_3754c54508a2bb0242b89bac2de4bb7c.jpg?width=800",
+          "summary": "初対面の人と話すとき、何を話せばいいか分からなくなる。 頑張って質問しても、相手の返事が短くて会話が終わってしまう。 そんな経験はありませんか？ 実は、会話を続けるために新しい話題を次々と用意する必要はありません。 相手がすでに話したことの中から、次の質問を作る方法があります。 今回は、仕事でも日常でも使える「質問の作り方」を紹介します。 ■ ① 会話が続か…"
+        },
         {
           "title": "なぜか人に好かれる人は、話し上手ではなく「聞き方」が違う。今日から使える5つの会話術",
           "url": "https://note.com/rosy_snake7477/n/n6d7b98af157e",
@@ -357,13 +364,6 @@
           "publishedAt": "2026-10-27T22:05:05+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/329312913/rectangle_large_type_2_c84d70e40275676fba4c7ce4c85a283e.jpg?width=800",
           "summary": "「みんな使ってるから安心」 「口コミが多いから間違いない」 「ランキング1位なら大丈夫」 僕たちは普段、こんな理由で物事を選ぶことがあります。 もちろん、多くの人が選んでいることには、それなりの理由があるかもしれません。 でも、ひとつ考えてみたいことがあります。 みんなが選んでいることと、自分にとって正しいことは、本当に同じなのでしょうか？ 今日は、知ってい…"
-        },
-        {
-          "title": "やさしく、賢く、強く。｜はじめまして、真実です。",
-          "url": "https://note.com/rosy_snake7477/n/nec2538768e96",
-          "publishedAt": "2026-10-26T23:44:34+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/328966098/rectangle_large_type_2_d25677d8abb1cf05613e1cd5cd8c84ed.jpg?width=800",
-          "summary": "同じことを伝えているのに、言い方ひとつで相手の反応が変わる。 断りたいのに断れない人がいる一方で、自分の意思を自然に伝えられる人もいる。 そんな違いを見て、思うことがあります。 「これをもっと早く知っていたら、少し生きやすかったかもしれない。」 はじめまして、真実（まこと）です。 このnoteでは、人の心理や言葉の伝え方、世の中の仕組みから、一生使える知恵を…"
         }
       ],
       "status": "ok"
@@ -371,8 +371,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
+      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
       "articles": [
+        {
+          "title": "筋トレを頑張っているのに体が変わらない人へ。努力を結果につなげる5つの確認ポイント",
+          "url": "https://note.com/brave_violet386/n/nbd48fea7eef5",
+          "publishedAt": "2026-11-16T22:10:53+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337055794/rectangle_large_type_2_53273228056e7829f45dc87397fce4eb.jpg?width=800",
+          "summary": "週に何度もジムに通っている。 トレーニング後は筋肉痛になる。 それなのに、鏡を見てもあまり変化が分からない。 そんな悩みはありませんか？ 筋トレの成果が感じられないと、もっと重量を増やすべきなのか、回数を増やすべきなのか迷いますよね。 しかし、やみくもに運動量を増やす前に確認したいことがあります。 今回は、筋トレの成果が停滞していると感じたときに見直したい5…"
+        },
         {
           "title": "筋トレを頑張っているのに体が変わらない人へ。見落としがちな5つの習慣",
           "url": "https://note.com/brave_violet386/n/neda101105fb7",
@@ -540,13 +547,6 @@
           "publishedAt": "2026-11-05T22:11:25+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/332717457/rectangle_large_type_2_ce206b05e9859fca674d6f7ab24293ca.jpg?width=800",
           "summary": "男磨きと聞いて、何を思い浮かべますか？ 筋トレ、スキンケア、髪型、ファッション。 もちろん、どれも大切です。 でも、もっと簡単に始められることがあります。 それが、爪を整えることです。 高い美容用品も、特別な技術も必要ありません。 爪切りがあれば、今日から始められます。 今回は、たった3分で取り組める爪のケアを紹介します。 ーーーー 1．なぜ男磨きに爪が大切…"
-        },
-        {
-          "title": "お腹の脂肪を落とす食生活。何を食べるかで身体は変わる【完全解説】",
-          "url": "https://note.com/brave_violet386/n/n505f4ced35f8",
-          "publishedAt": "2026-11-05T03:52:31+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332434015/rectangle_large_type_2_7a3e5aecb5de9d653882a02acaa32282.jpg?width=800",
-          "summary": "お腹の脂肪を落としたい。 そう思ったとき、まず何をするだろうか。 ご飯を減らす？ 夜だけ食べない？ 炭水化物を抜く？ 実は、どれも必ずしも正解ではない。 お腹の脂肪を減らすために大切なのは、食べないことではなく、食べ方を整えること。 そして、筋肉を残しながら身体を引き締めたいなら、さらに意識したいことがある。 今回は、科学的な根拠をもとに、今日から実践できる…"
         }
       ],
       "status": "ok"
@@ -554,8 +554,15 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-16T19:18:46.759093+00:00",
+      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
       "articles": [
+        {
+          "title": "節約してもお金が残らない人へ。固定費を年間で考えるだけで見えてくる無駄な支出",
+          "url": "https://note.com/shinjitsu_saigen/n/n596d3375bcd8",
+          "publishedAt": "2026-11-16T22:11:41+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337056057/rectangle_large_type_2_1a18578d23baf6553c904e8078ffed11.jpg?width=800",
+          "summary": "毎月、節約を頑張っている。 外食を減らして、安い商品を探している。 それでも月末になるとお金が残らない。 そんな悩みはありませんか？ 実は、節約で最初に確認したいのは、日々の買い物だけではありません。 毎月自動的に引き落とされる固定費です。 今回は、固定費を「年間の支出」で考える方法を紹介します。 ■ ① 月額料金だけで判断していませんか？ 例えば、月額98…"
+        },
         {
           "title": "節約しているのにお金が残らない人へ。まず見直したい5つの固定費",
           "url": "https://note.com/shinjitsu_saigen/n/nca1d1925034a",
@@ -723,13 +730,6 @@
           "publishedAt": "2026-11-12T01:44:17+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335120739/rectangle_large_type_2_8ae84f7c243db992ab4385ab4d6e62bf.jpg?width=800",
           "summary": "「あと500円あれば、今日の買い物が少し楽になるのに」 「お金を使わずに、少しでも生活を豊かにしたい」 そんな人に知ってほしいサービスがあります。 それが、無料で始められるポイントサイト「モッピー」です。 実はモッピーで貯めたポイントは、銀行口座への振込などを通じて現金に交換できます。 しかも、無料で取り組める案件もあります。 今回は初心者でも分かるように、…"
-        },
-        {
-          "title": "お得・制度｜節約が苦手な人ほど、最初に見直すべきは食費じゃない。",
-          "url": "https://note.com/shinjitsu_saigen/n/nf89747b2ab1f",
-          "publishedAt": "2026-11-11T23:49:16+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335084671/rectangle_large_type_2_aada99da98cc0fdf0b4fd9e2e0cb8c05.jpg?width=800",
-          "summary": "「今月こそ節約しよう」 そう決めて、コンビニを我慢する。 外食を減らす。 スーパーで少しでも安い商品を探す。 もちろん、それも大切です。 でも、もっと先に確認したいものがあります。 それは、毎月何もしなくても出ていくお金です。 ーーーー 100円の節約より、毎月500円の見直し 例えば、月額500円のサービス。 使っていないのに契約したままだとします。 1年…"
         }
       ],
       "status": "ok"
