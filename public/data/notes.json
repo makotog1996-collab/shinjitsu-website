@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-17T19:24:22.377104+00:00",
+  "checkedAt": "2026-11-18T19:18:19.926448+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
+      "fetchedAt": "2026-11-18T19:18:19.926448+00:00",
       "articles": [
+        {
+          "title": "ChatGPTを使っているのに仕事が終わらない人へ。AIに仕事を任せる前に知っておきたい5つのコツ",
+          "url": "https://note.com/crisp_auk8183/n/n6735b6c34a3b",
+          "publishedAt": "2026-11-17T22:11:48+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337456769/rectangle_large_type_2_ca656bbcaf018cc2136f4b6c6a1ea85b.jpg?width=800",
+          "summary": "ChatGPTを使っているのに、思ったほど仕事が速くならない。 文章を作ってもらっても、結局自分で修正している。 AIに質問する時間ばかり増えて、肝心の作業が進まない。 そんな経験はありませんか？ AIは便利な道具ですが、ただ使えば自動的に生産性が上がるわけではありません。 重要なのは、AIに何を任せるか、どのように指示するかです。 今回は、ChatGPTを…"
+        },
         {
           "title": "YouTubeをAIで文字起こしした人へ。その文章、本当に正しいですか？無料AIを使いこなすための確認術",
           "url": "https://note.com/crisp_auk8183/n/n4713f369bf6a",
@@ -174,13 +181,6 @@
           "publishedAt": "2026-11-11T23:45:54+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335083711/rectangle_large_type_2_a430f610a74b433a2147725d344b921b.jpg?width=800",
           "summary": "ChatGPTを毎日使っている。 でも、使い方を振り返ると「質問して、答えをもらって終わり」になっていませんか？ 実は僕も、AIを使い始めてから気づいたことがあります。 それは、ChatGPTの本当の魅力は「答えてくれること」だけではないということ。 ーーーー ChatGPTは検索の代わりで終わらせるにはもったいない 例えば、こんな使い方。 「今日やることを…"
-        },
-        {
-          "title": "【Adobeが発表】動画編集は「AIに指示するだけ」の時代へ？最新機能が想像以上だった",
-          "url": "https://note.com/crisp_auk8183/n/n4e20ed55e2a5",
-          "publishedAt": "2026-11-11T21:59:41+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335051535/rectangle_large_type_2_c5d1cdb2426c521cf31abbb968bed86c.jpg?width=800",
-          "summary": "「この動画、30秒にまとめて」 「見どころだけ抜き出して」 「字幕をつけて、縦型動画にして」 もし、こんな指示をAIに伝えるだけで動画編集が進むとしたら、どうでしょうか。 実は2026年11月10日、Adobeがそんな未来を現実に近づける新機能を発表しました。 しかも、単なる動画の自動生成ではありません。 AIが動画編集ソフトの中で、実際の編集作業を手伝って…"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
+      "fetchedAt": "2026-11-18T19:18:19.926448+00:00",
       "articles": [
+        {
+          "title": "苦手な上司と話すのが怖い人へ。緊張しても伝わる話し方の5つのコツ",
+          "url": "https://note.com/rosy_snake7477/n/n36a4dd8dcbf2",
+          "publishedAt": "2026-11-17T22:12:43+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337456975/rectangle_large_type_2_b5123282fa9f2b2cc7524d2fa391868e.jpg?width=800",
+          "summary": "上司に報告するとき、緊張してしまう。 何を言われるか不安で、話しかけるのを後回しにしてしまう。 説明している途中で話がまとまらなくなり、結局何を伝えたかったのか分からなくなる。 そんな経験はありませんか？ 職場では、相手との相性にかかわらずコミュニケーションが必要になることがあります。 だからこそ、話し上手になることよりも、伝わりやすい話し方を身につけること…"
+        },
         {
           "title": "「何を話せばいいか分からない」を卒業する。会話が自然に続く人の質問の作り方",
           "url": "https://note.com/rosy_snake7477/n/n00fb4a4cd5aa",
@@ -357,13 +364,6 @@
           "publishedAt": "2026-10-28T21:40:13+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/329648431/rectangle_large_type_2_ce75abc9a3974dddbd7058fc292cf070.jpg?width=800",
           "summary": "自分軸で生きることと、自分の考えだけで生きることは違う。 昨日、仕事で話を聞く機会があった。 テーマは「自分軸と他人軸」。 その中で、特に印象に残った話がある。 自分が人生で一番頑張った経験と、他の人が考える「頑張った」は、まったく違うかもしれない。 これを聞いて、正直、自分のことだと思った。 今まで自分なりに頑張ってきたつもりだった。 でも、よく考えてみる…"
-        },
-        {
-          "title": "【知らないと損】なぜ人は「みんなが選んでいるもの」を正しいと思ってしまうのか？",
-          "url": "https://note.com/rosy_snake7477/n/n03c6273c051c",
-          "publishedAt": "2026-10-27T22:05:05+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/329312913/rectangle_large_type_2_c84d70e40275676fba4c7ce4c85a283e.jpg?width=800",
-          "summary": "「みんな使ってるから安心」 「口コミが多いから間違いない」 「ランキング1位なら大丈夫」 僕たちは普段、こんな理由で物事を選ぶことがあります。 もちろん、多くの人が選んでいることには、それなりの理由があるかもしれません。 でも、ひとつ考えてみたいことがあります。 みんなが選んでいることと、自分にとって正しいことは、本当に同じなのでしょうか？ 今日は、知ってい…"
         }
       ],
       "status": "ok"
@@ -371,8 +371,22 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
+      "fetchedAt": "2026-11-18T19:18:19.926448+00:00",
       "articles": [
+        {
+          "title": "筋トレ後のサウナは筋肉にいい？知らないと損する効果と5つの注意点",
+          "url": "https://note.com/brave_violet386/n/nebb0d75c1fc1",
+          "publishedAt": "2026-11-18T16:58:18+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337820083/rectangle_large_type_2_5a9487193ec4bc2445950f22158949ae.jpg?width=800",
+          "summary": "筋トレで追い込んだ後、サウナで汗を流す。 「疲労回復に良さそう」 「筋肉の成長にも効果がありそう」 「汗をかけば脂肪も落ちそう」 そんなイメージを持っていませんか？ 実は、筋トレとサウナには知っておきたい関係があります。 うまく取り入れればリラックスや気分転換に役立つ一方、入り方を間違えると身体に余計な負担をかけることもあります。 今回は筋肉を大きくしたい人…"
+        },
+        {
+          "title": "筋トレを頑張っているのに疲れが抜けない人へ。睡眠を見直したい5つの理由",
+          "url": "https://note.com/brave_violet386/n/n073b3981e3a5",
+          "publishedAt": "2026-11-17T22:13:36+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337457194/rectangle_large_type_2_ce208555fd1f1c6a1901a215f1b0397f.jpg?width=800",
+          "summary": "筋トレを頑張っているのに、疲れが抜けない。 昨日より重い重量を扱えるはずなのに、今日は力が出ない。 仕事が終わってからジムに行き、帰宅後はスマホを見ているうちに寝る時間が遅くなる。 そんな生活になっていませんか？ 筋肉を成長させるためには、トレーニングだけでなく、食事や回復も重要です。 そして、その回復に関わる習慣の一つが睡眠です。 今回は、筋トレをしている…"
+        },
         {
           "title": "筋トレを頑張っているのに体が変わらない人へ。努力を結果につなげる5つの確認ポイント",
           "url": "https://note.com/brave_violet386/n/nbd48fea7eef5",
@@ -533,20 +547,6 @@
           "publishedAt": "2026-11-08T13:42:20+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/333817410/rectangle_large_type_2_f7ef8c406bc8070cb9207456a26213ba.jpg?width=800",
           "summary": "「もっと見た目を良くしたい」 「第一印象を良くしたい」 「自分に自信を持ちたい」 そう思ったとき、何から始めればいいのでしょうか。 筋トレ、ファッション、スキンケア、美容室。 自分磨きにはさまざまな方法があります。 でも、最初に意識したいのが清潔感です。 清潔感は、生まれつきの顔立ちだけで決まるものではありません。 髪型、肌、服装、爪、においなど、日々の手入…"
-        },
-        {
-          "title": "【男磨き】昨日はジムへ。パーソナルトレーナーならぬパーソナルフレンドと筋トレ！",
-          "url": "https://note.com/brave_violet386/n/n7133ad7ad16e",
-          "publishedAt": "2026-11-07T01:28:53+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/333162094/rectangle_large_type_2_765d0615322d0d90fe80398c3a2c2e8a.png?width=800",
-          "summary": "昨日はジムに行ってきました！ 今回は胸を中心に、約2時間のトレーニング。 15セット、限界まで追い込んできました。 そして今回、筋トレを教えてくれたのは…… パーソナルトレーナーならぬ「パーソナルフレンド」！笑 友達にフォームやトレーニング方法を教えてもらいながら、しっかり身体を動かしました。 その結果、今日は胸と腕が筋肉痛です。 筋肉痛があるからといって、…"
-        },
-        {
-          "title": "【たった3分の男磨き】清潔感を上げたいなら、まず爪を整えよう。",
-          "url": "https://note.com/brave_violet386/n/na4a72be24cb8",
-          "publishedAt": "2026-11-05T22:11:25+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332717457/rectangle_large_type_2_ce206b05e9859fca674d6f7ab24293ca.jpg?width=800",
-          "summary": "男磨きと聞いて、何を思い浮かべますか？ 筋トレ、スキンケア、髪型、ファッション。 もちろん、どれも大切です。 でも、もっと簡単に始められることがあります。 それが、爪を整えることです。 高い美容用品も、特別な技術も必要ありません。 爪切りがあれば、今日から始められます。 今回は、たった3分で取り組める爪のケアを紹介します。 ーーーー 1．なぜ男磨きに爪が大切…"
         }
       ],
       "status": "ok"
@@ -554,8 +554,15 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-17T19:24:22.377104+00:00",
+      "fetchedAt": "2026-11-18T19:18:19.926448+00:00",
       "articles": [
+        {
+          "title": "ふるさと納税、なんとなく選んでいませんか？損を避けるために知っておきたい5つの基本",
+          "url": "https://note.com/shinjitsu_saigen/n/n9d931bf81889",
+          "publishedAt": "2026-11-17T22:14:16+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/337457365/rectangle_large_type_2_66b4958f18659770b727dfdfc1999f2a.jpg?width=800",
+          "summary": "ふるさと納税がお得だと聞いたことはある。 でも、仕組みがよく分からない。 「自己負担2,000円で返礼品がもらえる」という説明を見ても、本当にそうなのか不安になる。 そんな人もいるのではないでしょうか。 ふるさと納税は、正しく理解して利用すれば、地域を応援しながら返礼品を受け取れる制度です。 しかし、誰でも必ず得をするわけではありません。 今回は、初心者が知…"
+        },
         {
           "title": "節約してもお金が残らない人へ。固定費を年間で考えるだけで見えてくる無駄な支出",
           "url": "https://note.com/shinjitsu_saigen/n/n596d3375bcd8",
@@ -723,13 +730,6 @@
           "publishedAt": "2026-11-12T01:50:52+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335122870/rectangle_large_type_2_35cfebf87ae5e2d1f86924f98b5e5722.jpg?width=800",
           "summary": "「スマホで動画を見る時間、少しでもお得にできないかな？」 そんな人に知ってほしいのが、**TikTok Lite（ティックトックライト）**です。 普段からスマホで動画を見る人なら、一度チェックしてみる価値があります。 今回は、TikTok Liteの特徴から、紹介キャンペーンへの参加方法、注意点までわかりやすく紹介します。 ーーーー TikTok Lite…"
-        },
-        {
-          "title": "【知らないと損】スマホで貯めたポイントが現金に！無料で始めるモッピー完全ガイド",
-          "url": "https://note.com/shinjitsu_saigen/n/n79bf04f934fc",
-          "publishedAt": "2026-11-12T01:44:17+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335120739/rectangle_large_type_2_8ae84f7c243db992ab4385ab4d6e62bf.jpg?width=800",
-          "summary": "「あと500円あれば、今日の買い物が少し楽になるのに」 「お金を使わずに、少しでも生活を豊かにしたい」 そんな人に知ってほしいサービスがあります。 それが、無料で始められるポイントサイト「モッピー」です。 実はモッピーで貯めたポイントは、銀行口座への振込などを通じて現金に交換できます。 しかも、無料で取り組める案件もあります。 今回は初心者でも分かるように、…"
         }
       ],
       "status": "ok"
