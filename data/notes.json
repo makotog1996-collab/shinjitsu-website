@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-19T19:21:08.212636+00:00",
+  "checkedAt": "2026-11-20T19:23:32.405666+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-19T19:21:08.212636+00:00",
+      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
       "articles": [
+        {
+          "title": "AIに同じ質問を3回したら答えが違った。なぜ？ChatGPTを信用する前に知っておきたいこと",
+          "url": "https://note.com/crisp_auk8183/n/nb097333833af",
+          "publishedAt": "2026-11-20T13:43:01+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338567025/rectangle_large_type_2_3e3632dc7baeace0b8d2db226e80c956.png?width=800",
+          "summary": "ChatGPTに質問したら、自信満々に答えてくれた。 でも、もう一度同じ質問をしたら、さっきと違う答えが返ってきた。 「結局、どっちが正しいの？」 AIを使っていると、こんな疑問が出てくることがあります。 実はこれ、AIの仕組みを理解するうえで重要なポイントなんです。 ■ AIは正解を検索しているとは限らない ChatGPTのような生成AIは、文章の流れや質…"
+        },
         {
           "title": "ChatGPTに毎回同じ説明をしていませんか？AIを自分専用の仕事道具に変える方法",
           "url": "https://note.com/crisp_auk8183/n/n75ad42bfdaf8",
@@ -174,13 +181,6 @@
           "publishedAt": "2026-11-12T10:33:22+00:00",
           "image": "",
           "summary": "「ゲームって、自分でも作れるの？」 そう聞かれたら、少し前の僕なら「プログラミングができないと無理でしょ」と答えていたと思います。 でも今回、AIを活用して、実際に遊べる脱出ゲームを作り、インターネット上に公開することができました。 しかも、ただのゲーム画面の画像ではありません。 部屋を探索して、アイテムを見つけて、謎を解いて、脱出を目指すゲームです。 正直…"
-        },
-        {
-          "title": "【完全解説】ホームページ制作の知識ゼロでも、AIを使って自分専用サイトを公開できた話。",
-          "url": "https://note.com/crisp_auk8183/n/nd4858920f3e2",
-          "publishedAt": "2026-11-12T00:07:11+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335089926/rectangle_large_type_2_42ae1365d7b4062b4743bc77f4f48989.jpg?width=800",
-          "summary": "「自分のホームページを作ってみたい」 そう思ったことはありませんか？ でも、実際に作ろうとすると、 「プログラミングができない」 「何から始めればいいのかわからない」 「制作会社に頼むとお金がかかりそう」 こんな理由で、諦めてしまう人も多いと思います。 実は今回、僕もAIを活用して、自分専用のランディングページを作りました。 しかも、今回の公開に使った方法な…"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-19T19:21:08.212636+00:00",
+      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
       "articles": [
+        {
+          "title": "なぜか人に軽く扱われる人が、無意識にしていること。優しさと遠慮の境界線",
+          "url": "https://note.com/rosy_snake7477/n/n36831e336d49",
+          "publishedAt": "2026-11-20T13:44:48+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338567563/rectangle_large_type_2_3aac7277d85abf1c77ce79b4a4f4fcc0.png?width=800",
+          "summary": "頼まれたら断れない。 自分の意見より相手を優先する。 嫌なことを言われても笑って流してしまう。 それなのに、なぜか大切にされていない気がする。 もし思い当たるなら、今回の話は少し役に立つかもしれません。 最初に伝えたいのは、優しいこと自体が問題なのではないということ。 問題になりやすいのは、自分の気持ちを伝えないまま、相手の希望だけを受け入れ続けることです。…"
+        },
         {
           "title": "相手の話を聞いているつもりなのに、なぜか会話がすれ違う人へ。理解力を高める5つの習慣",
           "url": "https://note.com/rosy_snake7477/n/nb9f43c13e542",
@@ -357,13 +364,6 @@
           "publishedAt": "2026-10-29T23:44:44+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/330022962/rectangle_large_type_2_4e55318d15b8098dbbd39bf1ef87ba34.jpg?width=800",
           "summary": "営業って、話す内容が大事だと思っていた。 もちろん、それは間違っていない。 でも最近、もう一つ大事なことに気づいた。 それが「伝える順番」。 同じ商品、同じ価格、同じメリットを説明しているのに、順番が違うだけで相手の受け取り方が変わることがある。 今回は、その仕組みを「ハイ＆ロー」という考え方から掘り下げてみたい。 ーーーーーーーーーー 1. ハイ＆ローとは…"
-        },
-        {
-          "title": "結果は才能だけで決まらない。「行動量の法則」を知ると、努力の考え方が変わる。",
-          "url": "https://note.com/rosy_snake7477/n/na14ab3394e3e",
-          "publishedAt": "2026-10-28T22:05:23+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/329653469/rectangle_large_type_2_cbccd752f5b96d0bea30ac5660135993.jpg?width=800",
-          "summary": "「頑張っているのに、なかなか結果が出ない」 「自分には才能がないのかもしれない」 「同じことを始めたのに、どうしてあの人だけ成功するんだろう？」 そんなことを考えた経験はありませんか？ 僕も、努力と結果の関係について考えることがあります。 そこで知っておきたいのが、平均の法則（Law of Averages） という考え方です。 簡単に言えば、1回ごとの結果…"
         }
       ],
       "status": "ok"
@@ -371,8 +371,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-19T19:21:08.212636+00:00",
+      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
       "articles": [
+        {
+          "title": "背中を鍛えているのに、先に腕が疲れる人へ。筋トレ初心者が見落とす「握力」の問題",
+          "url": "https://note.com/brave_violet386/n/nbc431689ad20",
+          "publishedAt": "2026-11-20T13:46:52+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338568350/rectangle_large_type_2_3367fa3182218565b02a1e0ff4d2706d.png?width=800",
+          "summary": "背中のトレーニングをしているのに、なぜか腕ばかり疲れる。 ラットプルダウンをしても、背中に効いている感覚が少ない。 ダンベルを持つ手が先に限界になる。 こんな経験はありませんか？ もしかすると、背中の筋肉が限界になる前に、握る力が限界になっているのかもしれません。 今回は、筋トレ初心者が見落としやすい「握力」とトレーニングの関係を解説します。 ■ 背中のトレ…"
+        },
         {
           "title": "自分磨きが三日坊主で終わる人へ。やる気に頼らず習慣を続ける5つの方法",
           "url": "https://note.com/brave_violet386/n/n31fa95021c37",
@@ -540,13 +547,6 @@
           "publishedAt": "2026-11-09T08:07:27+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/334095867/rectangle_large_type_2_da2caa6d086bf93db5af58cb31b13510.jpg?width=800",
           "summary": "世の中には、不思議と人が集まる男性がいる。 特別にイケメンなわけでもない。 誰よりもお金を持っているわけでもない。 声が大きいわけでも、周囲を威圧しているわけでもない。 それなのに、困ったときには頼られ、重要な場面では意見を求められる。 「あの人が言うなら、一度やってみよう」 「何かあったら、あの人に相談したい」 そんなふうに思われる男性だ。 一方で、能力が…"
-        },
-        {
-          "title": "筋トレで変わるのは体だけじゃない。男磨きにつながる7つのメリットを完全解説",
-          "url": "https://note.com/brave_violet386/n/n3e5db9ee1b3e",
-          "publishedAt": "2026-11-09T04:10:13+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334015158/rectangle_large_type_2_5bc0581c62406878a3a827d768e2c33d.jpg?width=800",
-          "summary": "「筋トレって、結局は筋肉を大きくするためのものでしょ？」 以前はそんなイメージを持っていました。 でも、筋トレについて調べていくと、見た目以外にもさまざまなメリットがあることがわかります。 健康、メンタル、自信、そして将来の身体。 実は、筋トレは単なる趣味ではなく、自分自身への長期的な投資とも考えられます。 私自身もまだ筋トレを学びながら続けている途中です。…"
         }
       ],
       "status": "ok"
@@ -554,8 +554,15 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-19T19:21:08.212636+00:00",
+      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
       "articles": [
+        {
+          "title": "電気代の明細、使用量しか見ていない人へ。実は確認したい3つの料金",
+          "url": "https://note.com/shinjitsu_saigen/n/nb00046c423aa",
+          "publishedAt": "2026-11-20T13:45:51+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338567991/rectangle_large_type_2_7ec6d690dabb9e0ffbf1b8cdfbb5cbc4.png?width=800",
+          "summary": "電気代が高くなった。 だから、電気を使いすぎたと思った。 でも、本当にそれだけが原因なのでしょうか？ 実は、電気料金は使用量だけで決まるわけではありません。 契約内容や料金の調整項目によっても、請求額は変わります。 今回は、電気料金の明細で確認したい3つのポイントを紹介します。 ■ ① 基本料金・最低料金 電気料金には、契約に応じた基本料金や最低料金が設定さ…"
+        },
         {
           "title": "お金に困ったとき、どこに相談すればいい？知っておきたい無料相談窓口5選",
           "url": "https://note.com/shinjitsu_saigen/n/n0427c2f866e1",
@@ -723,13 +730,6 @@
           "publishedAt": "2026-11-12T08:09:52+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335237002/rectangle_large_type_2_0f7d651632cdb2b743e3e0e4600ee59e.jpg?width=800",
           "summary": "「お金があれば、もっと楽しく暮らせるのに」 そう感じる瞬間は誰にでもあると思います。 実際、お金は生活の安心や選択肢を増やしてくれる大切なものです。 ただ、生活の満足度を上げる方法が、すべてお金を使うこととは限りません。 今回は、無理な節約や我慢ではなく、日常の質を高める7つの工夫を紹介します。 ーーーー 1. 休日に知らない場所を歩く いつもの生活圏から少…"
-        },
-        {
-          "title": "生活が豊かな人が、当たり前にやっている5つの習慣",
-          "url": "https://note.com/shinjitsu_saigen/n/n4d946aa64a42",
-          "publishedAt": "2026-11-12T08:08:33+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335236547/rectangle_large_type_2_b0369f5a84ec39a3610fd10deaaa09d1.jpg?width=800",
-          "summary": "毎日忙しく働いて、帰宅して、スマホを見て寝る。 気づけば一週間が終わっている。 「このまま同じ毎日を繰り返していていいのかな？」 そんなことを考えたことはありませんか？ 生活が豊かになるというのは、単に収入が増えることではありません。 自分の時間を楽しめること。健康でいられること。大切な人と笑えること。 今回は、生活の満足度を高めるために取り入れたい5つの習…"
         }
       ],
       "status": "ok"
