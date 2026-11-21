@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-20T19:23:32.405666+00:00",
+  "checkedAt": "2026-11-21T19:09:54.768192+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
+      "fetchedAt": "2026-11-21T19:09:54.768192+00:00",
       "articles": [
+        {
+          "title": "ChatGPTを毎回ゼロから使っている人へ。実は「プロジェクト」で使い方が変わる",
+          "url": "https://note.com/crisp_auk8183/n/n2fa20af3d481",
+          "publishedAt": "2026-11-21T00:49:28+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338699076/rectangle_large_type_2_63f49f210fc33134d650041616042787.jpg?width=800",
+          "summary": "ChatGPTを使っているのに、毎回同じ説明をしていませんか？ 「私はこんな仕事をしています」 「前回の続きです」 「このルールで文章を作ってください」 便利なはずのAIなのに、毎回説明する時間がかかる。 実は、これを減らせる機能があります。 それがChatGPTの「プロジェクト」です。 ■ ① 普通のチャットと何が違う？ 通常のチャットでも過去の会話を続け…"
+        },
         {
           "title": "AIに同じ質問を3回したら答えが違った。なぜ？ChatGPTを信用する前に知っておきたいこと",
           "url": "https://note.com/crisp_auk8183/n/nb097333833af",
@@ -174,13 +181,6 @@
           "publishedAt": "2026-11-12T12:07:12+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335324399/rectangle_large_type_2_4f5f1a803bec4ba0394bb40aabd96626.jpg?width=800",
           "summary": "「AIを使えば、もう誰でも高画質なアニメが作れるんじゃないか？」 最近、そんなことを考えていました。 続きをみる"
-        },
-        {
-          "title": "「ゲームを作る」なんて自分には無理だと思っていた。でも、脱出ゲームを公開できた話。",
-          "url": "https://note.com/crisp_auk8183/n/nae65e71d38cb",
-          "publishedAt": "2026-11-12T10:33:22+00:00",
-          "image": "",
-          "summary": "「ゲームって、自分でも作れるの？」 そう聞かれたら、少し前の僕なら「プログラミングができないと無理でしょ」と答えていたと思います。 でも今回、AIを活用して、実際に遊べる脱出ゲームを作り、インターネット上に公開することができました。 しかも、ただのゲーム画面の画像ではありません。 部屋を探索して、アイテムを見つけて、謎を解いて、脱出を目指すゲームです。 正直…"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
+      "fetchedAt": "2026-11-21T19:09:54.768192+00:00",
       "articles": [
+        {
+          "title": "会話が続かない人は「質問の数」より「質問の順番」を変えてみてほしい",
+          "url": "https://note.com/rosy_snake7477/n/n082a30346169",
+          "publishedAt": "2026-11-21T00:50:18+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338699320/rectangle_large_type_2_a322edf05ca46cfddd0a8feac31ab233.jpg?width=800",
+          "summary": "「休みの日は何をしているんですか？」 「映画を見ています」 「そうなんですね。好きな食べ物は？」 こんな会話になったことはありませんか？ 質問しているのに、なぜか会話が盛り上がらない。 実は、質問の数を増やすだけでは解決しないことがあります。 大切なのは、相手の答えを次の会話につなげることです。 ■ ① 会話が続かない人の共通点 質問をすること自体が目的にな…"
+        },
         {
           "title": "なぜか人に軽く扱われる人が、無意識にしていること。優しさと遠慮の境界線",
           "url": "https://note.com/rosy_snake7477/n/n36831e336d49",
@@ -357,13 +364,6 @@
           "publishedAt": "2026-10-29T23:47:52+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/330024110/rectangle_large_type_2_b138e790c2067c289b20d95ee75bcfdf.jpg?width=800",
           "summary": "最近、習慣について考えることが増えた。 早起き、筋トレ、勉強、読書。 どれも人生に良いとわかっている。 でも、わかっていることと、実際に続けられることは全然違う。 自分も以前は「頑張って続けよう」と考えていた。 でも最近、それだけでは足りないんじゃないかと思うようになった。 本当に大切なのは、頑張り続けることではなく、頑張らなくても自然にできる状態まで持って…"
-        },
-        {
-          "title": "【営業心理学】同じ提案なのに、伝える順番で結果が変わる。「ハイ＆ロー」の正体",
-          "url": "https://note.com/rosy_snake7477/n/n5c88d05782e2",
-          "publishedAt": "2026-10-29T23:44:44+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/330022962/rectangle_large_type_2_4e55318d15b8098dbbd39bf1ef87ba34.jpg?width=800",
-          "summary": "営業って、話す内容が大事だと思っていた。 もちろん、それは間違っていない。 でも最近、もう一つ大事なことに気づいた。 それが「伝える順番」。 同じ商品、同じ価格、同じメリットを説明しているのに、順番が違うだけで相手の受け取り方が変わることがある。 今回は、その仕組みを「ハイ＆ロー」という考え方から掘り下げてみたい。 ーーーーーーーーーー 1. ハイ＆ローとは…"
         }
       ],
       "status": "ok"
@@ -371,8 +371,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
+      "fetchedAt": "2026-11-21T19:09:54.768192+00:00",
       "articles": [
+        {
+          "title": "筋トレしているのに体が変わらない。見落としがちな5つの原因",
+          "url": "https://note.com/brave_violet386/n/n33056a95f177",
+          "publishedAt": "2026-11-21T00:51:19+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338699682/rectangle_large_type_2_16027ea5238081668d25f805e05f0d06.jpg?width=800",
+          "summary": "週3回ジムに行っている。 毎回しっかり汗をかいている。 それなのに、鏡を見るとあまり変わっていない。 そんな経験はありませんか？ 実は、筋トレで大切なのは「どれだけ頑張ったか」だけではありません。 トレーニング、食事、回復。この3つがうまく組み合わさっているかが重要です。 今回は、筋トレ初心者が見落としやすい5つのポイントを紹介します。 ■ ① 重量も回数も…"
+        },
         {
           "title": "背中を鍛えているのに、先に腕が疲れる人へ。筋トレ初心者が見落とす「握力」の問題",
           "url": "https://note.com/brave_violet386/n/nbc431689ad20",
@@ -540,13 +547,6 @@
           "publishedAt": "2026-11-09T09:20:47+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/334125291/rectangle_large_type_2_356ce35dba00da3d1b9fe67e8e658d5f.jpg?width=800",
           "summary": "プロテインを買おうとしたとき、最初に迷うのが「ホエイ」と「ソイ」の違いではないでしょうか。 「筋肉をつけるならホエイ」 「痩せたいならソイ」 「ソイを飲むと男性ホルモンが減る？」 こんな話を聞いたことがある人も多いと思います。 しかし、実際にはそこまで単純ではありません。 どちらも筋肉づくりに役立ちますし、飲んだだけで痩せるプロテインもありません。 今回は、…"
-        },
-        {
-          "title": "なぜ、あの男には人がついていくのか。信頼される男に共通する10の特徴",
-          "url": "https://note.com/brave_violet386/n/n4499dee4e9cd",
-          "publishedAt": "2026-11-09T08:07:27+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334095867/rectangle_large_type_2_da2caa6d086bf93db5af58cb31b13510.jpg?width=800",
-          "summary": "世の中には、不思議と人が集まる男性がいる。 特別にイケメンなわけでもない。 誰よりもお金を持っているわけでもない。 声が大きいわけでも、周囲を威圧しているわけでもない。 それなのに、困ったときには頼られ、重要な場面では意見を求められる。 「あの人が言うなら、一度やってみよう」 「何かあったら、あの人に相談したい」 そんなふうに思われる男性だ。 一方で、能力が…"
         }
       ],
       "status": "ok"
@@ -554,8 +554,29 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-20T19:23:32.405666+00:00",
+      "fetchedAt": "2026-11-21T19:09:54.768192+00:00",
       "articles": [
+        {
+          "title": "スーパーで節約しているのに食費が減らない人へ。見直したい5つの習慣",
+          "url": "https://note.com/shinjitsu_saigen/n/n4d9fed77c0d1",
+          "publishedAt": "2026-11-21T04:22:59+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338769689/rectangle_large_type_2_b1652d1e87e668f313d89ed835aa4fb1.jpg?width=800",
+          "summary": "「安いものを選んでいるのに、なぜか食費が高い」 こんな経験はありませんか？ 実は、食費を減らすために大切なのは、安い商品を探すことだけではありません。 買い物の回数、食品ロス、まとめ買いの仕方。 こうした小さな習慣が、毎月の食費を左右します。 今回は、無理な我慢をせずに食費を見直す5つの方法を紹介します。 ■ ① 買い物に行く回数を減らす スーパーに行くたび…"
+        },
+        {
+          "title": "銀行口座を放置している人へ。知らないうちにお金が減ることがある",
+          "url": "https://note.com/shinjitsu_saigen/n/n1fdca058b82c",
+          "publishedAt": "2026-11-21T04:21:59+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338769471/rectangle_large_type_2_8c92e5f50bbfdbf40eb5761f29401f5b.jpg?width=800",
+          "summary": "昔作った銀行口座、今も使っていますか？ アルバイトの給与振込用に作った口座。 学生時代に親が作ってくれた口座。 引っ越す前に使っていた地方銀行の口座。 「残高が少し残っているけど、別にいいか」 そう思って何年も放置している人は、少し注意が必要です。 実は、銀行口座は使わずに放置していると、思わぬ手続きや手数料の対象になることがあります。 ■ ① 10年以上動…"
+        },
+        {
+          "title": "「無料だから登録」で損する人へ。サブスクの落とし穴と5つの確認方法",
+          "url": "https://note.com/shinjitsu_saigen/n/nf46a35015bca",
+          "publishedAt": "2026-11-21T00:52:00+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/338699906/rectangle_large_type_2_7c938e2046b6529f843612833fa5c976.jpg?width=800",
+          "summary": "「初月無料！」 「7日間無料でお試し！」 こんな表示を見ると、とりあえず登録してみたくなりませんか？ 無料でサービスを試せること自体は、とても便利です。 しかし、気づかないうちに有料プランへ切り替わっていたらどうでしょう。 今回は、無料期間を賢く活用するために知っておきたい5つのポイントを紹介します。 ■ ① 無料期間が終わる日を確認する 最初に確認したいの…"
+        },
         {
           "title": "電気代の明細、使用量しか見ていない人へ。実は確認したい3つの料金",
           "url": "https://note.com/shinjitsu_saigen/n/nb00046c423aa",
@@ -709,27 +730,6 @@
           "publishedAt": "2026-11-12T08:13:15+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335238058/rectangle_large_type_2_e66745e3e2068e73dd64708370c952c6.jpg?width=800",
           "summary": "仕事も頑張っている。 勉強もしている。 将来のために努力もしている。 それなのに、なぜか心が満たされない。 そんな経験はありませんか？ 向上心を持つことは素晴らしいことです。 でも、常に何かを達成し続けなければ幸せになれないと思っていると、どこまで頑張っても満足できなくなることがあります。 今回は、努力をやめるのではなく、心に余裕を持ちながら前進するための考…"
-        },
-        {
-          "title": "毎日がつまらないと感じたら。何気ない日常を楽しくする7つの工夫",
-          "url": "https://note.com/shinjitsu_saigen/n/n71b2ecb60bc1",
-          "publishedAt": "2026-11-12T08:11:52+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335237794/rectangle_large_type_2_2f4354a885d4c428d2e1016ec408acca.jpg?width=800",
-          "summary": "「最近、毎日同じことの繰り返しだな」 仕事に行って、帰って、寝る。 休日も特に予定がなく、スマホを見て終わる。 そんな日々が続くと、生活が単調に感じられることがあります。 でも、毎日を楽しくするために、大きなイベントが必要なわけではありません。 今回は、いつもの日常に少しだけ変化を加える7つの方法を紹介します。 ーーーー 1. いつもと違う道を歩く 普段通ら…"
-        },
-        {
-          "title": "1日が一瞬で終わる人へ。自分の時間を取り戻す5つの方法",
-          "url": "https://note.com/shinjitsu_saigen/n/n569b360ecf7c",
-          "publishedAt": "2026-11-12T08:10:51+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335237385/rectangle_large_type_2_97164e04c3e65263845c5cc08a3bfa22.jpg?width=800",
-          "summary": "仕事が終わって家に帰る。 少しスマホを見て、ご飯を食べて、気づけばもう寝る時間。 「今日、自分のために何かできたかな？」 そんな毎日を繰り返していませんか？ 時間は誰にとっても限られています。 だからこそ、忙しい人ほど時間の使い方を見直す価値があります。 今回は、自由時間をただ増やすのではなく、満足できる時間をつくる方法を紹介します。 ーーーー 1. 自分の…"
-        },
-        {
-          "title": "お金がなくても生活の満足度は上げられる。今日からできる7つのこと",
-          "url": "https://note.com/shinjitsu_saigen/n/n4b058e375665",
-          "publishedAt": "2026-11-12T08:09:52+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335237002/rectangle_large_type_2_0f7d651632cdb2b743e3e0e4600ee59e.jpg?width=800",
-          "summary": "「お金があれば、もっと楽しく暮らせるのに」 そう感じる瞬間は誰にでもあると思います。 実際、お金は生活の安心や選択肢を増やしてくれる大切なものです。 ただ、生活の満足度を上げる方法が、すべてお金を使うこととは限りません。 今回は、無理な節約や我慢ではなく、日常の質を高める7つの工夫を紹介します。 ーーーー 1. 休日に知らない場所を歩く いつもの生活圏から少…"
         }
       ],
       "status": "ok"
