@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-23T19:22:33.300715+00:00",
+  "checkedAt": "2026-11-24T19:21:34.695573+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-23T19:22:33.300715+00:00",
+      "fetchedAt": "2026-11-24T19:21:34.695573+00:00",
       "articles": [
+        {
+          "title": "ChatGPTの答えがイマイチなのは、AIの性能ではなく「聞き方」かもしれない。",
+          "url": "https://note.com/crisp_auk8183/n/n88d0b8bd06f3",
+          "publishedAt": "2026-11-23T22:14:03+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/339940955/rectangle_large_type_2_b30c781f9212807b73fd38fa9a2fceb3.jpg?width=800",
+          "summary": "ChatGPTを使っていて、こんな経験はありませんか？ 「なんか思っていた答えと違う」 「もっと具体的に教えてほしい」 「結局、自分で調べ直している」 AIは便利です。でも、質問の仕方によって、返ってくる答えは大きく変わります。 私がAIを使ううえで大切だと感じているのは、すごい命令文を暗記することではありません。 「自分が何をしてほしいのか」を伝えることで…"
+        },
         {
           "title": "ChatGPTを使っているのに仕事が速くならない人へ。AIへの質問は3回に分けると変わる",
           "url": "https://note.com/crisp_auk8183/n/nc64e3c67fde7",
@@ -174,13 +181,6 @@
           "publishedAt": "2026-11-13T09:13:55+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335635852/rectangle_large_type_2_19ec1873e0b52334136a60a9bf78d6d9.jpg?width=800",
           "summary": "AIで画像を生成するとき、こんな経験はありませんか？ 「もう少しポーズを変えたい」 「背景だけ変更したい」 「同じキャラクターで別の画像を作りたい」 こうした細かい調整を実現するために役立つのが、ComfyUI（コンフィユーアイ）です。 初めて画面を見ると、複雑な線や四角い箱が並んでいて難しそうに感じます。 でも、基本的な仕組みは意外とシンプルです。 ーーー…"
-        },
-        {
-          "title": "AI画像生成はここまで自由になった。Stable Diffusionとは？初心者向け完全解説",
-          "url": "https://note.com/crisp_auk8183/n/nd97efe78165e",
-          "publishedAt": "2026-11-13T09:12:35+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335635100/rectangle_large_type_2_66e23bfd4d8e4ef1da5d073a4b5c1763.jpg?width=800",
-          "summary": "「AIで画像を作れるのは知っている。でも、もっと自分の思い通りに作れないの？」 そんな人に知ってほしいのが、Stable Diffusion（ステーブル・ディフュージョン）です。 AI画像生成と聞くと、文章を入力して画像を作るだけのイメージがあるかもしれません。 しかし、Stable Diffusionを使いこなすと、画像の構図や雰囲気、キャラクターの特徴な…"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-23T19:22:33.300715+00:00",
+      "fetchedAt": "2026-11-24T19:21:34.695573+00:00",
       "articles": [
+        {
+          "title": "会話が続かない人ほど、次に何を話すか考えすぎている。相手が話したくなる5つの質問術",
+          "url": "https://note.com/rosy_snake7477/n/nd0225de7a9be",
+          "publishedAt": "2026-11-23T22:14:52+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/339941236/rectangle_large_type_2_edf7a1e8ffe21d4393c672615040125f.jpg?width=800",
+          "summary": "初対面の人と話すとき。 「何を話せばいいんだろう」 そう考えているうちに沈黙してしまう。 頑張って質問しても、 「はい」 「そうですね」 「特にないです」 こんな返事で終わってしまうこともあります。 でも、会話を続けるために、次々と新しい話題を用意する必要はありません。 大切なのは、相手が話したことを少しずつ深掘りすることです。 今回は、日常会話でも仕事でも…"
+        },
         {
           "title": "会話が続かない人ほど質問を増やしている。自然に話が広がる質問の作り方",
           "url": "https://note.com/rosy_snake7477/n/n7a16f3a1b348",
@@ -357,13 +364,6 @@
           "publishedAt": "2026-11-01T06:01:26+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/330895553/rectangle_large_type_2_a4bdcbb6e0527d2d72a9d7040073ffa3.jpg?width=800",
           "summary": "「投資って、結局何から始めたらいいの？」 これ、投資を始めようと思った人なら一度は考えたことがあると思う。 僕も最初は、株を買えばお金が増えるのか、NISAって何なのか、インデックス投資と普通の株式投資は何が違うのか、正直よくわからなかった。 調べてみると、S&P500、オルカン、ETF、配当金、複利、利回り……。 知らない言葉が次から次へと出てくる。 でも…"
-        },
-        {
-          "title": "【人生の考え方】同じ1年を過ごしても、成長する人と変わらない人。その差はどこにあるのか。",
-          "url": "https://note.com/rosy_snake7477/n/ne2c7cda4fe6d",
-          "publishedAt": "2026-11-01T00:35:50+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/330792085/rectangle_large_type_2_7654827c34d086a87429e2995ef7da99.jpg?width=800",
-          "summary": "突然ですが、こんなことを思ったことはありませんか？ 「同じことを教わっているのに、なんであの人だけ成長が早いんだろう？」 「自分だって頑張っているのに、なかなか結果が出ない」 「結局、才能がある人には勝てないのかな」 僕も、人によって成長するスピードが違うことについて考えることがあります。 でも最近、ひとつ大事なことに気づきました。 それは、 「何を経験した…"
         }
       ],
       "status": "ok"
@@ -371,8 +371,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-23T19:22:33.300715+00:00",
+      "fetchedAt": "2026-11-24T19:21:34.695573+00:00",
       "articles": [
+        {
+          "title": "筋トレしているのに体が変わらない人へ。サプリより先に見直したい食事の基本",
+          "url": "https://note.com/brave_violet386/n/nd12aa4d986c4",
+          "publishedAt": "2026-11-23T22:16:01+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/339941527/rectangle_large_type_2_c6318060d78ceea8dbd123a4c7de9c3b.jpg?width=800",
+          "summary": "筋トレを始めた人が、最初に気になること。 「プロテインって必要なの？」 「筋トレ後は何を食べればいい？」 「筋肉をつけるには、とにかくたくさん食べればいい？」 私も筋トレについて学ぶ中で、運動だけでなく食事が重要だと感じています。 筋肉を育てるためには、トレーニングによる刺激に加えて、適切な栄養と休息が欠かせません。 今回は、難しい栄養管理を始める前に知って…"
+        },
         {
           "title": "三日坊主を卒業する方法。継続できる人が作っている「最低ライン」",
           "url": "https://note.com/brave_violet386/n/nd8e8fdc77f17",
@@ -540,13 +547,6 @@
           "publishedAt": "2026-11-10T08:38:27+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/334506678/rectangle_large_type_2_055f54b6e914980fdcb92eff0c0676c0.jpg?width=800",
           "summary": "突然ですが、皆さんは身体が柔らかいですか？ 床に座って両脚を伸ばしたとき、指先がつま先まで届くでしょうか。 実は、僕自身も身体の柔軟性をもっと高めたいと思っています。 筋トレをして筋肉を鍛えることには意識が向くのに、身体を伸ばすことは意外と後回しになりがちです。 でも、調べてみるとストレッチには、ただ身体を柔らかくするだけではないメリットがありました。 今回…"
-        },
-        {
-          "title": "休日の過ごし方で差がつく。男の魅力を上げる5つの習慣",
-          "url": "https://note.com/brave_violet386/n/nf6f0cf8bc6fd",
-          "publishedAt": "2026-11-10T07:51:23+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334489766/rectangle_large_type_2_497b82919b9d7cc4969405839a306daa.jpg?width=800",
-          "summary": "休みの日、気づいたら夕方になっていた。 スマホを見て、動画を見て、なんとなく一日が終わる。 そんな経験はありませんか？ もちろん、何もしない休日も大切です。 ただ、同じ休日でも、少しだけ自分に時間を使うことで、数か月後の自分は変わってくると思います。 筋肉をつけたい。 清潔感を上げたい。 もっと自信を持ちたい。 将来はお金にも余裕を持ちたい。 そんな男性に向…"
         }
       ],
       "status": "ok"
@@ -554,8 +554,22 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-23T19:22:33.300715+00:00",
+      "fetchedAt": "2026-11-24T19:21:34.695573+00:00",
       "articles": [
+        {
+          "title": "【大阪市民必見】最大6,000円お得に！2027年のプレミアム付食事券とは？対象者・申込時期を解説",
+          "url": "https://note.com/shinjitsu_saigen/n/n2350ecc3dcee",
+          "publishedAt": "2026-11-24T13:10:44+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340265469/rectangle_large_type_2_cd1b3fcf2efbf680bd6a9fc3ecf11ed6.jpg?width=800",
+          "summary": "大阪市に住んでいる方に、ぜひ知っておいてほしいお得な情報があります。 2026年11月20日、大阪市が新たな「プレミアム付食事券」の発行に向けた補正予算案を発表しました。 なんと、5,000円で6,500円分の食事ができるという内容です。 現在公表されている案では、1人最大6,000円分もお得になる計算です。 今回は、大阪市の公式発表をもとに、制度の内容や対…"
+        },
+        {
+          "title": "家計簿が続かない人へ。節約より先にやってほしい「お金の使い方を見える化する方法」",
+          "url": "https://note.com/shinjitsu_saigen/n/na4d8d6fd0c5b",
+          "publishedAt": "2026-11-23T22:16:46+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/339941693/rectangle_large_type_2_e223a266802618ee4cb29a898d162c30.jpg?width=800",
+          "summary": "「節約しているはずなのに、お金が残らない」 「給料が入っても、気づけば残高が減っている」 「家計簿をつけようと思っても、3日で終わる」 そんな経験はありませんか？ お金を管理するというと、何でも我慢するイメージがあるかもしれません。 でも、私はそれより先に大切なことがあると思います。 それは、自分が何にお金を使っているのかを知ること。 今日は、家計簿が苦手な…"
+        },
         {
           "title": "節約するなら買い物より先にここ。毎月のお金が残らない人の固定費チェック術",
           "url": "https://note.com/shinjitsu_saigen/n/n6e7567871d3a",
@@ -716,20 +730,6 @@
           "publishedAt": "2026-11-14T10:05:26+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/336049320/rectangle_large_type_2_7841f26c93b904fbbbe57d513d32669a.jpg?width=800",
           "summary": "スーパーで買い物をして、レジで金額を見て驚いたことはありませんか？ 「そんなに買っていないのに、こんなにするの？」 食費を抑えたい。でも、毎日もやしだけ食べるような生活はしたくない。 実は、食費の見直しで大切なのは、安い商品を探し続けることだけではありません。 「買ったものを無駄にしない仕組み」をつくることです。 ■ ① 買い物に行く前に冷蔵庫の写真を撮る …"
-        },
-        {
-          "title": "食費が高すぎる人へ。我慢せずに食費を減らす「1週間の買い物ルール」",
-          "url": "https://note.com/shinjitsu_saigen/n/n623f42028c52",
-          "publishedAt": "2026-11-13T16:56:39+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335783058/rectangle_large_type_2_eeb6967c45c7f9134eb5371dd1ca3389.jpg?width=800",
-          "summary": "スーパーに行くたび、思いませんか？ 「前より食べ物が高くなっている」 同じような物を買っているはずなのに、会計金額が増えている。 節約しようと思っても、食事は毎日のこと。 安いものばかり食べて、健康を犠牲にするわけにもいきません。 そこで今回は、食べる量を無理に減らすのではなく、買い方を変えて食費を見直す方法を紹介します。 ■ 物価高で、最も負担を感じている…"
-        },
-        {
-          "title": "職場の人間関係に疲れた人へ。無理に仲良くならなくても、心を守る会話術5つ",
-          "url": "https://note.com/shinjitsu_saigen/n/n93da322b3ac2",
-          "publishedAt": "2026-11-13T16:54:04+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335782823/rectangle_large_type_2_2f597750dbbb653ef207c76148be2eee.jpg?width=800",
-          "summary": "職場に、話すだけで疲れてしまう人はいませんか？ ・いつも機嫌が悪い上司 ・言い方がきつい同僚 ・何を考えているかわからない人 ・断ると嫌な顔をしてくる人 仕事そのものより、人間関係のほうが疲れる。 そんな日もあると思います。 実際、博報堂生活総合研究所の2026年調査では、ストレスを感じる理由の1位が「職場（学校）での人間関係」で、39.8％でした。 これは…"
         }
       ],
       "status": "ok"
