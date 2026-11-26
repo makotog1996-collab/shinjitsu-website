@@ -1,12 +1,33 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-25T19:15:56.291581+00:00",
+  "checkedAt": "2026-11-26T19:23:12.751126+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-25T19:15:56.291581+00:00",
+      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
       "articles": [
+        {
+          "title": "最短で稼ごうとしていた僕が、遠回りこそ最短かもしれないと思った話",
+          "url": "https://note.com/crisp_auk8183/n/n068802b2ef97",
+          "publishedAt": "2026-11-26T13:07:24+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/341114096/rectangle_large_type_2_a01dda46bcacc29b866dbaeab3eb8b34.png?width=800",
+          "summary": "「未経験から初月30万円」 「誰でも簡単に月収100万円」 「AIを使えば、スキルがなくても稼げる」 SNSを開けば、こういった言葉が目に入ってくる。 正直、僕も何度も魅力を感じた。 できることなら早く稼ぎたいし、お金のことで悩む時間も減らしたい。自分の好きなことに時間を使い、将来の選択肢を増やしたい。 だからこそ、何か画期的な方法を見つければ、一気に人生を…"
+        },
+        {
+          "title": "AIを使い続けて気づいた、稼げる人と稼げない人の違い",
+          "url": "https://note.com/crisp_auk8183/n/n7f82b6e1835d",
+          "publishedAt": "2026-11-26T13:01:19+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/341111471/rectangle_large_type_2_d7f929d50d0c4abd82f61fe6cb9a1d92.jpg?width=800",
+          "summary": "最近、毎日のようにAIを使っている。 記事を書いたり、画像を作ったり、商品を考えたり、仕事の効率化を試したり。 使えば使うほど、できることが増えていく。 でも、その中で一つ気づいたことがある。 ■ 作れることと、売れることは違う AIを使えば、今まで自分では作れなかったものが作れる。 LINEスタンプも、記事も、デジタル商品もそうだ。 最初は、これだけ作れる…"
+        },
+        {
+          "title": "AIで稼げる人と稼げない人の決定的な違い",
+          "url": "https://note.com/crisp_auk8183/n/nf146ac702ca2",
+          "publishedAt": "2026-11-25T22:10:52+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340790181/rectangle_large_type_2_903f3dc2433b01778499b86a127c0603.jpg?width=800",
+          "summary": "同じAIを使っているのに、なぜ収益に差が生まれるのでしょうか。 その違いは、AIの使い方以前にあるのかもしれません。 ■ 商品ではなく、悩みから考える 例えば、AIで献立表を作って販売するとします。 購入者が欲しいのは、きれいな献立表ではなく、毎日の献立を考える面倒から解放されることです。 人は商品そのものだけでなく、その商品によって得られる変化にもお金を払…"
+        },
         {
           "title": "ChatGPTに答えを聞くだけの人は、AIの本当の便利さに気づいていない。",
           "url": "https://note.com/crisp_auk8183/n/n9584d19f28fe",
@@ -160,36 +181,29 @@
           "publishedAt": "2026-11-14T03:17:23+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335911521/rectangle_large_type_2_1227c0715d456a40c92a0c31a34290f5.jpg?width=800",
           "summary": "2026年11月12日、Googleが新しいAIモデル「Gemini 4 Hydrogen（ジェミニ・フォー・ハイドロジェン）」を発表しました。 しかも今回注目したいのは、有料ユーザーだけの話ではないことです。 無料ユーザーにも、新しいAIを利用できる機会が広がっています。 では、これまでのGeminiと何が違うのでしょうか？ ■ そもそもGemini 4 …"
-        },
-        {
-          "title": "ChatGPTを使っているのに、答えが浅い人へ。実は「質問の仕方」でここまで変わる",
-          "url": "https://note.com/crisp_auk8183/n/n0347d98ecc69",
-          "publishedAt": "2026-11-13T16:30:08+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335779540/rectangle_large_type_2_b22f3a37fcf0a052ccceb51177560116.jpg?width=800",
-          "summary": "ChatGPTを使ってみたけれど、思ったより普通の答えしか返ってこない。 「ネットで調べたら出てきそうなことばかり」 「結局、自分で考え直している」 そんな経験はありませんか？ 実は、ChatGPTの便利さを十分に感じられない原因の一つは、AIの性能ではなく、こちらの頼み方にあるかもしれません。 今回は、難しい専門知識なしで、今日から回答の質を変える方法を紹…"
-        },
-        {
-          "title": "ChatGPTのプラグイン、「全部許可」は危険？知らないうちの課金を防ぐために知っておきたいこと",
-          "url": "https://note.com/crisp_auk8183/n/nf69c9fbe466a",
-          "publishedAt": "2026-11-13T12:52:00+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335716653/rectangle_large_type_2_ab38b1d455aab21518f062fb8e1b6af7.jpg?width=800",
-          "summary": "ChatGPTがどんどん進化しています。 最近ではプラグインを追加することで、画像制作、動画編集、資料作成、SNS運用など、さまざまな外部サービスと連携できるようになりました。 私自身も、AIの可能性を広げたくて、いろいろなプラグインを試しています。 ただ、使っているうちに一つ気になったことがあります。 「これ、全部許可してしまって本当に大丈夫なの？」 便利…"
-        },
-        {
-          "title": "高性能パソコンがなくてもAI画像生成はできる？Cloud GPUという選択肢",
-          "url": "https://note.com/crisp_auk8183/n/n1a7d614ebf86",
-          "publishedAt": "2026-11-13T09:15:19+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335636343/rectangle_large_type_2_2866e385aa5dbc0efe3a11518dd4d53a.jpg?width=800",
-          "summary": "「Stable Diffusionを使ってみたい」 「ComfyUIにも挑戦したい」 そう思って調べてみると、気になる問題が出てきます。 それがパソコンの性能です。 本格的なAI画像生成では、高性能なGPUが必要になる場合があります。 しかし、何十万円もするパソコンを最初から購入する必要があるのでしょうか？ そこで知っておきたいのが、Cloud GPU（クラ…"
         }
       ],
       "status": "ok"
     },
     {
       "url": "https://note.com/rosy_snake7477",
-      "displayName": "真実｜会話と人間関係の処方箋",
-      "fetchedAt": "2026-11-25T19:15:56.291581+00:00",
+      "displayName": "真実｜人を動かす心理学",
+      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
       "articles": [
+        {
+          "title": "最も成功する人も、最も失敗する人も「与える人」だった。ギバーの残酷な心理学",
+          "url": "https://note.com/rosy_snake7477/n/n9d62e95feefc",
+          "publishedAt": "2026-11-26T13:18:13+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/341118050/rectangle_large_type_2_317ee32e0dac738ecdef461a16709e78.jpg?width=800",
+          "summary": "人に優しくする。 困っている人を助ける。 見返りを求めず、自分から与える。 こうした行動を続けていれば、いつか自分にも良いことが返ってくると思っていた。 しかし、最近、与えることについて少し考え方が変わった。 人に与え続けて成功する人がいる一方で、人に与え続けた結果、自分自身が苦しくなる人もいる。 この2人は、何が違うのだろうか。 心理学を学ぶ中で、非常に興…"
+        },
+        {
+          "title": "人に断られても傷つかない人は、何を考えているのか？",
+          "url": "https://note.com/rosy_snake7477/n/nfa6a6d48b5f2",
+          "publishedAt": "2026-11-25T22:12:12+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340790601/rectangle_large_type_2_daf0f7a471946cb3ac88cfbf567e36e0.jpg?width=800",
+          "summary": "友人を食事に誘って断られた。 メッセージを送ったのに返信が来ない。 そんなとき、自分が嫌われているのではないかと考えてしまうことはありませんか？ ■ 事実と解釈を分ける 「今日は行けない」と言われたとします。 事実は、今日の誘いを断られたことだけです。 しかし、人はそこに「嫌われている」「自分に魅力がない」という解釈を付け加えてしまうことがあります。 心理学…"
+        },
         {
           "title": "失敗を集められる人は、なぜ成長できるのか。",
           "url": "https://note.com/rosy_snake7477/n/nb9865ed04c08",
@@ -350,20 +364,6 @@
           "publishedAt": "2026-11-05T09:28:24+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/332543123/rectangle_large_type_2_32f1a17b3ac08845a5c1077592319036.jpg?width=800",
           "summary": "2026年11月5日、NTTドコモで大きなトラブルが相次いで発生しました。 午前1時5分ごろから、ドコモオンラインショップとMy docomoが緊急メンテナンスに入りました。 理由は、外部から不正アクセスを受けた可能性が高いと判断されたためです。 さらに午前11時18分ごろから、全国で一部の携帯電話サービスに通信障害が発生しました。 同じ日に「不正アクセス疑…"
-        },
-        {
-          "title": "【完全解説】勉強しているのに成長しない人へ。人生を変える「アウトプット」の重要性",
-          "url": "https://note.com/rosy_snake7477/n/n27bb044e55b6",
-          "publishedAt": "2026-11-04T22:53:55+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332346702/rectangle_large_type_2_e88be5ba4ac3e85bf1b70bf393c25297.jpg?width=800",
-          "summary": "本を読んでいる。 YouTubeで勉強している。 SNSで役立つ情報を集めている。 それなのに、なぜか自分が成長している実感がない。 そんな経験はありませんか？ 実は、どれだけ知識を増やしても、それを使わなければ自分の力にはなりにくい。 そこで重要になるのが「アウトプット」です。 今回は、アウトプットがなぜ大切なのか、どうすれば効率よく成長できるのかを、具体…"
-        },
-        {
-          "title": "「やる気が出たらやる」はもう卒業。行動できる人が使っている心理学",
-          "url": "https://note.com/rosy_snake7477/n/nd1c8a60dcb9a",
-          "publishedAt": "2026-11-03T22:03:28+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/331960424/rectangle_large_type_2_356dab77341c7b7acc7f839e4f1c1e11.jpg?width=800",
-          "summary": "「明日から本気出そう」 「時間ができたら始めよう」 「今日は疲れたから、また今度」 こう思った経験、ありませんか？ 自分を変えたい気持ちはある。 でも、なかなか行動に移せない。 実はこれ、単純に意志が弱いからとは限りません。 人間は、何をするか決めていても、いつ行動するかが曖昧だと、後回しにしやすいものです。 そこで今回紹介したいのが、心理学で研究されている…"
         }
       ],
       "status": "ok"
@@ -371,8 +371,36 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-25T19:15:56.291581+00:00",
+      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
       "articles": [
+        {
+          "title": "タバコを吸う人と吸わない人。体力にはどんな違いが生まれるのか？",
+          "url": "https://note.com/brave_violet386/n/n2ab4a84f091e",
+          "publishedAt": "2026-11-25T22:39:18+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340796952/rectangle_large_type_2_2f14a85d587a4d3bd784e477ba3c8992.jpg?width=800",
+          "summary": "同じ年齢でも、疲れにくい人と疲れやすい人がいる。 同じ距離を歩いても、余裕がある人と息が切れる人がいる。 この違いには、運動習慣や睡眠、食事、体質など、さまざまな要因が関係しています。 その一つが、喫煙習慣です。 今回はタバコを吸うことの良し悪しを議論するのではなく、身体の仕組みという視点から、喫煙と体力の関係について考えてみたいと思います。 ━━━━━━━…"
+        },
+        {
+          "title": "有酸素運動で人生の体力を底上げする。科学が教える疲れにくい体のつくり方",
+          "url": "https://note.com/brave_violet386/n/n26317d158da6",
+          "publishedAt": "2026-11-25T22:35:30+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340796330/rectangle_large_type_2_496f812d08ce7eab9bae4adb3d5794ee.jpg?width=800",
+          "summary": "仕事が終わる頃には、もう何もする気が起きない。 休日も疲労を回復するだけで終わってしまう。 もっと勉強したい。新しいことに挑戦したい。充実した毎日を送りたい。 そんな人にこそ知ってほしいのが、有酸素運動です。 有酸素運動と聞くと、ダイエットや脂肪燃焼をイメージする人が多いと思います。 しかし、本当の魅力はそれだけではありません。 心肺機能、エネルギー産生能力…"
+        },
+        {
+          "title": "疲れにくい体は、科学でつくる。",
+          "url": "https://note.com/brave_violet386/n/ned234f816aff",
+          "publishedAt": "2026-11-25T22:29:05+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340794259/rectangle_large_type_2_035ef2d51775569e0111e28ea75dad6e.jpg?width=800",
+          "summary": "仕事が終わると、何もする気が起きない。 勉強したい。筋トレもしたい。新しいことにも挑戦したい。 やりたいことはたくさんあるのに、体力が残っていない。 こういう経験はありませんか？ 人生を充実させるためには、時間の管理だけでなく、体力の管理も必要だと思います。 では、科学的に体力を高めるには何をすればいいのでしょうか。 今回は、研究論文や公的機関の情報をもとに…"
+        },
+        {
+          "title": "努力しているのに報われない人が、見落としていること",
+          "url": "https://note.com/brave_violet386/n/n6cef3d30bfc1",
+          "publishedAt": "2026-11-25T22:12:50+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340790736/rectangle_large_type_2_f58d255209c440b4dad0d21e86a913b4.jpg?width=800",
+          "summary": "毎日英語を勉強しているのに話せない。 読書を続けているのに人生が変わらない。 努力しているのに、結果が出ない時期は苦しいものです。 しかし、結果が出ないことと、成長していないことは同じではありません。 ■ 成長には時間差がある 植物の種をまいて、毎日水を与える。 翌日に花が咲かないからといって、種を掘り返してしまえば成長を妨げることになります。 人間の成長に…"
+        },
         {
           "title": "筋トレを頑張っているのに体が変わらない人へ。努力を無駄にしない5つの習慣。",
           "url": "https://note.com/brave_violet386/n/nf4c01cc9c13c",
@@ -519,34 +547,6 @@
           "publishedAt": "2026-11-12T03:25:12+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335153785/rectangle_large_type_2_d8e57a419ff8e043c27df783a0c44243.jpg?width=800",
           "summary": "【PR】この記事には楽天アフィリエイト広告が含まれています。紹介商品は実際に使用したものではなく、メーカーの公開情報をもとに紹介しています。 朝、鏡の前でスーツを確認したとき。 肩や胸元にホコリがついていて、気になったことはありませんか？ 髪型を整えて、靴をきれいにしていても、スーツにホコリが目立つと、なんとなく清潔感が損なわれて見えることがあります。 特に…"
-        },
-        {
-          "title": "MIGAKU｜イケメンじゃないのに、なぜか清潔感がある男の共通点。",
-          "url": "https://note.com/brave_violet386/n/n95874f2d1c82",
-          "publishedAt": "2026-11-11T23:48:27+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335084244/rectangle_large_type_2_f58e869e54cbffafa39f92428a9bd931.jpg?width=800",
-          "summary": "顔が整っているわけではない。 高級な服を着ているわけでもない。 それなのに、なぜか清潔感がある男性。 反対に、毎日お風呂に入っていても、なんとなく疲れた印象に見えてしまう人もいます。 この違いは何でしょうか。 実は「清潔であること」と「清潔感が伝わること」は、必ずしも同じではありません。 ーーーー 清潔感は、細かい部分に表れる まず見直したいのは、この5つで…"
-        },
-        {
-          "title": "男磨きは眉毛から。初心者が5分でできる整え方と道具の選び方",
-          "url": "https://note.com/brave_violet386/n/n9d1109cf8e61",
-          "publishedAt": "2026-11-11T14:56:07+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335019608/rectangle_large_type_2_c68f287c9523029620606439edacb852.jpg?width=800",
-          "summary": "【PR】この記事にはアフィリエイト広告が含まれています。 「清潔感を出したいけれど、何から始めたらいいか分からない」 そんな男性に、まず見直してほしいのが眉毛です。 筋トレ、スキンケア、ファッション、髪型。 男磨きにはいろいろあるけれど、全部を一度に始める必要はありません。 まずは鏡の前で5分、自分の眉毛を確認してみてください。 高価な美容アイテムを買わなく…"
-        },
-        {
-          "title": "その70kg、筋肉ですか？脂肪ですか？同じ体重でも見た目がまったく違う理由",
-          "url": "https://note.com/brave_violet386/n/n8a9adff5b8a4",
-          "publishedAt": "2026-11-11T04:38:10+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334810951/rectangle_large_type_2_1861d34e82787bf2607c03f7a72ff866.jpg?width=800",
-          "summary": "「体重さえ落とせば、かっこいい身体になれる」 そう思っていませんか？ 毎朝体重計に乗って、昨日より500g増えただけで落ち込む。 逆に1kg減ったら、それだけで嬉しくなる。 でも、ここで一つ質問です。 同じ身長、同じ70kgの男性が2人いるのに、片方はぽっこりお腹、もう片方は引き締まった身体。 なぜ、こんな違いが生まれるのでしょうか？ 答えは、脂肪と筋肉の違…"
-        },
-        {
-          "title": "「疲れやすい男」を卒業する。科学から学ぶ、疲れにくい身体を作る7つの習慣",
-          "url": "https://note.com/brave_violet386/n/ne3f8667cee2b",
-          "publishedAt": "2026-11-10T23:12:07+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/334716048/rectangle_large_type_2_9fdece624972ecebb9abaaa85765f9a5.jpg?width=800",
-          "summary": "仕事から帰ると、もう何もしたくない。 筋トレをしたい。勉強もしたい。自分を磨く時間も作りたい。 でも、身体が疲れて動けない。 そんな経験はありませんか？ 僕自身、今は筋トレや生活習慣を少しずつ改善している途中です。 その中で最近、気になったことがあります。 それは「疲れにくい身体はどうすれば作れるのか？」ということ。 調べてみると、疲れにくさは単純な筋力だけ…"
         }
       ],
       "status": "ok"
@@ -554,8 +554,15 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-25T19:15:56.291581+00:00",
+      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
       "articles": [
+        {
+          "title": "お金の余裕がある人とない人では、何が違うのか？ 行動経済学から考える",
+          "url": "https://note.com/shinjitsu_saigen/n/n87f7f87fbb48",
+          "publishedAt": "2026-11-25T22:13:21+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/340790848/rectangle_large_type_2_cef094220e75098f418dbc0fc72777ac.jpg?width=800",
+          "summary": "スーパーで買い物をする二人がいます。 一人は値段ばかり気にして商品を選び、もう一人は品質や栄養にも目を向けながら商品を選びます。 経済的な余裕は、私たちの判断にも影響することがあります。 ■ 希少性が思考に与える影響 行動経済学には、希少性という考え方があります。 お金や時間などが不足すると、その不足に意識が集中しやすくなります。 目の前の問題に追われること…"
+        },
         {
           "title": "【2026年最新】インボイス制度って結局何？個人事業主・副業初心者が登録前に知っておくべきこと",
           "url": "https://note.com/shinjitsu_saigen/n/n08d9b805f112",
@@ -723,13 +730,6 @@
           "publishedAt": "2026-11-14T10:06:57+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/336049931/rectangle_large_type_2_f95030047d0348469e509bb048b448e8.jpg?width=800",
           "summary": "毎月の銀行口座やクレジットカードの明細。 あなたは全部説明できますか？ 「この980円って何だっけ？」 「無料体験で登録した気がする」 「解約したと思っていたのに請求が続いている」 そんな経験がある方に、ぜひ知ってほしいことがあります。 サブスクリプションは便利なサービスです。 しかし、使わなくなっても契約が続いていれば、料金が発生する場合があります。 ■ …"
-        },
-        {
-          "title": "スマホ代、毎月いくら払っていますか？知らないまま払い続けると損するかもしれません",
-          "url": "https://note.com/shinjitsu_saigen/n/n8b9c81056446",
-          "publishedAt": "2026-11-14T10:06:31+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/336049693/rectangle_large_type_2_cb56453ca2d44b53ed4fa1a2e4d54857.jpg?width=800",
-          "summary": "突然ですが、質問です。 あなたは今、自分のスマホ代が何円なのか正確に答えられますか？ 「だいたい7,000円くらい」 「家族とまとめているから分からない」 そんな方は、一度確認してみる価値があります。 スマホ料金は、毎月自動で支払う固定費です。 だからこそ、一度見直すだけでも長い目で見れば大きな違いにつながります。 ■ ① 最初に確認するのはデータ使用量 ス…"
         }
       ],
       "status": "ok"
