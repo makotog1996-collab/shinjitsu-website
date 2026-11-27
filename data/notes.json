@@ -1,12 +1,19 @@
 {
   "schemaVersion": 1,
-  "checkedAt": "2026-11-26T19:23:12.751126+00:00",
+  "checkedAt": "2026-11-27T19:19:15.433329+00:00",
   "notes": [
     {
       "url": "https://note.com/crisp_auk8183",
       "displayName": "真実｜AIを使い倒す人",
-      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
+      "fetchedAt": "2026-11-27T19:19:15.433329+00:00",
       "articles": [
+        {
+          "title": "AIで時間を取り戻す",
+          "url": "https://note.com/crisp_auk8183/n/n45d8f796f4d2",
+          "publishedAt": "2026-11-26T22:14:30+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/341215952/rectangle_large_type_2_030b44a98abaac06eaa0c3d2ab6ac430.jpg?width=800",
+          "summary": "AIを使って仕事を早く終わらせることも大切ですが、それ以上に大切なのは、同じ仕事を何度もやらなくていい仕組みを作ることだと思います。 ■ 効率化と自動化の違い 30分かかる仕事をAIで10分にするのが効率化。 その10分の仕事を、毎回自分がやらなくても進むようにするのが自動化です。 この違いは、長期的に考えると非常に大きいです。 ■ 毎日繰り返していることを…"
+        },
         {
           "title": "最短で稼ごうとしていた僕が、遠回りこそ最短かもしれないと思った話",
           "url": "https://note.com/crisp_auk8183/n/n068802b2ef97",
@@ -174,13 +181,6 @@
           "publishedAt": "2026-11-14T03:22:46+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335913321/rectangle_large_type_2_633c39281db376f6ce0aca1c053b94e4.png?width=800",
           "summary": "「AIに文章を作ってもらう」 今では当たり前になってきました。 でも、その先にある働き方を考えたことはありますか？ 例えば、毎日の仕事の記録を確認して、報告書をまとめ、次に対応すべき仕事まで提案してくれるAI。 そんな仕組みが、企業向けサービスの中で具体化しています。 2026年11月12日、サイボウズが新しいAI関連機能とサービス構想を発表しました。 ■ …"
-        },
-        {
-          "title": "無料AIがまた進化した。Googleの新モデル「Gemini 4 Hydrogen」で何が変わる？",
-          "url": "https://note.com/crisp_auk8183/n/nf935bc5d4cfa",
-          "publishedAt": "2026-11-14T03:17:23+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335911521/rectangle_large_type_2_1227c0715d456a40c92a0c31a34290f5.jpg?width=800",
-          "summary": "2026年11月12日、Googleが新しいAIモデル「Gemini 4 Hydrogen（ジェミニ・フォー・ハイドロジェン）」を発表しました。 しかも今回注目したいのは、有料ユーザーだけの話ではないことです。 無料ユーザーにも、新しいAIを利用できる機会が広がっています。 では、これまでのGeminiと何が違うのでしょうか？ ■ そもそもGemini 4 …"
         }
       ],
       "status": "ok"
@@ -188,8 +188,15 @@
     {
       "url": "https://note.com/rosy_snake7477",
       "displayName": "真実｜人を動かす心理学",
-      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
+      "fetchedAt": "2026-11-27T19:19:15.433329+00:00",
       "articles": [
+        {
+          "title": "向上心が強い人ほど、なぜ自分を苦しめてしまうのか。",
+          "url": "https://note.com/rosy_snake7477/n/nf783d528064e",
+          "publishedAt": "2026-11-26T22:21:58+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/341217437/rectangle_large_type_2_9f0bb9e17a9389269aeb8a9474397e16.jpg?width=800",
+          "summary": "もっと成長したい。 もっと結果を出したい。 もっと自分の可能性を広げたい。 今よりも経済的に余裕を持ち、自由な人生を送りたい。 こうした気持ちは、人生を前に進める大切な原動力です。 しかし、向上心が強い人ほど、成長しているはずなのに自分に満足できず、苦しくなってしまうことがあります。 なぜ、前に進もうとしている人が、自分自身を追い込んでしまうのでしょうか。 …"
+        },
         {
           "title": "最も成功する人も、最も失敗する人も「与える人」だった。ギバーの残酷な心理学",
           "url": "https://note.com/rosy_snake7477/n/n9d62e95feefc",
@@ -357,13 +364,6 @@
           "publishedAt": "2026-11-05T22:15:49+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/332718264/rectangle_large_type_2_3c97325b9c1b2b720bbfe490f3dfc98b.jpg?width=800",
           "summary": "同じ時間を使っているのに、結果を出す人と、なかなか結果が出ない人がいる。 同じように努力しているはずなのに、なぜ差が生まれるのだろうか。 才能の違い？ 経験の違い？ もちろん、それらも関係している。 でも、もう一つ見逃せないことがある。 それは、行動を始める前に、どれだけ動きやすい状態をつくっているか。 今回は、努力を成果につなげるための考え方について解説し…"
-        },
-        {
-          "title": "【2026年11月5日17時時点】ドコモで不正アクセス疑惑と全国規模の通信障害。何が起きた？原因・影響・対処法を完全解説",
-          "url": "https://note.com/rosy_snake7477/n/n880e526fb60e",
-          "publishedAt": "2026-11-05T09:28:24+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/332543123/rectangle_large_type_2_32f1a17b3ac08845a5c1077592319036.jpg?width=800",
-          "summary": "2026年11月5日、NTTドコモで大きなトラブルが相次いで発生しました。 午前1時5分ごろから、ドコモオンラインショップとMy docomoが緊急メンテナンスに入りました。 理由は、外部から不正アクセスを受けた可能性が高いと判断されたためです。 さらに午前11時18分ごろから、全国で一部の携帯電話サービスに通信障害が発生しました。 同じ日に「不正アクセス疑…"
         }
       ],
       "status": "ok"
@@ -371,8 +371,15 @@
     {
       "url": "https://note.com/brave_violet386",
       "displayName": "真実｜MIGAKU・30代からの男磨き",
-      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
+      "fetchedAt": "2026-11-27T19:19:15.433329+00:00",
       "articles": [
+        {
+          "title": "続ける人は仕組みを持つ",
+          "url": "https://note.com/brave_violet386/n/nb99843a6c6ec",
+          "publishedAt": "2026-11-26T22:15:37+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/341216311/rectangle_large_type_2_275352c2b13c8c34e92aec38e672aa1a.jpg?width=800",
+          "summary": "やる気がある日は、誰でも頑張れると思います。 難しいのは、疲れている日や、思うような結果が出ない日にも行動することです。 だからこそ、やる気だけに頼らない仕組みが必要になります。 ■ 行動するかどうかを毎日考えない 筋トレに行こうか迷う。 勉強しようか迷う。 本を読もうか迷う。 毎回判断していると、行動を始めるまでに時間がかかります。 あらかじめ曜日や時間を…"
+        },
         {
           "title": "タバコを吸う人と吸わない人。体力にはどんな違いが生まれるのか？",
           "url": "https://note.com/brave_violet386/n/n2ab4a84f091e",
@@ -540,13 +547,6 @@
           "publishedAt": "2026-11-12T06:56:03+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/335213919/rectangle_large_type_2_397043caa237154b238b26acad666fb6.jpg?width=800",
           "summary": "筋トレを始めると、必ずと言っていいほど耳にするサプリメントがあります。 それが「クレアチン」。 プロテインは知っていても、クレアチンについてはよく分からないという人も多いのではないでしょうか。 「飲むだけで筋肉が増える？」 「体に悪くない？」 「薄毛になるって本当？」 「初心者でも飲む意味はある？」 今回は、そんな疑問を科学的な研究をもとに整理していきます。…"
-        },
-        {
-          "title": "スーツのホコリ、手で払ってない？清潔感を保つために知っておきたい4つのこと",
-          "url": "https://note.com/brave_violet386/n/ndca19ae14bb1",
-          "publishedAt": "2026-11-12T03:25:12+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/335153785/rectangle_large_type_2_d8e57a419ff8e043c27df783a0c44243.jpg?width=800",
-          "summary": "【PR】この記事には楽天アフィリエイト広告が含まれています。紹介商品は実際に使用したものではなく、メーカーの公開情報をもとに紹介しています。 朝、鏡の前でスーツを確認したとき。 肩や胸元にホコリがついていて、気になったことはありませんか？ 髪型を整えて、靴をきれいにしていても、スーツにホコリが目立つと、なんとなく清潔感が損なわれて見えることがあります。 特に…"
         }
       ],
       "status": "ok"
@@ -554,8 +554,15 @@
     {
       "url": "https://note.com/shinjitsu_saigen",
       "displayName": "真実｜暮らしの困りごとと時短",
-      "fetchedAt": "2026-11-26T19:23:12.751126+00:00",
+      "fetchedAt": "2026-11-27T19:19:15.433329+00:00",
       "articles": [
+        {
+          "title": "節約は固定費から",
+          "url": "https://note.com/shinjitsu_saigen/n/n57274902c8ed",
+          "publishedAt": "2026-11-26T22:16:33+00:00",
+          "image": "https://assets.st-note.com/production/uploads/images/341216482/rectangle_large_type_2_6f23c8bd5b08d5fc0638302ef28c43e6.jpg?width=800",
+          "summary": "節約と聞くと、食費を削ったり、欲しいものを我慢したりするイメージがありませんか？ しかし、毎日の我慢を増やす前に、見直しておきたいものがあります。 それが固定費です。 ■ 一度の見直しが毎月の節約になる 例えば、月額1,000円の使っていないサービスを解約すると、単純計算で年間12,000円の支出が減ります。 毎月3,000円なら年間36,000円です。 一…"
+        },
         {
           "title": "お金の余裕がある人とない人では、何が違うのか？ 行動経済学から考える",
           "url": "https://note.com/shinjitsu_saigen/n/n87f7f87fbb48",
@@ -723,13 +730,6 @@
           "publishedAt": "2026-11-14T10:07:33+00:00",
           "image": "https://assets.st-note.com/production/uploads/images/336050040/rectangle_large_type_2_41292f3b877eb2b36659b3395794c89c.jpg?width=800",
           "summary": "突然の入院や手術。 体の心配だけでも大変なのに、さらに気になるのがお金のことではないでしょうか。 「もし医療費が何十万円もかかったら？」 「貯金が少ないから不安」 そんな方に知っておいてほしい制度があります。 それが「高額療養費制度」です。 ■ ① 高額療養費制度とは？ 公的医療保険に加入している方が、保険診療で高額な医療費を負担した場合に、自己負担を一定の…"
-        },
-        {
-          "title": "毎月の謎の引き落とし。その正体、使っていないサブスクかもしれません",
-          "url": "https://note.com/shinjitsu_saigen/n/n9a0d817e3411",
-          "publishedAt": "2026-11-14T10:06:57+00:00",
-          "image": "https://assets.st-note.com/production/uploads/images/336049931/rectangle_large_type_2_f95030047d0348469e509bb048b448e8.jpg?width=800",
-          "summary": "毎月の銀行口座やクレジットカードの明細。 あなたは全部説明できますか？ 「この980円って何だっけ？」 「無料体験で登録した気がする」 「解約したと思っていたのに請求が続いている」 そんな経験がある方に、ぜひ知ってほしいことがあります。 サブスクリプションは便利なサービスです。 しかし、使わなくなっても契約が続いていれば、料金が発生する場合があります。 ■ …"
         }
       ],
       "status": "ok"
